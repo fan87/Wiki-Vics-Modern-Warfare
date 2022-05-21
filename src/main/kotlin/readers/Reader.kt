@@ -87,8 +87,8 @@ object Reader {
     @OptIn(ExperimentalStdlibApi::class)
     fun getPropertyName(field: KProperty1<Any, *>): String {
 
-        val annotation = field.findAnnotations(Property::class).firstOrNull()
-        if (annotation != null) {
+        if (field.javaField!!.isAnnotationPresent(Property::class.java)) {
+            val annotation = field.javaField!!.getAnnotation(Property::class.java)
             return annotation.name
         }
         var outputName = ""

@@ -69,7 +69,15 @@ object Reader {
             if (value !is List<*>) {
                 return Pair(getPropertyName(field), "Error: Incorrect field type")
             }
-            return Pair(getPropertyName(field), "${(value as List<String>).joinToString(", ")}")
+
+            return Pair(getPropertyName(field), (value as List<String>).map { originalName ->
+                var ancherName = originalName
+                // Normalize it (if that's how you use this word)
+                ancherName = ancherName.lowercase()
+                ancherName = ancherName.replace(" ", "-")
+                ancherName = ancherName.replace(Regex("[^a-z-\\d]"), "")
+                "[`$originalName`](#$ancherName)"
+            }.joinToString(", "))
         }
         if (field.javaField!!.isAnnotationPresent(IngredientProperty::class.java)) {
             if (value !is List<*>) {
@@ -212,8 +220,12 @@ object Reader {
             return ASMUtils.getLong(buffer[currentIndex - 1])
         } else if (field.returnType.classifier == Int::class) {
             return ASMUtils.getInt(buffer[currentIndex - 1])
+        } else if (field.returnType.classifier == Boolean::class) {
+            return true
         } else if (field.returnType.classifier == String::class) {
             return ASMUtils.getString(buffer[currentIndex - 1])
+        } else if (field.returnType.classifier == FloatRange::class) {
+            return FloatRange(ASMUtils.getFloat(buffer[currentIndex - 2]), ASMUtils.getFloat(buffer[currentIndex - 1]))
         } else {
             error("Unsupported field type: " + field.returnType)
         }

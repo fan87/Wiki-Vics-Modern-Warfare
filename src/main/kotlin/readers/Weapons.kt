@@ -47,7 +47,7 @@ class Weapons(jarFile: JarFile, classes: Classes) {
                         }
                     }
                     if (!done) {
-                        System.err.println("Could not find field of " + instruction.name)
+                        System.err.println("[Weapons] Could not find field of " + instruction.name)
                     }
 
 

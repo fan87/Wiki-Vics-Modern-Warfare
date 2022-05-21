@@ -127,6 +127,180 @@ This document is unofficially generated! For more information, please check this
  -  -  - [TaurusRagingHunter](#taurusraginghunter)
  -  -  - [SL8](#sl8)
  -  -  - [M500A2](#m500a2)
+ - [Attachments](#attachments)
+ -  -  - [VectorStock](#vectorstock)
+ -  -  - [AK15HandleGuard](#ak15handleguard)
+ -  -  - [MagpulCTRStock](#magpulctrstock)
+ -  -  - [M249Stock](#m249stock)
+ -  -  - [M4GripGray](#m4gripgray)
+ -  -  - [AUGA3handguard](#auga3handguard)
+ -  -  - [SamuraiEdgeAlbertExt](#samuraiedgealbertext)
+ -  -  - [AR57Handguard](#ar57handguard)
+ -  -  - [GlockHOGUEGripTan](#glockhoguegriptan)
+ -  -  - [SamuraiEdgeBody](#samuraiedgebody)
+ -  -  - [ScarHandGuard](#scarhandguard)
+ -  -  - [M4Grip](#m4grip)
+ -  -  - [P90Terminator](#p90terminator)
+ -  -  - [AUGA2handguard](#auga2handguard)
+ -  -  - [AUGA3extGuard](#auga3extguard)
+ -  -  - [MIMP5MHandGuard](#mimp5mhandguard)
+ -  -  - [VeprDustCover](#veprdustcover)
+ -  -  - [ScarStock](#scarstock)
+ -  -  - [M191144MagSlide](#m191144magslide)
+ -  -  - [StonerHANDGUARD](#stonerhandguard)
+ -  -  - [DesertEagleBody](#deserteaglebody)
+ -  -  - [AK101HandGuard](#ak101handguard)
+ -  -  - [VectorHandguard](#vectorhandguard)
+ -  -  - [HK416Stock](#hk416stock)
+ -  -  - [LVOAVHandGuard](#lvoavhandguard)
+ -  -  - [AK101Stock](#ak101stock)
+ -  -  - [P90Swordfish](#p90swordfish)
+ -  -  - [EF88Handguard](#ef88handguard)
+ -  -  - [AUGParaConversion](#augparaconversion)
+ -  -  - [M4Receiver](#m4receiver)
+ -  -  - [M1911Body](#m1911body)
+ -  -  - [NTW20HandguardRAIL](#ntw20handguardrail)
+ -  -  - [P90DefaultKit](#p90defaultkit)
+ -  -  - [LaserPlaceholder](#laserplaceholder)
+ -  -  - [AUGDefaultKit](#augdefaultkit)
+ -  -  - [Placeholder](#placeholder)
+ -  -  - [AKMagpulHandleGuard](#akmagpulhandleguard)
+ -  -  - [AR57Receiver](#ar57receiver)
+ -  -  - [HeraArmsGrip](#heraarmsgrip)
+ -  -  - [ScarHStock](#scarhstock)
+ -  -  - [M4MagpulHandGuardTan](#m4magpulhandguardtan)
+ -  -  - [P90Placeholder](#p90placeholder)
+ -  -  - [Mk18HandGuard](#mk18handguard)
+ -  -  - [AK15DustCover](#ak15dustcover)
+ -  -  - [RPK16Handguard](#rpk16handguard)
+ -  -  - [M16StockTan](#m16stocktan)
+ -  -  - [AK47Stock](#ak47stock)
+ -  -  - [ACRHandGuard](#acrhandguard)
+ -  -  - [SamuraiEdgeSlide](#samuraiedgeslide)
+ -  -  - [M4HandGuard](#m4handguard)
+ -  -  - [MLOKHandguard](#mlokhandguard)
+ -  -  - [M1911Slide](#m1911slide)
+ -  -  - [HeraArmsStock](#heraarmsstock)
+ -  -  - [AK47HandleGuard](#ak47handleguard)
+ -  -  - [MP5A5HandGuard](#mp5a5handguard)
+ -  -  - [M4FrontSight](#m4frontsight)
+ -  -  - [MilSpecStockTan](#milspecstocktan)
+ -  -  - [MIMP5MRail](#mimp5mrail)
+ -  -  - [M38HandGuard](#m38handguard)
+ -  -  - [AKErgoGrip](#akergogrip)
+ -  -  - [HK416StockTan](#hk416stocktan)
+ -  -  - [DesertEagleLongBody](#deserteaglelongbody)
+ -  -  - [MP5A4Stock](#mp5a4stock)
+ -  -  - [Vector556Handguard](#vector556handguard)
+ -  -  - [Kar98Krail](#kar98krail)
+ -  -  - [AK101DustCover](#ak101dustcover)
+ -  -  - [GripPlaceholder](#gripplaceholder)
+ -  -  - [M60FrontSight](#m60frontsight)
+ -  -  - [M4MagpulHandGuard](#m4magpulhandguard)
+ -  -  - [AKMDustCover](#akmdustcover)
+ -  -  - [PistolPlaceholder](#pistolplaceholder)
+ -  -  - [M16HandGuard](#m16handguard)
+ -  -  - [VectorSwordfish](#vectorswordfish)
+ -  -  - [RailRiser](#railriser)
+ -  -  - [AK47Grip](#ak47grip)
+ -  -  - [MagpulCTRStockTan](#magpulctrstocktan)
+ -  -  - [RPKStock](#rpkstock)
+ -  -  - [M38FrontSight](#m38frontsight)
+ -  -  - [ACRStock](#acrstock)
+ -  -  - [MP5SDHandGuard](#mp5sdhandguard)
+ -  -  - [UTGTriRailHandGuard](#utgtrirailhandguard)
+ -  -  - [Spas12Stock](#spas12stock)
+ -  -  - [MP5A3Stock](#mp5a3stock)
+ -  -  - [MilSpecStock](#milspecstock)
+ -  -  - [ShotgunRail](#shotgunrail)
+ -  -  - [SamuraiEdgeAWBody](#samuraiedgeawbody)
+ -  -  - [M16Stock](#m16stock)
+ -  -  - [M60Rail](#m60rail)
+ -  -  - [AKMagpulHandleGuardTan](#akmagpulhandleguardtan)
+ -  -  - [DesertEagleSlide](#deserteagleslide)
+ -  -  - [VLTORReceiver](#vltorreceiver)
+ -  -  - [M4CarbineHandGuard](#m4carbinehandguard)
+ -  -  - [M4GripTan](#m4griptan)
+ -  -  - [AUGA1handguard](#auga1handguard)
+ -  -  - [M60HandGuard](#m60handguard)
+ -  -  - [MP5HOGUEGrip](#mp5hoguegrip)
+ -  -  - [MIMP5TRRail](#mimp5trrail)
+ -  -  - [AK101Grip](#ak101grip)
+ -  -  - [CollapsableMOEStock](#collapsablemoestock)
+ -  -  - [M249HandGuard](#m249handguard)
+ -  -  - [M191144MagBody](#m191144magbody)
+ -  -  - [M9A1Body](#m9a1body)
+ -  -  - [RPKDustCover](#rpkdustcover)
+ -  -  - [M4BenelliStock](#m4benellistock)
+ -  -  - [GlockHOGUEGrip](#glockhoguegrip)
+ -  -  - [MLOKExtendedHandguard](#mlokextendedhandguard)
+ -  -  - [M60E4HandGuard](#m60e4handguard)
+ -  -  - [M1014Stock](#m1014stock)
+ -  -  - [M9A1Slide](#m9a1slide)
+ -  -  - [FABDefenseMount](#fabdefensemount)
+ - [Scopes](#scopes)
+ -  -  - [Kar98Ksight](#kar98ksight)
+ -  -  - [GlockStock](#glockstock)
+ -  -  - [HP](#hp)
+ -  -  - [M1A1Grip](#m1a1grip)
+ -  -  - [EotechHybrid2](#eotechhybrid2)
+ -  -  - [MicroT1](#microt1)
+ -  -  - [VGrip](#vgrip)
+ -  -  - [SilencerEABH](#silencereabh)
+ -  -  - [Silencer9x39mm](#silencer9x39mm)
+ -  -  - [AKMIron](#akmiron)
+ -  -  - [Grip2](#grip2)
+ -  -  - [JunoGrip](#junogrip)
+ -  -  - [PSO1](#pso1)
+ -  -  - [AimpointCompM5](#aimpointcompm5)
+ -  -  - [Silencer57x38](#silencer57x38)
+ -  -  - [M32Barrel](#m32barrel)
+ -  -  - [Bipod](#bipod)
+ -  -  - [RPKBarrel](#rpkbarrel)
+ -  -  - [Silencer762x39](#silencer762x39)
+ -  -  - [AKIron](#akiron)
+ -  -  - [HolographicAlt](#holographicalt)
+ -  -  - [M2A1sight](#m2a1sight)
+ -  -  - [Silencer45ACP](#silencer45acp)
+ -  -  - [VP70Stock](#vp70stock)
+ -  -  - [SRS99Scope](#srs99scope)
+ -  -  - [Silencer12Gauge](#silencer12gauge)
+ -  -  - [AngledGrip](#angledgrip)
+ -  -  - [MA5Dcover](#ma5dcover)
+ -  -  - [F2000Scope](#f2000scope)
+ -  -  - [NightRaider](#nightraider)
+ -  -  - [DMRScope](#dmrscope)
+ -  -  - [M1928Grip](#m1928grip)
+ -  -  - [Silencer50BMG](#silencer50bmg)
+ -  -  - [Kobra](#kobra)
+ -  -  - [Laser2](#laser2)
+ -  -  - [Vortex](#vortex)
+ -  -  - [SilencerMP5](#silencermp5)
+ -  -  - [Silencer556x45](#silencer556x45)
+ -  -  - [Holographic](#holographic)
+ -  -  - [SilencerMP7](#silencermp7)
+ -  -  - [Reflex](#reflex)
+ -  -  - [ACOG](#acog)
+ -  -  - [Specter](#specter)
+ -  -  - [BR55Scope](#br55scope)
+ -  -  - [Silencer545x39](#silencer545x39)
+ -  -  - [OKP7](#okp7)
+ -  -  - [BijiaReflex](#bijiareflex)
+ -  -  - [AUGscope](#augscope)
+ -  -  - [DanWessonLaser](#danwessonlaser)
+ -  -  - [Silencer762x51](#silencer762x51)
+ -  -  - [Silencer300AACBlackout](#silencer300aacblackout)
+ -  -  - [Silencer556x39](#silencer556x39)
+ -  -  - [StubbyGrip](#stubbygrip)
+ -  -  - [Silencer9mm](#silencer9mm)
+ -  -  - [Silencer762x54](#silencer762x54)
+ -  -  - [RMR](#rmr)
+ -  -  - [AK15ironsight](#ak15ironsight)
+ -  -  - [Silencer65x39](#silencer65x39)
+ -  -  - [Laser](#laser)
+ -  -  - [M202scope](#m202scope)
+ -  -  - [Silencer357](#silencer357)
+ -  -  - [AUGgrip](#auggrip)
 
 ## Weapons
 There are currently 120 weapons that's marked as `Gun` in the game! Here's the list of them:
@@ -139,7 +313,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | APSslide, APSMag, Silencer9mm |
+| Compatible Attachment | [`APSslide`](#apsslide), [`APSMag`](#apsmag), [`Silencer9mm`](#silencer9mm) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -185,7 +359,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Extra, M1897Pump, ShotgunShell, Silencer12Gauge |
+| Compatible Attachment | [`Extra`](#extra), [`M1897Pump`](#m1897pump), [`ShotgunShell`](#shotgunshell), [`Silencer12Gauge`](#silencer12gauge) |
 | Crosshair | Unknown |
 | Recoil | 9.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -231,7 +405,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Placeholder, M82Action, M82Mag, NightRaider, ACOG, Specter, HP, Reflex, BijiaReflex, Holographic, HolographicAlt, Vortex, Kobra, MicroT1, AimpointCompM5, Bipod, M4Rail |
+| Compatible Attachment | [`Placeholder`](#placeholder), [`M82Action`](#m82action), [`M82Mag`](#m82mag), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Bipod`](#bipod), [`M4Rail`](#m4rail) |
 | Crosshair | Unknown |
 | Recoil | 9.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -277,7 +451,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | LaserProjectile |
+| Compatible Attachment | [`LaserProjectile`](#laserprojectile) |
 | Crosshair | Unknown |
 | Recoil | 13.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -323,7 +497,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Placeholder, GripPlaceholder, LaserPlaceholder, ScarHandGuard, ScarStock, ScarHStock, CollapsableMOEStock, MagpulCTRStock, MilSpecStock, HK416Stock, M4Grip, M4GripTan, M4GripGray, ScarHMag, Scar40Mag, Scar60Mag, ScarAction, AKMIron, NightRaider, ACOG, Specter, HP, Reflex, Holographic, HolographicAlt, Vortex, Kobra, MicroT1, AimpointCompM5, Grip2, StubbyGrip, JunoGrip, AngledGrip, VGrip, Bipod, Laser2, Laser, Silencer762x51 |
+| Compatible Attachment | [`Placeholder`](#placeholder), [`GripPlaceholder`](#gripplaceholder), [`LaserPlaceholder`](#laserplaceholder), [`ScarHandGuard`](#scarhandguard), [`ScarStock`](#scarstock), [`ScarHStock`](#scarhstock), [`CollapsableMOEStock`](#collapsablemoestock), [`MagpulCTRStock`](#magpulctrstock), [`MilSpecStock`](#milspecstock), [`HK416Stock`](#hk416stock), [`M4Grip`](#m4grip), [`M4GripTan`](#m4griptan), [`M4GripGray`](#m4gripgray), [`ScarHMag`](#scarhmag), [`Scar40Mag`](#scar40mag), [`Scar60Mag`](#scar60mag), [`ScarAction`](#scaraction), [`AKMIron`](#akmiron), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`JunoGrip`](#junogrip), [`AngledGrip`](#angledgrip), [`VGrip`](#vgrip), [`Bipod`](#bipod), [`Laser2`](#laser2), [`Laser`](#laser), [`Silencer762x51`](#silencer762x51) |
 | Crosshair | Unknown |
 | Recoil | 3.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -369,7 +543,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | M712action, M712Mag, Extra |
+| Compatible Attachment | [`M712action`](#m712action), [`M712Mag`](#m712mag), [`Extra`](#extra) |
 | Crosshair | Unknown |
 | Recoil | 4.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -415,7 +589,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Placeholder, GripPlaceholder, LaserPlaceholder, ScarHandGuard, ScarStock, ScarHStock, CollapsableMOEStock, MagpulCTRStock, MilSpecStock, HK416Stock, M4Grip, M4GripTan, M4GripGray, M4A1Mag, M38Mag, Stanag50, Stanag60, Stanag100, ScarAction, AKMIron, NightRaider, ACOG, Specter, HP, Reflex, Holographic, HolographicAlt, Vortex, Kobra, MicroT1, AimpointCompM5, Grip2, StubbyGrip, AngledGrip, JunoGrip, VGrip, Bipod, Laser2, Laser, Silencer556x45 |
+| Compatible Attachment | [`Placeholder`](#placeholder), [`GripPlaceholder`](#gripplaceholder), [`LaserPlaceholder`](#laserplaceholder), [`ScarHandGuard`](#scarhandguard), [`ScarStock`](#scarstock), [`ScarHStock`](#scarhstock), [`CollapsableMOEStock`](#collapsablemoestock), [`MagpulCTRStock`](#magpulctrstock), [`MilSpecStock`](#milspecstock), [`HK416Stock`](#hk416stock), [`M4Grip`](#m4grip), [`M4GripTan`](#m4griptan), [`M4GripGray`](#m4gripgray), [`M4A1Mag`](#m4a1mag), [`M38Mag`](#m38mag), [`Stanag50`](#stanag50), [`Stanag60`](#stanag60), [`Stanag100`](#stanag100), [`ScarAction`](#scaraction), [`AKMIron`](#akmiron), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`JunoGrip`](#junogrip), [`VGrip`](#vgrip), [`Bipod`](#bipod), [`Laser2`](#laser2), [`Laser`](#laser), [`Silencer556x45`](#silencer556x45) |
 | Crosshair | Unknown |
 | Recoil | 2.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -461,7 +635,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Placeholder, GripPlaceholder, M40A6Mag, M40A6BoltAction, NightRaider, ACOG, Specter, HP, Reflex, Holographic, HolographicAlt, Vortex, Kobra, MicroT1, AimpointCompM5, Bipod |
+| Compatible Attachment | [`Placeholder`](#placeholder), [`GripPlaceholder`](#gripplaceholder), [`M40A6Mag`](#m40a6mag), [`M40A6BoltAction`](#m40a6boltaction), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Bipod`](#bipod) |
 | Crosshair | Unknown |
 | Recoil | 6.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -507,7 +681,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | AKaction, KBP9A91Mag, Silencer9x39mm, Extra, OKP7, PSO1 |
+| Compatible Attachment | [`AKaction`](#akaction), [`KBP9A91Mag`](#kbp9a91mag), [`Silencer9x39mm`](#silencer9x39mm), [`Extra`](#extra), [`OKP7`](#okp7), [`PSO1`](#pso1) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -553,7 +727,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | PistolPlaceholder, DesertEagleBody, DesertEagleSlide, DesertEagleLongBody, DesertEagleMag, Laser, RMR, BijiaReflex |
+| Compatible Attachment | [`PistolPlaceholder`](#pistolplaceholder), [`DesertEagleBody`](#deserteaglebody), [`DesertEagleSlide`](#deserteagleslide), [`DesertEagleLongBody`](#deserteaglelongbody), [`DesertEagleMag`](#deserteaglemag), [`Laser`](#laser), [`RMR`](#rmr), [`BijiaReflex`](#bijiareflex) |
 | Crosshair | Unknown |
 | Recoil | 9.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -599,7 +773,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | M1014Stock, M4BenelliStock, ShotgunRail, M1014Action, ShotgunShell, Super90Pump, Extra, Reflex, Holographic, HolographicAlt, Vortex, Kobra, MicroT1, AimpointCompM5, RMR |
+| Compatible Attachment | [`M1014Stock`](#m1014stock), [`M4BenelliStock`](#m4benellistock), [`ShotgunRail`](#shotgunrail), [`M1014Action`](#m1014action), [`ShotgunShell`](#shotgunshell), [`Super90Pump`](#super90pump), [`Extra`](#extra), [`Reflex`](#reflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`RMR`](#rmr) |
 | Crosshair | Unknown |
 | Recoil | 7.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -645,7 +819,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | QuadBarrelShotgunBarrels |
+| Compatible Attachment | [`QuadBarrelShotgunBarrels`](#quadbarrelshotgunbarrels) |
 | Crosshair | Unknown |
 | Recoil | 16.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -691,7 +865,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | R870pump, M4Rail, ShotgunShell, R870part, NightRaider, ACOG, Specter, HP, Reflex, Holographic, HolographicAlt, Vortex, Kobra, MicroT1, AimpointCompM5 |
+| Compatible Attachment | [`R870pump`](#r870pump), [`M4Rail`](#m4rail), [`ShotgunShell`](#shotgunshell), [`R870part`](#r870part), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5) |
 | Crosshair | Unknown |
 | Recoil | 9.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -737,7 +911,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Placeholder, M1014Stock, M4BenelliStock, M1014Action, M4Rail, ShotgunShell, Extra |
+| Compatible Attachment | [`Placeholder`](#placeholder), [`M1014Stock`](#m1014stock), [`M4BenelliStock`](#m4benellistock), [`M1014Action`](#m1014action), [`M4Rail`](#m4rail), [`ShotgunShell`](#shotgunshell), [`Extra`](#extra) |
 | Crosshair | Unknown |
 | Recoil | 7.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -783,7 +957,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | SSG42Barrels |
+| Compatible Attachment | [`SSG42Barrels`](#ssg42barrels) |
 | Crosshair | Unknown |
 | Recoil | 9.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -829,7 +1003,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Placeholder, GripPlaceholder, LaserPlaceholder, M4A1Mag, M38Mag, JunoGrip, Stanag50, Stanag60, Stanag100, BrenAction, AKMIron, NightRaider, ACOG, Specter, HP, Reflex, BijiaReflex, Holographic, HolographicAlt, EotechHybrid2, Vortex, Kobra, MicroT1, AimpointCompM5, Grip2, StubbyGrip, VGrip, AngledGrip, Bipod, Laser2, Laser, Silencer556x45, M4Rail |
+| Compatible Attachment | [`Placeholder`](#placeholder), [`GripPlaceholder`](#gripplaceholder), [`LaserPlaceholder`](#laserplaceholder), [`M4A1Mag`](#m4a1mag), [`M38Mag`](#m38mag), [`JunoGrip`](#junogrip), [`Stanag50`](#stanag50), [`Stanag60`](#stanag60), [`Stanag100`](#stanag100), [`BrenAction`](#brenaction), [`AKMIron`](#akmiron), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`EotechHybrid2`](#eotechhybrid2), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`VGrip`](#vgrip), [`AngledGrip`](#angledgrip), [`Bipod`](#bipod), [`Laser2`](#laser2), [`Laser`](#laser), [`Silencer556x45`](#silencer556x45), [`M4Rail`](#m4rail) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -921,7 +1095,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Extra, M1GarandAction, M1GarandMag, Mk14EBRsight |
+| Compatible Attachment | [`Extra`](#extra), [`M1GarandAction`](#m1garandaction), [`M1GarandMag`](#m1garandmag), [`Mk14EBRsight`](#mk14ebrsight) |
 | Crosshair | Unknown |
 | Recoil | 3.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -967,7 +1141,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | ESA23Slide, RMR |
+| Compatible Attachment | [`ESA23Slide`](#esa23slide), [`RMR`](#rmr) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1059,7 +1233,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Spas12Stock, M1014Stock, M4BenelliStock, ShotgunRail, M1014Action, ShotgunShell, Extra, Reflex, Holographic, HolographicAlt, Vortex, Kobra, MicroT1, AimpointCompM5, RMR |
+| Compatible Attachment | [`Spas12Stock`](#spas12stock), [`M1014Stock`](#m1014stock), [`M4BenelliStock`](#m4benellistock), [`ShotgunRail`](#shotgunrail), [`M1014Action`](#m1014action), [`ShotgunShell`](#shotgunshell), [`Extra`](#extra), [`Reflex`](#reflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`RMR`](#rmr) |
 | Crosshair | Unknown |
 | Recoil | 7.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1105,7 +1279,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Volkaction, VolkMag, M4Rail, RailAlt, Extra, NightRaider, ACOG, Specter, Reflex, Holographic, Vortex, Kobra, MicroT1, Grip2, StubbyGrip, VGrip, Bipod, Laser2, Laser |
+| Compatible Attachment | [`Volkaction`](#volkaction), [`VolkMag`](#volkmag), [`M4Rail`](#m4rail), [`RailAlt`](#railalt), [`Extra`](#extra), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`Reflex`](#reflex), [`Holographic`](#holographic), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`VGrip`](#vgrip), [`Bipod`](#bipod), [`Laser2`](#laser2), [`Laser`](#laser) |
 | Crosshair | Unknown |
 | Recoil | 3.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1151,7 +1325,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | P10Slide, P10frontsight, P10Mag, Laser, Silencer9mm, RMR |
+| Compatible Attachment | [`P10Slide`](#p10slide), [`P10frontsight`](#p10frontsight), [`P10Mag`](#p10mag), [`Laser`](#laser), [`Silencer9mm`](#silencer9mm), [`RMR`](#rmr) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1197,7 +1371,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | AK47Stock, RPKStock, AK101Stock, AKMDustCover, AK47HandleGuard, AK101HandGuard, AKMagpulHandleGuard, AKMagpulHandleGuardTan, MLOKHandguard, MLOKExtendedHandguard, AK15HandleGuard, AK101DustCover, VeprDustCover, AK15DustCover, RPKDustCover, CollapsableMOEStock, MagpulCTRStock, MilSpecStock, AK47Grip, AK101Grip, AKErgoGrip, AKaction, AKpart, AKIron, RPKBarrel, AK15Mag, AK47PMAGTan, AK47Mag, AK50Mag, AK75Mag, AK100Mag, NightRaider, ACOG, MicroT1, AimpointCompM5, Specter, Reflex, BijiaReflex, Holographic, HolographicAlt, Vortex, Kobra, Extra, Bipod, Grip2, StubbyGrip, AngledGrip, VGrip, JunoGrip, Silencer762x39 |
+| Compatible Attachment | [`AK47Stock`](#ak47stock), [`RPKStock`](#rpkstock), [`AK101Stock`](#ak101stock), [`AKMDustCover`](#akmdustcover), [`AK47HandleGuard`](#ak47handleguard), [`AK101HandGuard`](#ak101handguard), [`AKMagpulHandleGuard`](#akmagpulhandleguard), [`AKMagpulHandleGuardTan`](#akmagpulhandleguardtan), [`MLOKHandguard`](#mlokhandguard), [`MLOKExtendedHandguard`](#mlokextendedhandguard), [`AK15HandleGuard`](#ak15handleguard), [`AK101DustCover`](#ak101dustcover), [`VeprDustCover`](#veprdustcover), [`AK15DustCover`](#ak15dustcover), [`RPKDustCover`](#rpkdustcover), [`CollapsableMOEStock`](#collapsablemoestock), [`MagpulCTRStock`](#magpulctrstock), [`MilSpecStock`](#milspecstock), [`AK47Grip`](#ak47grip), [`AK101Grip`](#ak101grip), [`AKErgoGrip`](#akergogrip), [`AKaction`](#akaction), [`AKpart`](#akpart), [`AKIron`](#akiron), [`RPKBarrel`](#rpkbarrel), [`AK15Mag`](#ak15mag), [`AK47PMAGTan`](#ak47pmagtan), [`AK47Mag`](#ak47mag), [`AK50Mag`](#ak50mag), [`AK75Mag`](#ak75mag), [`AK100Mag`](#ak100mag), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Specter`](#specter), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`Extra`](#extra), [`Bipod`](#bipod), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`VGrip`](#vgrip), [`JunoGrip`](#junogrip), [`Silencer762x39`](#silencer762x39) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1243,7 +1417,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | VP70slide, VP70Mag, VP70Stock |
+| Compatible Attachment | [`VP70slide`](#vp70slide), [`VP70Mag`](#vp70mag), [`VP70Stock`](#vp70stock) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1289,7 +1463,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | M392Action, M392Mag, DMRScope, NightRaider, MicroT1, Reflex, Silencer762x51 |
+| Compatible Attachment | [`M392Action`](#m392action), [`M392Mag`](#m392mag), [`DMRScope`](#dmrscope), [`NightRaider`](#nightraider), [`MicroT1`](#microt1), [`Reflex`](#reflex), [`Silencer762x51`](#silencer762x51) |
 | Crosshair | Unknown |
 | Recoil | 3.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1335,7 +1509,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | NTW20HandguardRAIL, NTW20Barrel, NTW20Action, NTW20Mag, HP |
+| Compatible Attachment | [`NTW20HandguardRAIL`](#ntw20handguardrail), [`NTW20Barrel`](#ntw20barrel), [`NTW20Action`](#ntw20action), [`NTW20Mag`](#ntw20mag), [`HP`](#hp) |
 | Crosshair | Unknown |
 | Recoil | 20.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1381,7 +1555,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | AK47Stock, AK101Stock, AKMDustCover, AK47HandleGuard, AK101HandGuard, AKMagpulHandleGuard, AKMagpulHandleGuardTan, MLOKHandguard, MLOKExtendedHandguard, AK15HandleGuard, AK101DustCover, VeprDustCover, AK15DustCover, RPKDustCover, CollapsableMOEStock, MagpulCTRStock, MilSpecStock, AK47Grip, AK101Grip, AKErgoGrip, AKaction, AKpart, AKMuzzle, AKIron, AK101Mag, AK60Mag, Silencer556x45, Extra, Bipod, Grip2, StubbyGrip, AngledGrip, VGrip, PSO1, OKP7, NightRaider, ACOG, MicroT1, AimpointCompM5, Specter, Reflex, BijiaReflex, Holographic, HolographicAlt, Vortex, Kobra |
+| Compatible Attachment | [`AK47Stock`](#ak47stock), [`AK101Stock`](#ak101stock), [`AKMDustCover`](#akmdustcover), [`AK47HandleGuard`](#ak47handleguard), [`AK101HandGuard`](#ak101handguard), [`AKMagpulHandleGuard`](#akmagpulhandleguard), [`AKMagpulHandleGuardTan`](#akmagpulhandleguardtan), [`MLOKHandguard`](#mlokhandguard), [`MLOKExtendedHandguard`](#mlokextendedhandguard), [`AK15HandleGuard`](#ak15handleguard), [`AK101DustCover`](#ak101dustcover), [`VeprDustCover`](#veprdustcover), [`AK15DustCover`](#ak15dustcover), [`RPKDustCover`](#rpkdustcover), [`CollapsableMOEStock`](#collapsablemoestock), [`MagpulCTRStock`](#magpulctrstock), [`MilSpecStock`](#milspecstock), [`AK47Grip`](#ak47grip), [`AK101Grip`](#ak101grip), [`AKErgoGrip`](#akergogrip), [`AKaction`](#akaction), [`AKpart`](#akpart), [`AKMuzzle`](#akmuzzle), [`AKIron`](#akiron), [`AK101Mag`](#ak101mag), [`AK60Mag`](#ak60mag), [`Silencer556x45`](#silencer556x45), [`Extra`](#extra), [`Bipod`](#bipod), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`VGrip`](#vgrip), [`PSO1`](#pso1), [`OKP7`](#okp7), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Specter`](#specter), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1427,7 +1601,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | PistolPlaceholder, M1911Body, M191144MagBody, M1911Slide, M191144MagSlide, M45A1Mag, M45A1Mag14, M1911_44Mag, Silencer45ACP |
+| Compatible Attachment | [`PistolPlaceholder`](#pistolplaceholder), [`M1911Body`](#m1911body), [`M191144MagBody`](#m191144magbody), [`M1911Slide`](#m1911slide), [`M191144MagSlide`](#m191144magslide), [`M45A1Mag`](#m45a1mag), [`M45A1Mag14`](#m45a1mag14), [`M1911_44Mag`](#m191144mag), [`Silencer45ACP`](#silencer45acp) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1473,7 +1647,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | MP43Edoublebarrel |
+| Compatible Attachment | [`MP43Edoublebarrel`](#mp43edoublebarrel) |
 | Crosshair | Unknown |
 | Recoil | 9.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1519,7 +1693,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Type51Mag, Type51Action |
+| Compatible Attachment | [`Type51Mag`](#type51mag), [`Type51Action`](#type51action) |
 | Crosshair | Unknown |
 | Recoil | 1.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1565,7 +1739,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Extra, M1873action |
+| Compatible Attachment | [`Extra`](#extra), [`M1873action`](#m1873action) |
 | Crosshair | Unknown |
 | Recoil | 9.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1611,7 +1785,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | UziMag, UziAction, UziRelease, UziIronSight, Extra, Silencer9mm |
+| Compatible Attachment | [`UziMag`](#uzimag), [`UziAction`](#uziaction), [`UziRelease`](#uzirelease), [`UziIronSight`](#uziironsight), [`Extra`](#extra), [`Silencer9mm`](#silencer9mm) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1657,7 +1831,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Extra, M1873action |
+| Compatible Attachment | [`Extra`](#extra), [`M1873action`](#m1873action) |
 | Crosshair | Unknown |
 | Recoil | 9.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1703,7 +1877,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | M20Action, M20Mag, MicroT1, Reflex, RMR, Silencer9mm, Laser |
+| Compatible Attachment | [`M20Action`](#m20action), [`M20Mag`](#m20mag), [`MicroT1`](#microt1), [`Reflex`](#reflex), [`RMR`](#rmr), [`Silencer9mm`](#silencer9mm), [`Laser`](#laser) |
 | Crosshair | Unknown |
 | Recoil | 1.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1749,7 +1923,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | PistolPlaceholder, M45A1slide, M45A1Mag, M45A1Mag14, Laser, Silencer45ACP, FABDefenseMount, RMR |
+| Compatible Attachment | [`PistolPlaceholder`](#pistolplaceholder), [`M45A1slide`](#m45a1slide), [`M45A1Mag`](#m45a1mag), [`M45A1Mag14`](#m45a1mag14), [`Laser`](#laser), [`Silencer45ACP`](#silencer45acp), [`FABDefenseMount`](#fabdefensemount), [`RMR`](#rmr) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1795,7 +1969,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | SRS99Action, SRS99Mag, SRS99Scope |
+| Compatible Attachment | [`SRS99Action`](#srs99action), [`SRS99Mag`](#srs99mag), [`SRS99Scope`](#srs99scope) |
 | Crosshair | Unknown |
 | Recoil | 3.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1841,7 +2015,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Placeholder, HS12Barrels, ACOG, Reflex, Holographic, HolographicAlt, Vortex, Kobra, MicroT1, AimpointCompM5, RMR, Silencer12Gauge |
+| Compatible Attachment | [`Placeholder`](#placeholder), [`HS12Barrels`](#hs12barrels), [`ACOG`](#acog), [`Reflex`](#reflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`RMR`](#rmr), [`Silencer12Gauge`](#silencer12gauge) |
 | Crosshair | Unknown |
 | Recoil | 9.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1887,7 +2061,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Grenade40mm, Placeholder, M32Barrel, CollapsableMOEStock, MagpulCTRStock, MilSpecStock, HK416Stock, MagpulCTRStockTan, MilSpecStockTan, HK416StockTan, M32Cartridge, M32Main1B, M4Rail, NightRaider, ACOG, Specter, Reflex, BijiaReflex, Holographic, HolographicAlt, EotechHybrid2, Vortex, Kobra, MicroT1, AimpointCompM5, RMR, M2A1sight, Grip2, StubbyGrip, VGrip, Bipod, Laser2, Laser |
+| Compatible Attachment | [`Grenade40mm`](#grenade40mm), [`Placeholder`](#placeholder), [`M32Barrel`](#m32barrel), [`CollapsableMOEStock`](#collapsablemoestock), [`MagpulCTRStock`](#magpulctrstock), [`MilSpecStock`](#milspecstock), [`HK416Stock`](#hk416stock), [`MagpulCTRStockTan`](#magpulctrstocktan), [`MilSpecStockTan`](#milspecstocktan), [`HK416StockTan`](#hk416stocktan), [`M32Cartridge`](#m32cartridge), [`M32Main1B`](#m32main1b), [`M4Rail`](#m4rail), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`EotechHybrid2`](#eotechhybrid2), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`RMR`](#rmr), [`M2A1sight`](#m2a1sight), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`VGrip`](#vgrip), [`Bipod`](#bipod), [`Laser2`](#laser2), [`Laser`](#laser) |
 | Crosshair | Unknown |
 | Recoil | 6.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1933,7 +2107,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | FuelCell, Chain, ChainA, ChainB |
+| Compatible Attachment | [`FuelCell`](#fuelcell), [`Chain`](#chain), [`ChainA`](#chaina), [`ChainB`](#chainb) |
 | Crosshair | Unknown |
 | Recoil | 1.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1979,7 +2153,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | SCCYCPX2Slide, SCCYCPX2Mag, M9Mag30, M9DrumMag, Silencer9mm |
+| Compatible Attachment | [`SCCYCPX2Slide`](#sccycpx2slide), [`SCCYCPX2Mag`](#sccycpx2mag), [`M9Mag30`](#m9mag30), [`M9DrumMag`](#m9drummag), [`Silencer9mm`](#silencer9mm) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2025,7 +2199,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | MP443Slide, MP443Mag, Laser, Silencer9mm |
+| Compatible Attachment | [`MP443Slide`](#mp443slide), [`MP443Mag`](#mp443mag), [`Laser`](#laser), [`Silencer9mm`](#silencer9mm) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2071,7 +2245,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Placeholder, MagnumChamber, MagnumRail, RMR, BijiaReflex |
+| Compatible Attachment | [`Placeholder`](#placeholder), [`MagnumChamber`](#magnumchamber), [`MagnumRail`](#magnumrail), [`RMR`](#rmr), [`BijiaReflex`](#bijiareflex) |
 | Crosshair | Unknown |
 | Recoil | 11.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2117,7 +2291,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Placeholder, AS50Action, AS50Mag, ACOG, Specter, HP, Reflex, BijiaReflex, Holographic, HolographicAlt, Vortex, Kobra, MicroT1, AimpointCompM5, Bipod, M4Rail |
+| Compatible Attachment | [`Placeholder`](#placeholder), [`AS50Action`](#as50action), [`AS50Mag`](#as50mag), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Bipod`](#bipod), [`M4Rail`](#m4rail) |
 | Crosshair | Unknown |
 | Recoil | 9.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2163,7 +2337,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Placeholder, GripPlaceholder, LaserPlaceholder, HoneyBadgerMag, AR15Action, Extra, AKMIron, NightRaider, ACOG, Specter, HP, Reflex, BijiaReflex, Holographic, HolographicAlt, Vortex, Kobra, MicroT1, AimpointCompM5, Grip2, StubbyGrip, AngledGrip, VGrip, Bipod, AACRail |
+| Compatible Attachment | [`Placeholder`](#placeholder), [`GripPlaceholder`](#gripplaceholder), [`LaserPlaceholder`](#laserplaceholder), [`HoneyBadgerMag`](#honeybadgermag), [`AR15Action`](#ar15action), [`Extra`](#extra), [`AKMIron`](#akmiron), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`VGrip`](#vgrip), [`Bipod`](#bipod), [`AACRail`](#aacrail) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2209,7 +2383,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | VSSVintorezAction, VSSVintorezMag, Extra, PSO1, OKP7 |
+| Compatible Attachment | [`VSSVintorezAction`](#vssvintorezaction), [`VSSVintorezMag`](#vssvintorezmag), [`Extra`](#extra), [`PSO1`](#pso1), [`OKP7`](#okp7) |
 | Crosshair | Unknown |
 | Recoil | 1.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2255,7 +2429,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Kar98Krail, Kar98Kaction, Bullet, NightRaider, ACOG, Specter, HP, Reflex, BijiaReflex, Holographic, HolographicAlt, EotechHybrid2, Vortex, Kobra, MicroT1, AimpointCompM5, RMR, Kar98Ksight, Extra |
+| Compatible Attachment | [`Kar98Krail`](#kar98krail), [`Kar98Kaction`](#kar98kaction), [`Bullet`](#bullet), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`EotechHybrid2`](#eotechhybrid2), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`RMR`](#rmr), [`Kar98Ksight`](#kar98ksight), [`Extra`](#extra) |
 | Crosshair | Unknown |
 | Recoil | 6.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2301,7 +2475,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | G43GewehrAction, G43GewehrMag, Extra |
+| Compatible Attachment | [`G43GewehrAction`](#g43gewehraction), [`G43GewehrMag`](#g43gewehrmag), [`Extra`](#extra) |
 | Crosshair | Unknown |
 | Recoil | 4.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2347,7 +2521,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | VectorHandguard, Vector556Handguard, VectorSwordfish, VectorStock, CollapsableMOEStock, MagpulCTRStock, MagpulCTRStockTan, MilSpecStock, MilSpecStockTan, HK416Stock, HK416StockTan, VectorMag, M4A1Mag, M38Mag, Stanag50, Stanag60, Stanag100, AKMIron, RailRiser, NightRaider, ACOG, Specter, Reflex, BijiaReflex, Holographic, HolographicAlt, EotechHybrid2, Vortex, Kobra, MicroT1, AimpointCompM5, RMR, Bipod, Grip2, StubbyGrip, AngledGrip, VGrip |
+| Compatible Attachment | [`VectorHandguard`](#vectorhandguard), [`Vector556Handguard`](#vector556handguard), [`VectorSwordfish`](#vectorswordfish), [`VectorStock`](#vectorstock), [`CollapsableMOEStock`](#collapsablemoestock), [`MagpulCTRStock`](#magpulctrstock), [`MagpulCTRStockTan`](#magpulctrstocktan), [`MilSpecStock`](#milspecstock), [`MilSpecStockTan`](#milspecstocktan), [`HK416Stock`](#hk416stock), [`HK416StockTan`](#hk416stocktan), [`VectorMag`](#vectormag), [`M4A1Mag`](#m4a1mag), [`M38Mag`](#m38mag), [`Stanag50`](#stanag50), [`Stanag60`](#stanag60), [`Stanag100`](#stanag100), [`AKMIron`](#akmiron), [`RailRiser`](#railriser), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`EotechHybrid2`](#eotechhybrid2), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`RMR`](#rmr), [`Bipod`](#bipod), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`VGrip`](#vgrip) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2393,7 +2567,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | MG42action, MG34latch, MG42Belt, MG42Mag, Extra |
+| Compatible Attachment | [`MG42action`](#mg42action), [`MG34latch`](#mg34latch), [`MG42Belt`](#mg42belt), [`MG42Mag`](#mg42mag), [`Extra`](#extra) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2439,7 +2613,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | MA5DAction, MA5DMag, MA5Dcover, Silencer762x51 |
+| Compatible Attachment | [`MA5DAction`](#ma5daction), [`MA5DMag`](#ma5dmag), [`MA5Dcover`](#ma5dcover), [`Silencer762x51`](#silencer762x51) |
 | Crosshair | Unknown |
 | Recoil | 1.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2485,7 +2659,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | M1928ThompsonAction, M1928Sight, M1928Mag, M1A1Mag, M1928Grip, M1A1Grip, Extra |
+| Compatible Attachment | [`M1928ThompsonAction`](#m1928thompsonaction), [`M1928Sight`](#m1928sight), [`M1928Mag`](#m1928mag), [`M1A1Mag`](#m1a1mag), [`M1928Grip`](#m1928grip), [`M1A1Grip`](#m1a1grip), [`Extra`](#extra) |
 | Crosshair | Unknown |
 | Recoil | 1.8 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2531,7 +2705,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | CSA16pump, Extra |
+| Compatible Attachment | [`CSA16pump`](#csa16pump), [`Extra`](#extra) |
 | Crosshair | Unknown |
 | Recoil | 15.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2577,7 +2751,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | M249Stock, M38FrontSight, StonerHANDGUARD, Placeholder, M249Action, StonerHATCH, StonerBELT, StonerMag, M4Rail, Extra, AKMIron, NightRaider, ACOG, Specter, Reflex, BijiaReflex, Holographic, HolographicAlt, EotechHybrid2, Vortex, Kobra, MicroT1, AimpointCompM5, Grip2, StubbyGrip, AngledGrip, VGrip, Bipod, Laser2, Laser |
+| Compatible Attachment | [`M249Stock`](#m249stock), [`M38FrontSight`](#m38frontsight), [`StonerHANDGUARD`](#stonerhandguard), [`Placeholder`](#placeholder), [`M249Action`](#m249action), [`StonerHATCH`](#stonerhatch), [`StonerBELT`](#stonerbelt), [`StonerMag`](#stonermag), [`M4Rail`](#m4rail), [`Extra`](#extra), [`AKMIron`](#akmiron), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`EotechHybrid2`](#eotechhybrid2), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`VGrip`](#vgrip), [`Bipod`](#bipod), [`Laser2`](#laser2), [`Laser`](#laser) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2623,7 +2797,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | AKMDustCover, AK101DustCover, VeprDustCover, AK15DustCover, RPKDustCover, AKaction, AKIron, AK15Mag, AK47Mag, AK47PMAGTan, AK50Mag, AK75Mag, AK100Mag, Silencer762x39, Extra, Bipod, NightRaider, ACOG, MicroT1, AimpointCompM5, Specter, Reflex, BijiaReflex, Holographic, HolographicAlt, Vortex, Kobra |
+| Compatible Attachment | [`AKMDustCover`](#akmdustcover), [`AK101DustCover`](#ak101dustcover), [`VeprDustCover`](#veprdustcover), [`AK15DustCover`](#ak15dustcover), [`RPKDustCover`](#rpkdustcover), [`AKaction`](#akaction), [`AKIron`](#akiron), [`AK15Mag`](#ak15mag), [`AK47Mag`](#ak47mag), [`AK47PMAGTan`](#ak47pmagtan), [`AK50Mag`](#ak50mag), [`AK75Mag`](#ak75mag), [`AK100Mag`](#ak100mag), [`Silencer762x39`](#silencer762x39), [`Extra`](#extra), [`Bipod`](#bipod), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Specter`](#specter), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2669,7 +2843,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | M202Rocket, M202rockets, M202scope |
+| Compatible Attachment | [`M202Rocket`](#m202rocket), [`M202rockets`](#m202rockets), [`M202scope`](#m202scope) |
 | Crosshair | Unknown |
 | Recoil | 5.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2715,7 +2889,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | P90Mag, P90TerminatorMag, P90Swordfish, M4Rail, P90Terminator, P90DefaultKit, P90Placeholder, AKMIron, NightRaider, ACOG, MicroT1, AimpointCompM5, Specter, Reflex, Holographic, HolographicAlt, EotechHybrid2, Vortex, Kobra, RMR, Grip2, StubbyGrip, VGrip, Bipod, Laser, Laser2 |
+| Compatible Attachment | [`P90Mag`](#p90mag), [`P90TerminatorMag`](#p90terminatormag), [`P90Swordfish`](#p90swordfish), [`M4Rail`](#m4rail), [`P90Terminator`](#p90terminator), [`P90DefaultKit`](#p90defaultkit), [`P90Placeholder`](#p90placeholder), [`AKMIron`](#akmiron), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Specter`](#specter), [`Reflex`](#reflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`EotechHybrid2`](#eotechhybrid2), [`Vortex`](#vortex), [`Kobra`](#kobra), [`RMR`](#rmr), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`VGrip`](#vgrip), [`Bipod`](#bipod), [`Laser`](#laser), [`Laser2`](#laser2) |
 | Crosshair | Unknown |
 | Recoil | 1.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2761,7 +2935,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | PistolPlaceholder, Glock18Cslide, Glock18CMag, GlockMag13, GlockMag50, GlockHOGUEGrip, GlockHOGUEGripTan, Laser, GlockStock, Silencer9mm, FABDefenseMount, RMR, BijiaReflex |
+| Compatible Attachment | [`PistolPlaceholder`](#pistolplaceholder), [`Glock18Cslide`](#glock18cslide), [`Glock18CMag`](#glock18cmag), [`GlockMag13`](#glockmag13), [`GlockMag50`](#glockmag50), [`GlockHOGUEGrip`](#glockhoguegrip), [`GlockHOGUEGripTan`](#glockhoguegriptan), [`Laser`](#laser), [`GlockStock`](#glockstock), [`Silencer9mm`](#silencer9mm), [`FABDefenseMount`](#fabdefensemount), [`RMR`](#rmr), [`BijiaReflex`](#bijiareflex) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2807,7 +2981,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | FrommerStopaction, FrommerSight, FrommerStopMag |
+| Compatible Attachment | [`FrommerStopaction`](#frommerstopaction), [`FrommerSight`](#frommersight), [`FrommerStopMag`](#frommerstopmag) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2853,7 +3027,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | HAR27Mag, HAR27Belt, HAR27Action |
+| Compatible Attachment | [`HAR27Mag`](#har27mag), [`HAR27Belt`](#har27belt), [`HAR27Action`](#har27action) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2899,7 +3073,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | NV4Mag, NV4Action, Extra, AKMIron, NightRaider, ACOG, Specter, HP, Reflex, Holographic, Vortex, Kobra, MicroT1, Grip2, StubbyGrip, VGrip, JunoGrip, Bipod, Laser2, Laser, Silencer556x45, M4Rail, RailAlt |
+| Compatible Attachment | [`NV4Mag`](#nv4mag), [`NV4Action`](#nv4action), [`Extra`](#extra), [`AKMIron`](#akmiron), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`Holographic`](#holographic), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`VGrip`](#vgrip), [`JunoGrip`](#junogrip), [`Bipod`](#bipod), [`Laser2`](#laser2), [`Laser`](#laser), [`Silencer556x45`](#silencer556x45), [`M4Rail`](#m4rail), [`RailAlt`](#railalt) |
 | Crosshair | Unknown |
 | Recoil | 2.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2945,7 +3119,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Placeholder, GripPlaceholder, LaserPlaceholder, ACRStock, CollapsableMOEStock, MagpulCTRStock, MilSpecStock, HK416Stock, ACRHandGuard, M4A1Mag, M38Mag, Stanag50, Stanag60, Stanag100, NightRaider, ACOG, Specter, Reflex, Holographic, HolographicAlt, BijiaReflex, Vortex, Kobra, MicroT1, AimpointCompM5, Grip2, StubbyGrip, AngledGrip, JunoGrip, VGrip, Bipod, Laser2, Laser, Silencer556x45, AKMIron, ACRRails, ACRAction |
+| Compatible Attachment | [`Placeholder`](#placeholder), [`GripPlaceholder`](#gripplaceholder), [`LaserPlaceholder`](#laserplaceholder), [`ACRStock`](#acrstock), [`CollapsableMOEStock`](#collapsablemoestock), [`MagpulCTRStock`](#magpulctrstock), [`MilSpecStock`](#milspecstock), [`HK416Stock`](#hk416stock), [`ACRHandGuard`](#acrhandguard), [`M4A1Mag`](#m4a1mag), [`M38Mag`](#m38mag), [`Stanag50`](#stanag50), [`Stanag60`](#stanag60), [`Stanag100`](#stanag100), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`Reflex`](#reflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`BijiaReflex`](#bijiareflex), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`JunoGrip`](#junogrip), [`VGrip`](#vgrip), [`Bipod`](#bipod), [`Laser2`](#laser2), [`Laser`](#laser), [`Silencer556x45`](#silencer556x45), [`AKMIron`](#akmiron), [`ACRRails`](#acrrails), [`ACRAction`](#acraction) |
 | Crosshair | Unknown |
 | Recoil | 2.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2991,7 +3165,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Placeholder, L96A1Mag, L115Bolt1, L115Bolt2, AKMIron, NightRaider, ACOG, Specter, HP, Reflex, BijiaReflex, Holographic, HolographicAlt, Vortex, Kobra, MicroT1, AimpointCompM5, Bipod, M4Rail, Bullet |
+| Compatible Attachment | [`Placeholder`](#placeholder), [`L96A1Mag`](#l96a1mag), [`L115Bolt1`](#l115bolt1), [`L115Bolt2`](#l115bolt2), [`AKMIron`](#akmiron), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Bipod`](#bipod), [`M4Rail`](#m4rail), [`Bullet`](#bullet) |
 | Crosshair | Unknown |
 | Recoil | 6.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3037,7 +3211,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Placeholder, CollapsableMOEStock, MagpulCTRStock, HeraArmsStock, MilSpecStock, HK416Stock, M16Stock, MagpulCTRStockTan, MilSpecStockTan, HK416StockTan, M16StockTan, M38FrontSight, M4FrontSight, M4HandGuard, M16HandGuard, M4MagpulHandGuard, M4MagpulHandGuardTan, M4CarbineHandGuard, Mk18HandGuard, M38HandGuard, LVOAVHandGuard, M4Receiver, VLTORReceiver, M4Grip, M4GripTan, M4GripGray, HeraArmsGrip, M38Mag, M4A1Mag, Stanag50, Stanag60, Stanag100, AR15Action, AKMIron, NightRaider, ACOG, Specter, HP, Reflex, BijiaReflex, Holographic, HolographicAlt, Vortex, Kobra, MicroT1, AimpointCompM5, Grip2, StubbyGrip, AngledGrip, VGrip, JunoGrip, Bipod, Laser2, Laser, Silencer556x45 |
+| Compatible Attachment | [`Placeholder`](#placeholder), [`CollapsableMOEStock`](#collapsablemoestock), [`MagpulCTRStock`](#magpulctrstock), [`HeraArmsStock`](#heraarmsstock), [`MilSpecStock`](#milspecstock), [`HK416Stock`](#hk416stock), [`M16Stock`](#m16stock), [`MagpulCTRStockTan`](#magpulctrstocktan), [`MilSpecStockTan`](#milspecstocktan), [`HK416StockTan`](#hk416stocktan), [`M16StockTan`](#m16stocktan), [`M38FrontSight`](#m38frontsight), [`M4FrontSight`](#m4frontsight), [`M4HandGuard`](#m4handguard), [`M16HandGuard`](#m16handguard), [`M4MagpulHandGuard`](#m4magpulhandguard), [`M4MagpulHandGuardTan`](#m4magpulhandguardtan), [`M4CarbineHandGuard`](#m4carbinehandguard), [`Mk18HandGuard`](#mk18handguard), [`M38HandGuard`](#m38handguard), [`LVOAVHandGuard`](#lvoavhandguard), [`M4Receiver`](#m4receiver), [`VLTORReceiver`](#vltorreceiver), [`M4Grip`](#m4grip), [`M4GripTan`](#m4griptan), [`M4GripGray`](#m4gripgray), [`HeraArmsGrip`](#heraarmsgrip), [`M38Mag`](#m38mag), [`M4A1Mag`](#m4a1mag), [`Stanag50`](#stanag50), [`Stanag60`](#stanag60), [`Stanag100`](#stanag100), [`AR15Action`](#ar15action), [`AKMIron`](#akmiron), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`VGrip`](#vgrip), [`JunoGrip`](#junogrip), [`Bipod`](#bipod), [`Laser2`](#laser2), [`Laser`](#laser), [`Silencer556x45`](#silencer556x45) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3083,7 +3257,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | SpringfieldAction, SpringfieldRearSight, Extra |
+| Compatible Attachment | [`SpringfieldAction`](#springfieldaction), [`SpringfieldRearSight`](#springfieldrearsight), [`Extra`](#extra) |
 | Crosshair | Unknown |
 | Recoil | 6.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3129,7 +3303,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | MP40action, MP40Mag, Extra |
+| Compatible Attachment | [`MP40action`](#mp40action), [`MP40Mag`](#mp40mag), [`Extra`](#extra) |
 | Crosshair | Unknown |
 | Recoil | 1.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3175,7 +3349,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | PistolPlaceholder, BrowningHiPowerSlide, HiPowerMag |
+| Compatible Attachment | [`PistolPlaceholder`](#pistolplaceholder), [`BrowningHiPowerSlide`](#browninghipowerslide), [`HiPowerMag`](#hipowermag) |
 | Crosshair | Unknown |
 | Recoil | 2.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3221,7 +3395,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Placeholder, GripPlaceholder, LaserPlaceholder, M110Mag, M110Action, Extra, AKMIron, NightRaider, ACOG, Specter, HP, Reflex, BijiaReflex, Holographic, HolographicAlt, Vortex, Kobra, MicroT1, AimpointCompM5, Grip2, StubbyGrip, VGrip, JunoGrip, Bipod, Laser2, Laser, Silencer762x51, M110Rail |
+| Compatible Attachment | [`Placeholder`](#placeholder), [`GripPlaceholder`](#gripplaceholder), [`LaserPlaceholder`](#laserplaceholder), [`M110Mag`](#m110mag), [`M110Action`](#m110action), [`Extra`](#extra), [`AKMIron`](#akmiron), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`VGrip`](#vgrip), [`JunoGrip`](#junogrip), [`Bipod`](#bipod), [`Laser2`](#laser2), [`Laser`](#laser), [`Silencer762x51`](#silencer762x51), [`M110Rail`](#m110rail) |
 | Crosshair | Unknown |
 | Recoil | 6.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3267,7 +3441,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | PistolPlaceholder, P226Slide, M9A1Mag, M9Mag30, M9DrumMag, Laser, Silencer9mm, FABDefenseMount, RMR, BijiaReflex |
+| Compatible Attachment | [`PistolPlaceholder`](#pistolplaceholder), [`P226Slide`](#p226slide), [`M9A1Mag`](#m9a1mag), [`M9Mag30`](#m9mag30), [`M9DrumMag`](#m9drummag), [`Laser`](#laser), [`Silencer9mm`](#silencer9mm), [`FABDefenseMount`](#fabdefensemount), [`RMR`](#rmr), [`BijiaReflex`](#bijiareflex) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3313,7 +3487,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | KragAction1, KragAction2, KragChamber, Bullet, Extra |
+| Compatible Attachment | [`KragAction1`](#kragaction1), [`KragAction2`](#kragaction2), [`KragChamber`](#kragchamber), [`Bullet`](#bullet), [`Extra`](#extra) |
 | Crosshair | Unknown |
 | Recoil | 6.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3359,7 +3533,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | KS23pump, Shotgun4Gauge, Extra |
+| Compatible Attachment | [`KS23pump`](#ks23pump), [`Shotgun4Gauge`](#shotgun4gauge), [`Extra`](#extra) |
 | Crosshair | Unknown |
 | Recoil | 9.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3405,7 +3579,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Grenade40mm, GLgrenade, GL06Cartridge, ACOG, Specter, Reflex, Holographic, Kobra, MicroT1, RMR, Grip2, StubbyGrip, VGrip, Bipod, Laser2, Laser |
+| Compatible Attachment | [`Grenade40mm`](#grenade40mm), [`GLgrenade`](#glgrenade), [`GL06Cartridge`](#gl06cartridge), [`ACOG`](#acog), [`Specter`](#specter), [`Reflex`](#reflex), [`Holographic`](#holographic), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`RMR`](#rmr), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`VGrip`](#vgrip), [`Bipod`](#bipod), [`Laser2`](#laser2), [`Laser`](#laser) |
 | Crosshair | Unknown |
 | Recoil | 5.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3451,7 +3625,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 0.05 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | BFGammo |
+| Compatible Attachment | [`BFGammo`](#bfgammo) |
 | Crosshair | Unknown |
 | Recoil | 20.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3497,7 +3671,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | M45pump, RailAlt, ShotgunShell, NightRaider, ACOG, Specter, HP, Reflex, Holographic, Vortex, Kobra, MicroT1, Silencer12Gauge |
+| Compatible Attachment | [`M45pump`](#m45pump), [`RailAlt`](#railalt), [`ShotgunShell`](#shotgunshell), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`Holographic`](#holographic), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`Silencer12Gauge`](#silencer12gauge) |
 | Crosshair | Unknown |
 | Recoil | 15.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3543,7 +3717,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Placeholder, CollapsableMOEStock, MagpulCTRStock, HeraArmsStock, MilSpecStock, HK416Stock, M16Stock, MagpulCTRStockTan, MilSpecStockTan, HK416StockTan, M16StockTan, M4FrontSight, M38FrontSight, M4HandGuard, M16HandGuard, M4MagpulHandGuard, M4MagpulHandGuardTan, M4CarbineHandGuard, Mk18HandGuard, M38HandGuard, LVOAVHandGuard, M4Receiver, VLTORReceiver, M4Grip, M4GripTan, M4GripGray, HeraArmsGrip, M4A1Mag, M38Mag, Stanag50, Stanag60, Stanag100, AR15Action, AR15Iron, AKMIron, NightRaider, ACOG, Specter, HP, Reflex, BijiaReflex, Holographic, HolographicAlt, Vortex, Kobra, MicroT1, AimpointCompM5, Grip2, StubbyGrip, AngledGrip, VGrip, JunoGrip, Bipod, Laser2, Laser, Silencer556x45 |
+| Compatible Attachment | [`Placeholder`](#placeholder), [`CollapsableMOEStock`](#collapsablemoestock), [`MagpulCTRStock`](#magpulctrstock), [`HeraArmsStock`](#heraarmsstock), [`MilSpecStock`](#milspecstock), [`HK416Stock`](#hk416stock), [`M16Stock`](#m16stock), [`MagpulCTRStockTan`](#magpulctrstocktan), [`MilSpecStockTan`](#milspecstocktan), [`HK416StockTan`](#hk416stocktan), [`M16StockTan`](#m16stocktan), [`M4FrontSight`](#m4frontsight), [`M38FrontSight`](#m38frontsight), [`M4HandGuard`](#m4handguard), [`M16HandGuard`](#m16handguard), [`M4MagpulHandGuard`](#m4magpulhandguard), [`M4MagpulHandGuardTan`](#m4magpulhandguardtan), [`M4CarbineHandGuard`](#m4carbinehandguard), [`Mk18HandGuard`](#mk18handguard), [`M38HandGuard`](#m38handguard), [`LVOAVHandGuard`](#lvoavhandguard), [`M4Receiver`](#m4receiver), [`VLTORReceiver`](#vltorreceiver), [`M4Grip`](#m4grip), [`M4GripTan`](#m4griptan), [`M4GripGray`](#m4gripgray), [`HeraArmsGrip`](#heraarmsgrip), [`M4A1Mag`](#m4a1mag), [`M38Mag`](#m38mag), [`Stanag50`](#stanag50), [`Stanag60`](#stanag60), [`Stanag100`](#stanag100), [`AR15Action`](#ar15action), [`AR15Iron`](#ar15iron), [`AKMIron`](#akmiron), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`VGrip`](#vgrip), [`JunoGrip`](#junogrip), [`Bipod`](#bipod), [`Laser2`](#laser2), [`Laser`](#laser), [`Silencer556x45`](#silencer556x45) |
 | Crosshair | Unknown |
 | Recoil | 3.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3589,7 +3763,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | AUGA1handguard, AUGDefaultKit, AUGParaConversion, AUGA2handguard, AUGA3handguard, EF88Handguard, AUGA3extGuard, AUG9mmMag, M4A1Mag, M38Mag, Stanag50, Stanag60, Stanag100, AUGAction, AKMIron, AUGscope, NightRaider, ACOG, Specter, Reflex, BijiaReflex, Holographic, HolographicAlt, EotechHybrid2, Vortex, Kobra, MicroT1, AimpointCompM5, RMR, AUGgrip, Grip2, StubbyGrip, AngledGrip, VGrip, Bipod, Laser2, Laser, Silencer556x45 |
+| Compatible Attachment | [`AUGA1handguard`](#auga1handguard), [`AUGDefaultKit`](#augdefaultkit), [`AUGParaConversion`](#augparaconversion), [`AUGA2handguard`](#auga2handguard), [`AUGA3handguard`](#auga3handguard), [`EF88Handguard`](#ef88handguard), [`AUGA3extGuard`](#auga3extguard), [`AUG9mmMag`](#aug9mmmag), [`M4A1Mag`](#m4a1mag), [`M38Mag`](#m38mag), [`Stanag50`](#stanag50), [`Stanag60`](#stanag60), [`Stanag100`](#stanag100), [`AUGAction`](#augaction), [`AKMIron`](#akmiron), [`AUGscope`](#augscope), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`EotechHybrid2`](#eotechhybrid2), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`RMR`](#rmr), [`AUGgrip`](#auggrip), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`VGrip`](#vgrip), [`Bipod`](#bipod), [`Laser2`](#laser2), [`Laser`](#laser), [`Silencer556x45`](#silencer556x45) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3635,7 +3809,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Saiga12action, SaigaMag, Silencer762x39, Bipod, Saiga12sights, PSO1, OKP7 |
+| Compatible Attachment | [`Saiga12action`](#saiga12action), [`SaigaMag`](#saigamag), [`Silencer762x39`](#silencer762x39), [`Bipod`](#bipod), [`Saiga12sights`](#saiga12sights), [`PSO1`](#pso1), [`OKP7`](#okp7) |
 | Crosshair | Unknown |
 | Recoil | 5.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3681,7 +3855,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | RhinoChamber |
+| Compatible Attachment | [`RhinoChamber`](#rhinochamber) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3727,7 +3901,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | PythonChamber, DanWessonLaser |
+| Compatible Attachment | [`PythonChamber`](#pythonchamber), [`DanWessonLaser`](#danwessonlaser) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3773,7 +3947,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | M1014Stock, M4BenelliStock, ShotgunRail, SupernovaAction, ShotgunShell, SupernovaPump, Extra, Reflex, Holographic, HolographicAlt, Vortex, Kobra, MicroT1, AimpointCompM5, RMR |
+| Compatible Attachment | [`M1014Stock`](#m1014stock), [`M4BenelliStock`](#m4benellistock), [`ShotgunRail`](#shotgunrail), [`SupernovaAction`](#supernovaaction), [`ShotgunShell`](#shotgunshell), [`SupernovaPump`](#supernovapump), [`Extra`](#extra), [`Reflex`](#reflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`RMR`](#rmr) |
 | Crosshair | Unknown |
 | Recoil | 13.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3819,7 +3993,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Placeholder, G11Mag, G11Action, M4Rail, NightRaider, ACOG, MicroT1, AimpointCompM5, Specter, Reflex, BijiaReflex, Holographic, HolographicAlt, EotechHybrid2, Kobra, RMR |
+| Compatible Attachment | [`Placeholder`](#placeholder), [`G11Mag`](#g11mag), [`G11Action`](#g11action), [`M4Rail`](#m4rail), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Specter`](#specter), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`EotechHybrid2`](#eotechhybrid2), [`Kobra`](#kobra), [`RMR`](#rmr) |
 | Crosshair | Unknown |
 | Recoil | 1.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3865,7 +4039,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Bipod, JohnsonMAG, JohnsonACTION |
+| Compatible Attachment | [`Bipod`](#bipod), [`JohnsonMAG`](#johnsonmag), [`JohnsonACTION`](#johnsonaction) |
 | Crosshair | Unknown |
 | Recoil | 2.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3911,7 +4085,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | RPGRocket, RPG7rocket |
+| Compatible Attachment | [`RPGRocket`](#rpgrocket), [`RPG7rocket`](#rpg7rocket) |
 | Crosshair | Unknown |
 | Recoil | 20.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3957,7 +4131,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | KedrAction, KedrMag, Silencer9mm, Extra |
+| Compatible Attachment | [`KedrAction`](#kedraction), [`KedrMag`](#kedrmag), [`Silencer9mm`](#silencer9mm), [`Extra`](#extra) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4003,7 +4177,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | M56Mag |
+| Compatible Attachment | [`M56Mag`](#m56mag) |
 | Crosshair | Unknown |
 | Recoil | 0.2 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4049,7 +4223,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | VSSVintorezAction, VSSVintorezMag, Extra, NightRaider, ACOG, MicroT1, AimpointCompM5, Specter, Reflex, Holographic, HolographicAlt, Vortex, Kobra, AK15ironsight, M4Rail |
+| Compatible Attachment | [`VSSVintorezAction`](#vssvintorezaction), [`VSSVintorezMag`](#vssvintorezmag), [`Extra`](#extra), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Specter`](#specter), [`Reflex`](#reflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`AK15ironsight`](#ak15ironsight), [`M4Rail`](#m4rail) |
 | Crosshair | Unknown |
 | Recoil | 1.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4095,7 +4269,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Placeholder, GripPlaceholder, LaserPlaceholder, G36CMag, Stanag100, G36CAction, Extra, NightRaider, ACOG, Specter, Reflex, BijiaReflex, Holographic, HolographicAlt, Vortex, Kobra, MicroT1, AimpointCompM5, Grip2, StubbyGrip, VGrip, Laser2, Laser, Silencer556x45, G36CRail |
+| Compatible Attachment | [`Placeholder`](#placeholder), [`GripPlaceholder`](#gripplaceholder), [`LaserPlaceholder`](#laserplaceholder), [`G36CMag`](#g36cmag), [`Stanag100`](#stanag100), [`G36CAction`](#g36caction), [`Extra`](#extra), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`VGrip`](#vgrip), [`Laser2`](#laser2), [`Laser`](#laser), [`Silencer556x45`](#silencer556x45), [`G36CRail`](#g36crail) |
 | Crosshair | Unknown |
 | Recoil | 2.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4141,7 +4315,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | MG42action, MG42latch, MG42Belt, MG42Mag, Extra |
+| Compatible Attachment | [`MG42action`](#mg42action), [`MG42latch`](#mg42latch), [`MG42Belt`](#mg42belt), [`MG42Mag`](#mg42mag), [`Extra`](#extra) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4187,7 +4361,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | M6CSOCOMSlide, M6CSOCOMMag, M6CSOCOMsight |
+| Compatible Attachment | [`M6CSOCOMSlide`](#m6csocomslide), [`M6CSOCOMMag`](#m6csocommag), [`M6CSOCOMsight`](#m6csocomsight) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4233,7 +4407,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | STG44action, STG44Mag, Extra |
+| Compatible Attachment | [`STG44action`](#stg44action), [`STG44Mag`](#stg44mag), [`Extra`](#extra) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4279,7 +4453,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | M9A1Body, M9A1Slide, SamuraiEdgeBody, SamuraiEdgeAWBody, SamuraiEdgeAlbertExt, SamuraiEdgeSlide, M9A1Mag, SamuraiEdgeMag, M9Mag30, M9DrumMag, Laser, Silencer9mm, FABDefenseMount, RMR, BijiaReflex |
+| Compatible Attachment | [`M9A1Body`](#m9a1body), [`M9A1Slide`](#m9a1slide), [`SamuraiEdgeBody`](#samuraiedgebody), [`SamuraiEdgeAWBody`](#samuraiedgeawbody), [`SamuraiEdgeAlbertExt`](#samuraiedgealbertext), [`SamuraiEdgeSlide`](#samuraiedgeslide), [`M9A1Mag`](#m9a1mag), [`SamuraiEdgeMag`](#samuraiedgemag), [`M9Mag30`](#m9mag30), [`M9DrumMag`](#m9drummag), [`Laser`](#laser), [`Silencer9mm`](#silencer9mm), [`FABDefenseMount`](#fabdefensemount), [`RMR`](#rmr), [`BijiaReflex`](#bijiareflex) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4325,7 +4499,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | M60HandGuard, M60E4HandGuard, M60FrontSight, M60Rail, M60Hatch, M60Belt, M60Mag, Extra, NightRaider, ACOG, Specter, Reflex, BijiaReflex, Holographic, HolographicAlt, EotechHybrid2, Vortex, Kobra, MicroT1, AimpointCompM5, Grip2, StubbyGrip, AngledGrip, VGrip, Laser2, Laser |
+| Compatible Attachment | [`M60HandGuard`](#m60handguard), [`M60E4HandGuard`](#m60e4handguard), [`M60FrontSight`](#m60frontsight), [`M60Rail`](#m60rail), [`M60Hatch`](#m60hatch), [`M60Belt`](#m60belt), [`M60Mag`](#m60mag), [`Extra`](#extra), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`EotechHybrid2`](#eotechhybrid2), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`VGrip`](#vgrip), [`Laser2`](#laser2), [`Laser`](#laser) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4371,7 +4545,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Type2Part, Type2Sight, Type2Mag, ACOG, Specter, Reflex, Holographic, Vortex, Kobra, MicroT1 |
+| Compatible Attachment | [`Type2Part`](#type2part), [`Type2Sight`](#type2sight), [`Type2Mag`](#type2mag), [`ACOG`](#acog), [`Specter`](#specter), [`Reflex`](#reflex), [`Holographic`](#holographic), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1) |
 | Crosshair | Unknown |
 | Recoil | 2.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4417,7 +4591,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 0.2 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | MiniNuke, FatmanGrip, FatmanRack, MiniNuke |
+| Compatible Attachment | [`MiniNuke`](#mininuke), [`FatmanGrip`](#fatmangrip), [`FatmanRack`](#fatmanrack), [`MiniNuke`](#mininuke) |
 | Crosshair | Unknown |
 | Recoil | 20.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4463,7 +4637,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | M8A7Mag, Extra, Grip2, StubbyGrip, VGrip, Bipod, Silencer556x45 |
+| Compatible Attachment | [`M8A7Mag`](#m8a7mag), [`Extra`](#extra), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`VGrip`](#vgrip), [`Bipod`](#bipod), [`Silencer556x45`](#silencer556x45) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4509,7 +4683,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | M134Mag, M134Barrels |
+| Compatible Attachment | [`M134Mag`](#m134mag), [`M134Barrels`](#m134barrels) |
 | Crosshair | Unknown |
 | Recoil | 1.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4555,7 +4729,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | AK47Stock, AK101Stock, AKMDustCover, AK47HandleGuard, AK101HandGuard, AKMagpulHandleGuard, AKMagpulHandleGuardTan, MLOKHandguard, MLOKExtendedHandguard, AK15HandleGuard, RPK16Handguard, AK101DustCover, VeprDustCover, AK15DustCover, RPKDustCover, CollapsableMOEStock, MagpulCTRStock, MilSpecStock, AK47Grip, AK101Grip, AKErgoGrip, AKaction, AK15Mag, AK47Mag, AK47PMAGTan, AK50Mag, AK75Mag, AK100Mag, Silencer762x39, NightRaider, ACOG, MicroT1, AimpointCompM5, Specter, Reflex, BijiaReflex, Holographic, HolographicAlt, Vortex, Kobra, Grip2, StubbyGrip, AngledGrip, Bipod, VGrip, Extra, AK15ironsight |
+| Compatible Attachment | [`AK47Stock`](#ak47stock), [`AK101Stock`](#ak101stock), [`AKMDustCover`](#akmdustcover), [`AK47HandleGuard`](#ak47handleguard), [`AK101HandGuard`](#ak101handguard), [`AKMagpulHandleGuard`](#akmagpulhandleguard), [`AKMagpulHandleGuardTan`](#akmagpulhandleguardtan), [`MLOKHandguard`](#mlokhandguard), [`MLOKExtendedHandguard`](#mlokextendedhandguard), [`AK15HandleGuard`](#ak15handleguard), [`RPK16Handguard`](#rpk16handguard), [`AK101DustCover`](#ak101dustcover), [`VeprDustCover`](#veprdustcover), [`AK15DustCover`](#ak15dustcover), [`RPKDustCover`](#rpkdustcover), [`CollapsableMOEStock`](#collapsablemoestock), [`MagpulCTRStock`](#magpulctrstock), [`MilSpecStock`](#milspecstock), [`AK47Grip`](#ak47grip), [`AK101Grip`](#ak101grip), [`AKErgoGrip`](#akergogrip), [`AKaction`](#akaction), [`AK15Mag`](#ak15mag), [`AK47Mag`](#ak47mag), [`AK47PMAGTan`](#ak47pmagtan), [`AK50Mag`](#ak50mag), [`AK75Mag`](#ak75mag), [`AK100Mag`](#ak100mag), [`Silencer762x39`](#silencer762x39), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Specter`](#specter), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`Bipod`](#bipod), [`VGrip`](#vgrip), [`Extra`](#extra), [`AK15ironsight`](#ak15ironsight) |
 | Crosshair | Unknown |
 | Recoil | 3.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4601,7 +4775,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | M41AMag |
+| Compatible Attachment | [`M41AMag`](#m41amag) |
 | Crosshair | Unknown |
 | Recoil | 0.2 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4647,7 +4821,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Placeholder, GripPlaceholder, LaserPlaceholder, Extra, AK12action, AK12Mag, Silencer545x39, NightRaider, ACOG, MicroT1, AimpointCompM5, Specter, Reflex, BijiaReflex, Holographic, HolographicAlt, EotechHybrid2, Vortex, Kobra, Grip2, StubbyGrip, AngledGrip, Bipod, VGrip, AK15ironsight |
+| Compatible Attachment | [`Placeholder`](#placeholder), [`GripPlaceholder`](#gripplaceholder), [`LaserPlaceholder`](#laserplaceholder), [`Extra`](#extra), [`AK12action`](#ak12action), [`AK12Mag`](#ak12mag), [`Silencer545x39`](#silencer545x39), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Specter`](#specter), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`EotechHybrid2`](#eotechhybrid2), [`Vortex`](#vortex), [`Kobra`](#kobra), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`Bipod`](#bipod), [`VGrip`](#vgrip), [`AK15ironsight`](#ak15ironsight) |
 | Crosshair | Unknown |
 | Recoil | 3.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4693,7 +4867,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | ShotgunShell, BrowningAuto5Action |
+| Compatible Attachment | [`ShotgunShell`](#shotgunshell), [`BrowningAuto5Action`](#browningauto5action) |
 | Crosshair | Unknown |
 | Recoil | 9.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4739,7 +4913,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | JohnsonRifleACTION, StripperClip, StripperClipBullets, Extra, JohnsonRifleSight |
+| Compatible Attachment | [`JohnsonRifleACTION`](#johnsonrifleaction), [`StripperClip`](#stripperclip), [`StripperClipBullets`](#stripperclipbullets), [`Extra`](#extra), [`JohnsonRifleSight`](#johnsonriflesight) |
 | Crosshair | Unknown |
 | Recoil | 2.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4785,7 +4959,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Extra, Bipod, BrenMag |
+| Compatible Attachment | [`Extra`](#extra), [`Bipod`](#bipod), [`BrenMag`](#brenmag) |
 | Crosshair | Unknown |
 | Recoil | 2.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4831,7 +5005,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | MA37Action, MA37Mag, Silencer762x51 |
+| Compatible Attachment | [`MA37Action`](#ma37action), [`MA37Mag`](#ma37mag), [`Silencer762x51`](#silencer762x51) |
 | Crosshair | Unknown |
 | Recoil | 1.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4877,7 +5051,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | M6Cslide, M6CMag |
+| Compatible Attachment | [`M6Cslide`](#m6cslide), [`M6CMag`](#m6cmag) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4923,7 +5097,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | MP5A5HandGuard, MP5SDHandGuard, MIMP5MHandGuard, UTGTriRailHandGuard, MP5A3Stock, MP5A4Stock, MilSpecStock, MP5HOGUEGrip, MIMP5TRRail, MIMP5MRail, MP5A5action, MP5A5Mag, HK50Drum, Extra, NightRaider, ACOG, MicroT1, AimpointCompM5, Specter, Reflex, Holographic, HolographicAlt, EotechHybrid2, Vortex, Kobra, Grip2, StubbyGrip, VGrip, AngledGrip, Bipod, Laser, Laser2, SilencerMP5 |
+| Compatible Attachment | [`MP5A5HandGuard`](#mp5a5handguard), [`MP5SDHandGuard`](#mp5sdhandguard), [`MIMP5MHandGuard`](#mimp5mhandguard), [`UTGTriRailHandGuard`](#utgtrirailhandguard), [`MP5A3Stock`](#mp5a3stock), [`MP5A4Stock`](#mp5a4stock), [`MilSpecStock`](#milspecstock), [`MP5HOGUEGrip`](#mp5hoguegrip), [`MIMP5TRRail`](#mimp5trrail), [`MIMP5MRail`](#mimp5mrail), [`MP5A5action`](#mp5a5action), [`MP5A5Mag`](#mp5a5mag), [`HK50Drum`](#hk50drum), [`Extra`](#extra), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Specter`](#specter), [`Reflex`](#reflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`EotechHybrid2`](#eotechhybrid2), [`Vortex`](#vortex), [`Kobra`](#kobra), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`VGrip`](#vgrip), [`AngledGrip`](#angledgrip), [`Bipod`](#bipod), [`Laser`](#laser), [`Laser2`](#laser2), [`SilencerMP5`](#silencermp5) |
 | Crosshair | Unknown |
 | Recoil | 1.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4969,7 +5143,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Placeholder, SV98Mag, SV98BoltAction, SV98barrelpiece, Extra, NightRaider, ACOG, Specter, HP, Reflex, Holographic, HolographicAlt, Vortex, Kobra, MicroT1, AimpointCompM5, Bipod, M4Rail, Silencer762x54 |
+| Compatible Attachment | [`Placeholder`](#placeholder), [`SV98Mag`](#sv98mag), [`SV98BoltAction`](#sv98boltaction), [`SV98barrelpiece`](#sv98barrelpiece), [`Extra`](#extra), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Bipod`](#bipod), [`M4Rail`](#m4rail), [`Silencer762x54`](#silencer762x54) |
 | Crosshair | Unknown |
 | Recoil | 6.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -5015,7 +5189,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | M249HandGuard, M249Stock, Placeholder, M249Action, M249Hatch, M249Belt, M249Mag, M4Rail, Extra, NightRaider, ACOG, Specter, Reflex, BijiaReflex, Holographic, HolographicAlt, EotechHybrid2, Vortex, Kobra, MicroT1, AimpointCompM5, Grip2, StubbyGrip, AngledGrip, VGrip, Laser2, Laser |
+| Compatible Attachment | [`M249HandGuard`](#m249handguard), [`M249Stock`](#m249stock), [`Placeholder`](#placeholder), [`M249Action`](#m249action), [`M249Hatch`](#m249hatch), [`M249Belt`](#m249belt), [`M249Mag`](#m249mag), [`M4Rail`](#m4rail), [`Extra`](#extra), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`EotechHybrid2`](#eotechhybrid2), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`VGrip`](#vgrip), [`Laser2`](#laser2), [`Laser`](#laser) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -5061,7 +5235,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | PistolPlaceholder, Glock19slide, Glock18CMag, GlockMag13, GlockMag50, Laser, GlockStock, Silencer9mm, GlockHOGUEGrip, GlockHOGUEGripTan, FABDefenseMount, RMR, BijiaReflex |
+| Compatible Attachment | [`PistolPlaceholder`](#pistolplaceholder), [`Glock19slide`](#glock19slide), [`Glock18CMag`](#glock18cmag), [`GlockMag13`](#glockmag13), [`GlockMag50`](#glockmag50), [`Laser`](#laser), [`GlockStock`](#glockstock), [`Silencer9mm`](#silencer9mm), [`GlockHOGUEGrip`](#glockhoguegrip), [`GlockHOGUEGripTan`](#glockhoguegriptan), [`FABDefenseMount`](#fabdefensemount), [`RMR`](#rmr), [`BijiaReflex`](#bijiareflex) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -5107,7 +5281,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Grenade40mm, M79grenade, M79Cartridge |
+| Compatible Attachment | [`Grenade40mm`](#grenade40mm), [`M79grenade`](#m79grenade), [`M79Cartridge`](#m79cartridge) |
 | Crosshair | Unknown |
 | Recoil | 5.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -5153,7 +5327,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | BR55Action, BR55Mag, BR55Scope, Specter, Reflex, Holographic, Vortex, Kobra |
+| Compatible Attachment | [`BR55Action`](#br55action), [`BR55Mag`](#br55mag), [`BR55Scope`](#br55scope), [`Specter`](#specter), [`Reflex`](#reflex), [`Holographic`](#holographic), [`Vortex`](#vortex), [`Kobra`](#kobra) |
 | Crosshair | Unknown |
 | Recoil | 1.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -5199,7 +5373,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Placeholder, CollapsableMOEStock, MagpulCTRStock, MilSpecStock, HK416Stock, HESCSpump, RailAlt, ShotgunShell, Extra, ACOG, Specter, HP, Reflex, BijiaReflex, Holographic, HolographicAlt, Vortex, Kobra, MicroT1, AimpointCompM5 |
+| Compatible Attachment | [`Placeholder`](#placeholder), [`CollapsableMOEStock`](#collapsablemoestock), [`MagpulCTRStock`](#magpulctrstock), [`MilSpecStock`](#milspecstock), [`HK416Stock`](#hk416stock), [`HESCSpump`](#hescspump), [`RailAlt`](#railalt), [`ShotgunShell`](#shotgunshell), [`Extra`](#extra), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5) |
 | Crosshair | Unknown |
 | Recoil | 9.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -5245,7 +5419,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | GripPlaceholder, DP28Mag, Extra, Bipod |
+| Compatible Attachment | [`GripPlaceholder`](#gripplaceholder), [`DP28Mag`](#dp28mag), [`Extra`](#extra), [`Bipod`](#bipod) |
 | Crosshair | Unknown |
 | Recoil | 4.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -5291,7 +5465,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | ChiappaTripleCrownBarrels |
+| Compatible Attachment | [`ChiappaTripleCrownBarrels`](#chiappatriplecrownbarrels) |
 | Crosshair | Unknown |
 | Recoil | 9.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -5337,7 +5511,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | CollapsableMOEStock, MagpulCTRStock, HeraArmsStock, MilSpecStock, HK416Stock, M16Stock, MagpulCTRStockTan, MilSpecStockTan, HK416StockTan, M16StockTan, M4FrontSight, M38FrontSight, M4HandGuard, M16HandGuard, M4MagpulHandGuard, M4MagpulHandGuardTan, M4CarbineHandGuard, Mk18HandGuard, M38HandGuard, LVOAVHandGuard, AR57Handguard, M4Receiver, VLTORReceiver, AR57Receiver, M4Grip, M4GripTan, M4GripGray, HeraArmsGrip, M4A1Mag, M38Mag, Stanag50, Stanag60, Stanag100, P90Mag, AR15Action, Extra, AR15Iron, AKMIron, NightRaider, ACOG, Specter, HP, Reflex, BijiaReflex, Holographic, HolographicAlt, EotechHybrid2, Vortex, Kobra, MicroT1, AimpointCompM5, RMR, Grip2, JunoGrip, StubbyGrip, AngledGrip, VGrip, Bipod, Laser2, Laser, Silencer556x45 |
+| Compatible Attachment | [`CollapsableMOEStock`](#collapsablemoestock), [`MagpulCTRStock`](#magpulctrstock), [`HeraArmsStock`](#heraarmsstock), [`MilSpecStock`](#milspecstock), [`HK416Stock`](#hk416stock), [`M16Stock`](#m16stock), [`MagpulCTRStockTan`](#magpulctrstocktan), [`MilSpecStockTan`](#milspecstocktan), [`HK416StockTan`](#hk416stocktan), [`M16StockTan`](#m16stocktan), [`M4FrontSight`](#m4frontsight), [`M38FrontSight`](#m38frontsight), [`M4HandGuard`](#m4handguard), [`M16HandGuard`](#m16handguard), [`M4MagpulHandGuard`](#m4magpulhandguard), [`M4MagpulHandGuardTan`](#m4magpulhandguardtan), [`M4CarbineHandGuard`](#m4carbinehandguard), [`Mk18HandGuard`](#mk18handguard), [`M38HandGuard`](#m38handguard), [`LVOAVHandGuard`](#lvoavhandguard), [`AR57Handguard`](#ar57handguard), [`M4Receiver`](#m4receiver), [`VLTORReceiver`](#vltorreceiver), [`AR57Receiver`](#ar57receiver), [`M4Grip`](#m4grip), [`M4GripTan`](#m4griptan), [`M4GripGray`](#m4gripgray), [`HeraArmsGrip`](#heraarmsgrip), [`M4A1Mag`](#m4a1mag), [`M38Mag`](#m38mag), [`Stanag50`](#stanag50), [`Stanag60`](#stanag60), [`Stanag100`](#stanag100), [`P90Mag`](#p90mag), [`AR15Action`](#ar15action), [`Extra`](#extra), [`AR15Iron`](#ar15iron), [`AKMIron`](#akmiron), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`EotechHybrid2`](#eotechhybrid2), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`RMR`](#rmr), [`Grip2`](#grip2), [`JunoGrip`](#junogrip), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`VGrip`](#vgrip), [`Bipod`](#bipod), [`Laser2`](#laser2), [`Laser`](#laser), [`Silencer556x45`](#silencer556x45) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -5383,7 +5557,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | GripPlaceholder, Placeholder, LaserPlaceholder, MP7Mag, M4Rail, AKMIron, NightRaider, ACOG, MicroT1, AimpointCompM5, Specter, Reflex, Holographic, HolographicAlt, EotechHybrid2, Vortex, Kobra, Laser, Laser2, SilencerMP7 |
+| Compatible Attachment | [`GripPlaceholder`](#gripplaceholder), [`Placeholder`](#placeholder), [`LaserPlaceholder`](#laserplaceholder), [`MP7Mag`](#mp7mag), [`M4Rail`](#m4rail), [`AKMIron`](#akmiron), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Specter`](#specter), [`Reflex`](#reflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`EotechHybrid2`](#eotechhybrid2), [`Vortex`](#vortex), [`Kobra`](#kobra), [`Laser`](#laser), [`Laser2`](#laser2), [`SilencerMP7`](#silencermp7) |
 | Crosshair | Unknown |
 | Recoil | 1.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -5429,7 +5603,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Placeholder, GripPlaceholder, LaserPlaceholder, F2000Action, M4A1Mag, M38Mag, Stanag50, Stanag60, Stanag100, Extra, AKMIron, F2000Scope, NightRaider, HP, ACOG, MicroT1, AimpointCompM5, Specter, Reflex, BijiaReflex, Holographic, HolographicAlt, Vortex, Kobra, Silencer556x45, M4Rail |
+| Compatible Attachment | [`Placeholder`](#placeholder), [`GripPlaceholder`](#gripplaceholder), [`LaserPlaceholder`](#laserplaceholder), [`F2000Action`](#f2000action), [`M4A1Mag`](#m4a1mag), [`M38Mag`](#m38mag), [`Stanag50`](#stanag50), [`Stanag60`](#stanag60), [`Stanag100`](#stanag100), [`Extra`](#extra), [`AKMIron`](#akmiron), [`F2000Scope`](#f2000scope), [`NightRaider`](#nightraider), [`HP`](#hp), [`ACOG`](#acog), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Specter`](#specter), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`Silencer556x45`](#silencer556x45), [`M4Rail`](#m4rail) |
 | Crosshair | Unknown |
 | Recoil | 1.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -5475,7 +5649,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Placeholder, GripPlaceholder, LaserPlaceholder, Mk14EBRaction, Mk14EBRsight, Mk14EBRMag, M14Drum50, Silencer762x51, Extra, NightRaider, HP, ACOG, MicroT1, AimpointCompM5, Specter, Reflex, BijiaReflex, Holographic, HolographicAlt, Vortex, Kobra, Grip2, StubbyGrip, Bipod, VGrip, Laser2, Laser, M4Rail |
+| Compatible Attachment | [`Placeholder`](#placeholder), [`GripPlaceholder`](#gripplaceholder), [`LaserPlaceholder`](#laserplaceholder), [`Mk14EBRaction`](#mk14ebraction), [`Mk14EBRsight`](#mk14ebrsight), [`Mk14EBRMag`](#mk14ebrmag), [`M14Drum50`](#m14drum50), [`Silencer762x51`](#silencer762x51), [`Extra`](#extra), [`NightRaider`](#nightraider), [`HP`](#hp), [`ACOG`](#acog), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Specter`](#specter), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`Bipod`](#bipod), [`VGrip`](#vgrip), [`Laser2`](#laser2), [`Laser`](#laser), [`M4Rail`](#m4rail) |
 | Crosshair | Unknown |
 | Recoil | 4.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -5521,7 +5695,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Placeholder, MagnumChamber, MagnumRail, RMR, BijiaReflex |
+| Compatible Attachment | [`Placeholder`](#placeholder), [`MagnumChamber`](#magnumchamber), [`MagnumRail`](#magnumrail), [`RMR`](#rmr), [`BijiaReflex`](#bijiareflex) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -5567,7 +5741,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | Placeholder, GripPlaceholder, LaserPlaceholder, G36CMag, SL8Action, NightRaider, ACOG, Specter, Reflex, Holographic, HolographicAlt, Vortex, Kobra, MicroT1, AimpointCompM5, Silencer556x45, M4Rail |
+| Compatible Attachment | [`Placeholder`](#placeholder), [`GripPlaceholder`](#gripplaceholder), [`LaserPlaceholder`](#laserplaceholder), [`G36CMag`](#g36cmag), [`SL8Action`](#sl8action), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`Reflex`](#reflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Silencer556x45`](#silencer556x45), [`M4Rail`](#m4rail) |
 | Crosshair | Unknown |
 | Recoil | 2.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -5613,7 +5787,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | M500A2pump, M4Rail, ShotgunShell, Grip2, StubbyGrip, AngledGrip, VGrip, Laser2, Laser |
+| Compatible Attachment | [`M500A2pump`](#m500a2pump), [`M4Rail`](#m4rail), [`ShotgunShell`](#shotgunshell), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`VGrip`](#vgrip), [`Laser2`](#laser2), [`Laser`](#laser) |
 | Crosshair | Unknown |
 | Recoil | 9.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -5651,3 +5825,2087 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | End Of Shoot Sound | Unknown |
 | Crosshair (Zoomed) | Unknown |
 | Ammo Gravity Motion (Block/tick<sup>2</sup>) | 0.8 |
+## Attachments
+There are currently 120 attachments in the game! Here's the list of them:
+
+#### VectorStock
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | VectorStock |
+| Category | `STOCK` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### AK15HandleGuard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AK15HandleGuard |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### MagpulCTRStock
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | MagpulCTRStock |
+| Category | `STOCK` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M249Stock
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | M249Stock |
+| Category | `STOCK` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M4GripGray
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | M4GripGray |
+| Category | `BACKGRIP` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### AUGA3handguard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGA3handguard |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### SamuraiEdgeAlbertExt
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | SamuraiEdgeAlbertExt |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### AR57Handguard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AR57Handguard |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### GlockHOGUEGripTan
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | GlockHogueGripTan |
+| Category | `BACKGRIP` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### SamuraiEdgeBody
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | SamuraiEdgeBody |
+| Category | `BACKGRIP` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### ScarHandGuard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | ScarHandGuard |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M4Grip
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | M4Grip |
+| Category | `BACKGRIP` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### P90Terminator
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | P90Terminator |
+| Category | `FRONTSIGHT` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### AUGA2handguard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGA2handguard |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### AUGA3extGuard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGA3extGuard |
+| Category | `RECEIVER` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### MIMP5MHandGuard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | MIMP5MHandGuard |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### VeprDustCover
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | VeprDustCover |
+| Category | `RAILING` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### ScarStock
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | ScarStock |
+| Category | `STOCK` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M191144MagSlide
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | M191144MagSlide |
+| Category | `FRONTSIGHT` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### StonerHANDGUARD
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | StonerHANDGUARD |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### DesertEagleBody
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | DesertEagleBody |
+| Category | `BACKGRIP` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### AK101HandGuard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AK101HandGuard |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### VectorHandguard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | KrissVectorHandguard |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### HK416Stock
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | HK416Stock |
+| Category | `STOCK` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### LVOAVHandGuard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | LVOAVHandGuard |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### AK101Stock
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AK101Stock |
+| Category | `STOCK` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### P90Swordfish
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | P90swordfish |
+| Category | `RAILING` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### EF88Handguard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | EF88Handguard |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### AUGParaConversion
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGParaConversion |
+| Category | `FRONTSIGHT` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M4Receiver
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | M4Receiver |
+| Category | `RECEIVER` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M1911Body
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | M1911Body |
+| Category | `BACKGRIP` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### NTW20HandguardRAIL
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | NTW20Guard |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### P90DefaultKit
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | P90DefaultKit |
+| Category | `FRONTSIGHT` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### LaserPlaceholder
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | LaserPlaceholder |
+| Category | `RECEIVER` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | Unknown |
+| Crafting Materials | Unknown |
+#### AUGDefaultKit
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGDefaultKit |
+| Category | `FRONTSIGHT` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### Placeholder
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | Placeholder |
+| Category | `RAILING` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | Unknown |
+| Crafting Materials | Unknown |
+#### AKMagpulHandleGuard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AKMagpulHandleGuard |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### AR57Receiver
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AR57Receiver |
+| Category | `RECEIVER` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### HeraArmsGrip
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | HeraArmsGrip |
+| Category | `BACKGRIP` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### ScarHStock
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | ScarHStock |
+| Category | `STOCK` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M4MagpulHandGuardTan
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | M4MagpulHandGuardTan |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### P90Placeholder
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | P90Placeholder |
+| Category | `STOCK` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | Unknown |
+| Crafting Materials | Unknown |
+#### Mk18HandGuard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | Mk18HandGuard |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### AK15DustCover
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AK15DustCover |
+| Category | `RAILING` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### RPK16Handguard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | RPK16handguard |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M16StockTan
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | M16StockTan |
+| Category | `STOCK` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### AK47Stock
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AK47stock |
+| Category | `STOCK` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### ACRHandGuard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | ACRHandGuard |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### SamuraiEdgeSlide
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | SamuraiEdgeSlide |
+| Category | `FRONTSIGHT` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M4HandGuard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | M4HandGuard |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### MLOKHandguard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | MLOKHandguard |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M1911Slide
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | M1911Slide |
+| Category | `FRONTSIGHT` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### HeraArmsStock
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | HeraArmsStock |
+| Category | `STOCK` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### AK47HandleGuard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AK47HandleGuard |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### MP5A5HandGuard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | MP5A5HandGuard |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M4FrontSight
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | M4FrontSight |
+| Category | `FRONTSIGHT` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### MilSpecStockTan
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | MilSpecStockTan |
+| Category | `STOCK` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### MIMP5MRail
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | MIMP5MRail |
+| Category | `RAILING` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M38HandGuard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | M38HandGuard |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### AKErgoGrip
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AKErgoGrip |
+| Category | `BACKGRIP` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### HK416StockTan
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | HK416StockTan |
+| Category | `STOCK` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### DesertEagleLongBody
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | DesertEagleLongBody |
+| Category | `BACKGRIP` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### MP5A4Stock
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | MP5A4Stock |
+| Category | `STOCK` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### Vector556Handguard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | KrissVector556Handguard |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### Kar98Krail
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | Kar98Krail |
+| Category | `RAILING` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### AK101DustCover
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AK101DustCover |
+| Category | `RAILING` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### GripPlaceholder
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | GripPlaceholder |
+| Category | `FRONTSIGHT` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | Unknown |
+| Crafting Materials | Unknown |
+#### M60FrontSight
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | M60FrontSight |
+| Category | `FRONTSIGHT` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M4MagpulHandGuard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | M4MagpulHandGuard |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### AKMDustCover
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AK47Dustcover |
+| Category | `RAILING` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### PistolPlaceholder
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | PistolPlaceholder |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | Unknown |
+| Crafting Materials | Unknown |
+#### M16HandGuard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | M16HandGuard |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### VectorSwordfish
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | KrissVectorSwordfish |
+| Category | `FRONTSIGHT` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### RailRiser
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | RailRiser |
+| Category | `RAILING` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### AK47Grip
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AK47Grip |
+| Category | `BACKGRIP` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### MagpulCTRStockTan
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | MagpulCTRStockTan |
+| Category | `STOCK` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### RPKStock
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | RPKstock |
+| Category | `STOCK` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M38FrontSight
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | M38FrontSight |
+| Category | `FRONTSIGHT` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### ACRStock
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | ACRStock |
+| Category | `STOCK` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### MP5SDHandGuard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | MP5SDHandGuard |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### UTGTriRailHandGuard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | UTGTriRailHandGuard |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### Spas12Stock
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | Spas12Stock |
+| Category | `STOCK` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### MP5A3Stock
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | MP5A3Stock |
+| Category | `STOCK` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### MilSpecStock
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | MilSpecStock |
+| Category | `STOCK` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### ShotgunRail
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | ShotgunRail |
+| Category | `RAILING` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### SamuraiEdgeAWBody
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | SamuraiEdgeAWBody |
+| Category | `BACKGRIP` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M16Stock
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | M16Stock |
+| Category | `STOCK` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M60Rail
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | M60Rail |
+| Category | `RAILING` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### AKMagpulHandleGuardTan
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AKMagpulHandleGuardTan |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### DesertEagleSlide
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | DesertEagleSlide |
+| Category | `FRONTSIGHT` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### VLTORReceiver
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | VLTORReceiver |
+| Category | `RECEIVER` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M4CarbineHandGuard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | M4CarbineHandGuard |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M4GripTan
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | M4GripTan |
+| Category | `BACKGRIP` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### AUGA1handguard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGA1 |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M60HandGuard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | M60HandGuard |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### MP5HOGUEGrip
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | MP5HOGUEGrip |
+| Category | `BACKGRIP` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### MIMP5TRRail
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | MIMP5TRRail |
+| Category | `RAILING` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### AK101Grip
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AK101Grip |
+| Category | `BACKGRIP` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### CollapsableMOEStock
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | CollapsableMOEStock |
+| Category | `STOCK` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M249HandGuard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | M249HandGuard |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M191144MagBody
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | M191144MagBody |
+| Category | `BACKGRIP` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M9A1Body
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | M9A1Body |
+| Category | `BACKGRIP` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### RPKDustCover
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | RPKDustCover |
+| Category | `RAILING` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M4BenelliStock
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | M4BenelliStock |
+| Category | `STOCK` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### GlockHOGUEGrip
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | GlockHogueGrip |
+| Category | `BACKGRIP` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### MLOKExtendedHandguard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | MLOKExtendedHandguard |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M60E4HandGuard
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | M60E4Guard |
+| Category | `GUARD` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M1014Stock
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | M1014Stock |
+| Category | `STOCK` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M9A1Slide
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | M9A1Slide |
+| Category | `FRONTSIGHT` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### FABDefenseMount
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | FABDefenseMount |
+| Category | `RAILING` |
+| Texture Name | Dummy.png |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+## Scopes
+There are currently 120 scopes in the game! Here's the list of them:
+
+#### Kar98Ksight
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### GlockStock
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### HP
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | HPScope |
+| Category | Unknown |
+| Zoom Range | FloatRange(first=0.22, second=0.02) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M1A1Grip
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### EotechHybrid2
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | EotechHybrid2 |
+| Category | `SCOPE` |
+| Zoom Range | FloatRange(first=0.22, second=0.2) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### MicroT1
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | MicroT1 |
+| Category | `SCOPE` |
+| Zoom Range | Unknown |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | false |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### VGrip
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### SilencerEABH
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### Silencer9x39mm
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### AKMIron
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### Grip2
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### JunoGrip
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### PSO1
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | PSO1 |
+| Category | `SCOPE` |
+| Zoom Range | FloatRange(first=0.22, second=0.06) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### AimpointCompM5
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AimpointCompM5 |
+| Category | `SCOPE` |
+| Zoom Range | Unknown |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | false |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### Silencer57x38
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M32Barrel
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### Bipod
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### RPKBarrel
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### Silencer762x39
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### AKIron
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### HolographicAlt
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | HolographicAlt |
+| Category | `SCOPE` |
+| Zoom Range | Unknown |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | false |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M2A1sight
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | m2a1_sight |
+| Category | `SCOPE` |
+| Zoom Range | FloatRange(first=0.22, second=0.2) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### Silencer45ACP
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### VP70Stock
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### SRS99Scope
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### Silencer12Gauge
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### AngledGrip
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### MA5Dcover
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | MA5Dcover |
+| Category | Unknown |
+| Zoom Range | FloatRange(first=0.22, second=0.02) |
+| Texture Name | Dummy.png |
+| Night Vision | true |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### F2000Scope
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | F2000Scope |
+| Category | Unknown |
+| Zoom Range | FloatRange(first=0.22, second=0.02) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### NightRaider
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | NightRaiderScope |
+| Category | Unknown |
+| Zoom Range | FloatRange(first=0.22, second=0.02) |
+| Texture Name | Dummy.png |
+| Night Vision | true |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### DMRScope
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | DMRscope |
+| Category | Unknown |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M1928Grip
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### Silencer50BMG
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### Kobra
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | Kobra |
+| Category | `SCOPE` |
+| Zoom Range | Unknown |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | false |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### Laser2
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### Vortex
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | Vortex_sight |
+| Category | `SCOPE` |
+| Zoom Range | Unknown |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | false |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### SilencerMP5
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### Silencer556x45
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### Holographic
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | Holographic2 |
+| Category | `SCOPE` |
+| Zoom Range | Unknown |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | false |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### SilencerMP7
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### Reflex
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | Reflex |
+| Category | `SCOPE` |
+| Zoom Range | Unknown |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | false |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### ACOG
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | Acog |
+| Category | Unknown |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### Specter
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | Specter |
+| Category | Unknown |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### BR55Scope
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | BR55scope |
+| Category | Unknown |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### Silencer545x39
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### OKP7
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | okp7 |
+| Category | `SCOPE` |
+| Zoom Range | Unknown |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | false |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### BijiaReflex
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | BijiaReflex |
+| Category | `SCOPE` |
+| Zoom Range | Unknown |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | false |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### AUGscope
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGscope |
+| Category | Unknown |
+| Zoom Range | FloatRange(first=0.22, second=0.02) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### DanWessonLaser
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### Silencer762x51
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### Silencer300AACBlackout
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### Silencer556x39
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### StubbyGrip
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### Silencer9mm
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### Silencer762x54
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### RMR
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | RMRsight |
+| Category | `SCOPE` |
+| Zoom Range | Unknown |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | false |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### AK15ironsight
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### Silencer65x39
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### Laser
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### M202scope
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | M202scope |
+| Category | Unknown |
+| Zoom Range | FloatRange(first=0.22, second=0.02) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | Unknown |
+| Crafting Materials | Unknown |
+#### Silencer357
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |
+#### AUGgrip
+| Key | Value |
+| ---- | ---- |
+| Max Stack Size | 1 |
+| Item ID | AUGgrip |
+| Category | `GRIP` |
+| Zoom Range | FloatRange(first=0.22, second=0.1) |
+| Texture Name | Dummy.png |
+| Night Vision | false |
+| Mod Id | mw |
+| Crosshair | Unknown |
+| Optical Zoom | true |
+| Creative Tab | `AttachmentsTab` |
+| Crafting Materials | Unknown |

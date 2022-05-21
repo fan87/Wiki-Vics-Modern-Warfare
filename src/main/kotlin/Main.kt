@@ -1,13 +1,18 @@
 import org.objectweb.asm.ClassReader
 import org.objectweb.asm.tree.ClassNode
+import readers.Attachments
 import readers.Weapons
 import sections.Section
+import sections.impl.AttachmentsSection
+import sections.impl.ScopeSection
+import sections.impl.ScopesSection
 import sections.impl.WeaponsSection
 import java.io.File
 import java.util.jar.JarFile
 import kotlin.system.exitProcess
 
 lateinit var weapons: Weapons
+lateinit var attachments: Attachments
 
 var output = ""
 val inputFile = File("mw.jar")
@@ -43,9 +48,12 @@ fun main() {
 
     val sections = arrayListOf(
         WeaponsSection(),
+        AttachmentsSection(),
+        ScopesSection(),
     )
 
     weapons = Weapons(input, classes)
+    attachments = Attachments(input, classes)
 
     addOutput("""
 # Vic's Modern Warfare Document/Manual

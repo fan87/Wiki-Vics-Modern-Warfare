@@ -1,0 +1,2151 @@
+{
+  "com/vicmatskiv/mw/ModernWarfareMod": {
+    "name": "com/vicmatskiv/mw/ModernWarfareMod",
+    "annotations": [
+      {
+        "type": "CLASS",
+        "name": "Lnet/minecraftforge/fml/common/Mod;",
+        "target": "com/vicmatskiv/mw/ModernWarfareMod",
+        "values": {
+          "acceptedMinecraftVersions": {
+            "value": "[1.12.2]"
+          },
+          "modid": {
+            "value": "mw"
+          },
+          "version": {
+            "value": "0.4.4.6"
+          }
+        }
+      },
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/SidedProxy;",
+        "target": "MOD_CONTEXT",
+        "values": {
+          "clientSide": {
+            "value": "com.vicmatskiv.weaponlib.ClientModContext"
+          },
+          "serverSide": {
+            "value": "com.vicmatskiv.weaponlib.CommonModContext"
+          }
+        }
+      },
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/SidedProxy;",
+        "target": "proxy",
+        "values": {
+          "clientSide": {
+            "value": "com.vicmatskiv.mw.ClientProxy"
+          },
+          "serverSide": {
+            "value": "com.vicmatskiv.mw.CommonProxy"
+          }
+        }
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/Mod$EventHandler;",
+        "target": "init(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/Mod$EventHandler;",
+        "target": "init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/Mod$EventHandler;",
+        "target": "postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V"
+      }
+    ]
+  },
+  "com/vicmatskiv/mw/items/grenade/FuseGrenadeFactory": {
+    "name": "com/vicmatskiv/mw/items/grenade/FuseGrenadeFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/grenade/GrenadeFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/grenade/GasGrenadeFactory": {
+    "name": "com/vicmatskiv/mw/items/grenade/GasGrenadeFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/grenade/GrenadeFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/grenade/ImpactGrenadeFactory": {
+    "name": "com/vicmatskiv/mw/items/grenade/ImpactGrenadeFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/grenade/GrenadeFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/grenade/SmokeGrenadeFactory": {
+    "name": "com/vicmatskiv/mw/items/grenade/SmokeGrenadeFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/grenade/GrenadeFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/AACHoneyBadgerFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/AACHoneyBadgerFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/ACRFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/ACRFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/APSFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/APSFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/AS50Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/AS50Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/AUGFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/AUGFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/BFG9000Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/BFG9000Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/BrowningAuto5Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/BrowningAuto5Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/BrowningHiPowerFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/BrowningHiPowerFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/CSA16Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/CSA16Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/CZ805BrenFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/CZ805BrenFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/ChainsawFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/ChainsawFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/ChiappaRhinoFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/ChiappaRhinoFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/ChiappaTripleCrownFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/ChiappaTripleCrownFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/DL44Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/DL44Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/DesertEagleFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/DesertEagleFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/ESA23Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/ESA23Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/FatmanFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/FatmanFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/FrommerStopFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/FrommerStopFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/G36CFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/G36CFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/GL06Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/GL06Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/Glock18CFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/Glock18CFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/Glock19Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/Glock19Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/HAR27Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/HAR27Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/HESCSFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/HESCSFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/HS12Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/HS12Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/KS23Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/KS23Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/Kar98KFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/Kar98KFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/KragJorgensenFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/KragJorgensenFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/L96A1Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/L96A1Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/M1014Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/M1014Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/M110Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/M110Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/M134Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/M134Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/M16A4Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/M16A4Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/M1873Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/M1873Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/M1897Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/M1897Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/M1911Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/M1911Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/M1GarandFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/M1GarandFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/M202Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/M202Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/M32MGLFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/M32MGLFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/M38Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/M38Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/M40A6Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/M40A6Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/M41AFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/M41AFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/M45A1Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/M45A1Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/M45Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/M45Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/M4A1Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/M4A1Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/M500A2Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/M500A2Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/M56Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/M56Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/M6CFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/M6CFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/M6CSOCOMFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/M6CSOCOMFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/M712Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/M712Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/M79Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/M79Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/M82Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/M82Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/M8A7Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/M8A7Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/M9A1Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/M9A1Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/MP43EFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/MP43EFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/MP443Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/MP443Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/MaresLegFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/MaresLegFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/NTW20Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/NTW20Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/NV4Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/NV4Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/P10mmFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/P10mmFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/P226Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/P226Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/PythonFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/PythonFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/QuadBarrelShotgunFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/QuadBarrelShotgunFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/RPG7Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/RPG7Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/Remington870Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/Remington870Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/SCCYCPX2Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/SCCYCPX2Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/SL8Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/SL8Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/SSG42Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/SSG42Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/SV98Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/SV98Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/SW500MagnumFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/SW500MagnumFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/ScarHFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/ScarHFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/ScarLFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/ScarLFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/Spas12Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/Spas12Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/SpringfieldFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/SpringfieldFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/Super90Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/Super90Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/SupernovaFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/SupernovaFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/TaurusRagingHunterFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/TaurusRagingHunterFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/UziFactory": {
+    "name": "com/vicmatskiv/mw/items/guns/UziFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/guns/VP70Factory": {
+    "name": "com/vicmatskiv/mw/items/guns/VP70Factory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/guns/GunFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/melee/BaseballBatFactory": {
+    "name": "com/vicmatskiv/mw/items/melee/BaseballBatFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/melee/MeleeFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/melee/BaseballBatNailsFactory": {
+    "name": "com/vicmatskiv/mw/items/melee/BaseballBatNailsFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/melee/MeleeFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/melee/GasCanFactory": {
+    "name": "com/vicmatskiv/mw/items/melee/GasCanFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/melee/MeleeFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/melee/NightStickFactory": {
+    "name": "com/vicmatskiv/mw/items/melee/NightStickFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/melee/MeleeFactory"
+    ]
+  },
+  "com/vicmatskiv/mw/items/melee/TacticalTomahawkFactory": {
+    "name": "com/vicmatskiv/mw/items/melee/TacticalTomahawkFactory",
+    "interfaces": [
+      "com/vicmatskiv/mw/items/melee/MeleeFactory"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/ArmorControlHandler": {
+    "name": "com/vicmatskiv/weaponlib/ArmorControlHandler",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleMessageHandler"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/ArmorControlMessage": {
+    "name": "com/vicmatskiv/weaponlib/ArmorControlMessage",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleMessage"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/AttachmentBuilder$1": {
+    "name": "com/vicmatskiv/weaponlib/AttachmentBuilder$1",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/Part"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/BlockHitMessage": {
+    "name": "com/vicmatskiv/weaponlib/BlockHitMessage",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleMessage"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/BlockHitMessageHandler": {
+    "name": "com/vicmatskiv/weaponlib/BlockHitMessageHandler",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleMessageHandler"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/ClientEffectManager": {
+    "name": "com/vicmatskiv/weaponlib/ClientEffectManager",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/EffectManager"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/CommonModContext": {
+    "name": "com/vicmatskiv/weaponlib/CommonModContext",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/ModContext"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/CustomArmor": {
+    "name": "com/vicmatskiv/weaponlib/CustomArmor",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/ExposureProtection",
+      "net/minecraftforge/common/ISpecialArmor"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/DefaultPart": {
+    "name": "com/vicmatskiv/weaponlib/DefaultPart",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/Part"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/EntityBounceable": {
+    "name": "com/vicmatskiv/weaponlib/EntityBounceable",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/Contextual",
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleIEntityAdditionalSpawnData",
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleIThrowableEntity"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/EntityControlHandler": {
+    "name": "com/vicmatskiv/weaponlib/EntityControlHandler",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleMessageHandler"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/EntityControlMessage": {
+    "name": "com/vicmatskiv/weaponlib/EntityControlMessage",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleMessage"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/EntityProjectile": {
+    "name": "com/vicmatskiv/weaponlib/EntityProjectile",
+    "interfaces": [
+      "net/minecraft/entity/IProjectile",
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleIEntityAdditionalSpawnData"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/EntitySpreadable": {
+    "name": "com/vicmatskiv/weaponlib/EntitySpreadable",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/Contextual",
+      "com/vicmatskiv/weaponlib/Spreadable"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/ExplosionMessage": {
+    "name": "com/vicmatskiv/weaponlib/ExplosionMessage",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleMessage"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/ExplosionMessageHandler": {
+    "name": "com/vicmatskiv/weaponlib/ExplosionMessageHandler",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleMessageHandler"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/ItemAttachment": {
+    "name": "com/vicmatskiv/weaponlib/ItemAttachment",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/ModelSource"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/ItemMagazine": {
+    "name": "com/vicmatskiv/weaponlib/ItemMagazine",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/PlayerItemInstanceFactory",
+      "com/vicmatskiv/weaponlib/Reloadable",
+      "com/vicmatskiv/weaponlib/Updatable",
+      "com/vicmatskiv/weaponlib/Part"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/ItemStorage": {
+    "name": "com/vicmatskiv/weaponlib/ItemStorage",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/ModelSource"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/ItemVest": {
+    "name": "com/vicmatskiv/weaponlib/ItemVest",
+    "interfaces": [
+      "net/minecraftforge/common/ISpecialArmor",
+      "com/vicmatskiv/weaponlib/ModelSource"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/LaserBeamRenderer": {
+    "name": "com/vicmatskiv/weaponlib/LaserBeamRenderer",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/CustomRenderer"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/MagazineReloadAspect": {
+    "name": "com/vicmatskiv/weaponlib/MagazineReloadAspect",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/state/Aspect"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/MagazineState": {
+    "name": "com/vicmatskiv/weaponlib/MagazineState",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/state/ManagedState"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/PipelineShaderGroupSourceProvider": {
+    "name": "com/vicmatskiv/weaponlib/PipelineShaderGroupSourceProvider",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/shader/DynamicShaderGroupSourceProvider"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/PlayerItemInstance": {
+    "name": "com/vicmatskiv/weaponlib/PlayerItemInstance",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/state/ExtendedState",
+      "com/vicmatskiv/weaponlib/PlayerContext"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/PlayerRenderer$StateDescriptor": {
+    "name": "com/vicmatskiv/weaponlib/PlayerRenderer$StateDescriptor",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/animation/MultipartRenderStateDescriptor"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/PlayerTransitionProvider": {
+    "name": "com/vicmatskiv/weaponlib/PlayerTransitionProvider",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/animation/MultipartTransitionProvider"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/PlayerWeaponInstance": {
+    "name": "com/vicmatskiv/weaponlib/PlayerWeaponInstance",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/shader/DynamicShaderGroupSourceProvider"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/RenderContext": {
+    "name": "com/vicmatskiv/weaponlib/RenderContext",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/animation/PartPositionProvider"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/SpreadableExposureMessage": {
+    "name": "com/vicmatskiv/weaponlib/SpreadableExposureMessage",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleMessage"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/SpreadableExposureMessageHandler": {
+    "name": "com/vicmatskiv/weaponlib/SpreadableExposureMessageHandler",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleMessageHandler"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/TransformingResourceManager": {
+    "name": "com/vicmatskiv/weaponlib/TransformingResourceManager",
+    "interfaces": [
+      "net/minecraft/client/resources/IResourceManager"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/TryFireMessage": {
+    "name": "com/vicmatskiv/weaponlib/TryFireMessage",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleMessage"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/TryFireMessageHandler": {
+    "name": "com/vicmatskiv/weaponlib/TryFireMessageHandler",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleMessageHandler"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/Weapon": {
+    "name": "com/vicmatskiv/weaponlib/Weapon",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/PlayerItemInstanceFactory",
+      "com/vicmatskiv/weaponlib/AttachmentContainer",
+      "com/vicmatskiv/weaponlib/Reloadable",
+      "com/vicmatskiv/weaponlib/Inspectable",
+      "com/vicmatskiv/weaponlib/Modifiable",
+      "com/vicmatskiv/weaponlib/Updatable"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/WeaponAttachmentAspect": {
+    "name": "com/vicmatskiv/weaponlib/WeaponAttachmentAspect",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/state/Aspect"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/WeaponFireAspect": {
+    "name": "com/vicmatskiv/weaponlib/WeaponFireAspect",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/state/Aspect"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/WeaponReloadAspect": {
+    "name": "com/vicmatskiv/weaponlib/WeaponReloadAspect",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/state/Aspect"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/WeaponRenderer$FirstPersonWeaponTransitionProvider": {
+    "name": "com/vicmatskiv/weaponlib/WeaponRenderer$FirstPersonWeaponTransitionProvider",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/animation/MultipartTransitionProvider"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/WeaponRenderer$ThirdPersonWeaponTransitionProvider": {
+    "name": "com/vicmatskiv/weaponlib/WeaponRenderer$ThirdPersonWeaponTransitionProvider",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/animation/MultipartTransitionProvider"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/WeaponState": {
+    "name": "com/vicmatskiv/weaponlib/WeaponState",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/state/ManagedState"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/ai/EntityClassFactory": {
+    "name": "com/vicmatskiv/weaponlib/ai/EntityClassFactory",
+    "interfaces": [
+      "org/objectweb/asm/Opcodes"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/ai/EntityCustomMob": {
+    "name": "com/vicmatskiv/weaponlib/ai/EntityCustomMob",
+    "interfaces": [
+      "net/minecraft/entity/IRangedAttackMob",
+      "com/vicmatskiv/weaponlib/Contextual",
+      "com/vicmatskiv/weaponlib/Configurable"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/ai/ExplosionAttack": {
+    "name": "com/vicmatskiv/weaponlib/ai/ExplosionAttack",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/ai/CustomMobAttack",
+      "com/vicmatskiv/weaponlib/ai/Timeable"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/ai/InfectionAttack": {
+    "name": "com/vicmatskiv/weaponlib/ai/InfectionAttack",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/ai/CustomMobAttack",
+      "com/vicmatskiv/weaponlib/Spreadable"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/animation/MultipartRenderStateManager$StaticPositioning": {
+    "name": "com/vicmatskiv/weaponlib/animation/MultipartRenderStateManager$StaticPositioning",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/animation/MultipartPositioning"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/animation/MultipartRenderStateManager$StaticPositioning$1": {
+    "name": "com/vicmatskiv/weaponlib/animation/MultipartRenderStateManager$StaticPositioning$1",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/animation/MultipartPositioning$Positioner"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/animation/MultipartRenderStateManager$TransitionedPositioning": {
+    "name": "com/vicmatskiv/weaponlib/animation/MultipartRenderStateManager$TransitionedPositioning",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/animation/MultipartPositioning"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/animation/MultipartRenderStateManager$TransitionedPositioning$1": {
+    "name": "com/vicmatskiv/weaponlib/animation/MultipartRenderStateManager$TransitionedPositioning$1",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/animation/MultipartPositioning$Positioner"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/animation/MultipartRenderStateManager$TransitionedPositioning$2": {
+    "name": "com/vicmatskiv/weaponlib/animation/MultipartRenderStateManager$TransitionedPositioning$2",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/animation/MultipartPositioning$Positioner"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/Compatibility1_12_2": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/Compatibility1_12_2",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/compatibility/Compatibility"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleClientEventHandler": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleClientEventHandler",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onClientTick(Lnet/minecraftforge/fml/common/gameevent/TickEvent$ClientTickEvent;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onRenderTickEvent(Lnet/minecraftforge/fml/common/gameevent/TickEvent$RenderTickEvent;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onPreRenderPlayer(Lnet/minecraftforge/client/event/RenderPlayerEvent$Pre;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onPostRenderPlayer(Lnet/minecraftforge/client/event/RenderPlayerEvent$Post;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onRenderHand(Lnet/minecraftforge/client/event/RenderHandEvent;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onTextureStitchEvent(Lnet/minecraftforge/client/event/TextureStitchEvent$Pre;)V"
+      }
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleCustomPlayerInventoryCapability": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleCustomPlayerInventoryCapability",
+    "interfaces": [
+      "net/minecraftforge/common/capabilities/ICapabilitySerializable"
+    ],
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/common/capabilities/CapabilityInject;",
+        "target": "capabilityContainer",
+        "value": {
+          "type": "CLASS",
+          "value": "Lcom/vicmatskiv/weaponlib/compatibility/CompatibleCustomPlayerInventoryCapability$InventoryContainer;"
+        }
+      }
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleCustomPlayerInventoryCapability$InventoryContainerImpl": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleCustomPlayerInventoryCapability$InventoryContainerImpl",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleCustomPlayerInventoryCapability$InventoryContainer"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleCustomPlayerInventoryCapability$InventoryStorage": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleCustomPlayerInventoryCapability$InventoryStorage",
+    "interfaces": [
+      "net/minecraftforge/common/capabilities/Capability$IStorage"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleExposureCapability": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleExposureCapability",
+    "interfaces": [
+      "net/minecraftforge/common/capabilities/ICapabilitySerializable"
+    ],
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/common/capabilities/CapabilityInject;",
+        "target": "capabilityContainer",
+        "value": {
+          "type": "CLASS",
+          "value": "Lcom/vicmatskiv/weaponlib/compatibility/CompatibleExposureCapability$ExposureContainer;"
+        }
+      }
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleExposureCapability$ExposureContainerImpl": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleExposureCapability$ExposureContainerImpl",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleExposureCapability$ExposureContainer"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleExposureCapability$ExposureContainerStorage": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleExposureCapability$ExposureContainerStorage",
+    "interfaces": [
+      "net/minecraftforge/common/capabilities/Capability$IStorage"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleExtraEntityFlags": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleExtraEntityFlags",
+    "interfaces": [
+      "net/minecraftforge/common/capabilities/ICapabilitySerializable"
+    ],
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/common/capabilities/CapabilityInject;",
+        "target": "capabilityContainer",
+        "value": {
+          "type": "CLASS",
+          "value": "Lcom/vicmatskiv/weaponlib/compatibility/CompatibleExtraEntityFlags$ExtraEntityFlagsContainer;"
+        }
+      }
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleExtraEntityFlags$ExtraEntityFlagsContainerImpl": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleExtraEntityFlags$ExtraEntityFlagsContainerImpl",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleExtraEntityFlags$ExtraEntityFlagsContainer"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleExtraEntityFlags$ExtraEntityFlagsContainerStorage": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleExtraEntityFlags$ExtraEntityFlagsContainerStorage",
+    "interfaces": [
+      "net/minecraftforge/common/capabilities/Capability$IStorage"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleGrenadeRenderer": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleGrenadeRenderer",
+    "interfaces": [
+      "net/minecraft/client/renderer/block/model/IBakedModel"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleGui": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleGui",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onRenderHud(Lnet/minecraftforge/client/event/RenderGameOverlayEvent$Pre;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onRenderCrosshair(Lnet/minecraftforge/client/event/RenderGameOverlayEvent$Pre;)V"
+      }
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleGuiHandler": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleGuiHandler",
+    "interfaces": [
+      "net/minecraftforge/fml/common/network/IGuiHandler"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleIEntityAdditionalSpawnData": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleIEntityAdditionalSpawnData",
+    "interfaces": [
+      "net/minecraftforge/fml/common/registry/IEntityAdditionalSpawnData"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleIThrowableEntity": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleIThrowableEntity",
+    "interfaces": [
+      "net/minecraftforge/fml/common/registry/IThrowableEntity"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleInventory": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleInventory",
+    "interfaces": [
+      "net/minecraft/inventory/IInventory"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleInventoryTabs": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleInventoryTabs",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onGuiPostInit(Lnet/minecraftforge/client/event/GuiScreenEvent$InitGuiEvent$Post;)V"
+      }
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleMeleeRenderer": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleMeleeRenderer",
+    "interfaces": [
+      "net/minecraft/client/renderer/block/model/IBakedModel"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleMessage": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleMessage",
+    "interfaces": [
+      "net/minecraftforge/fml/common/network/simpleimpl/IMessage"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleMessageHandler": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleMessageHandler",
+    "interfaces": [
+      "net/minecraftforge/fml/common/network/simpleimpl/IMessageHandler"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatiblePlayerEntityTrackerProvider": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatiblePlayerEntityTrackerProvider",
+    "interfaces": [
+      "net/minecraftforge/common/capabilities/ICapabilitySerializable"
+    ],
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/common/capabilities/CapabilityInject;",
+        "target": "playerEntityTrackerContainer",
+        "value": {
+          "type": "CLASS",
+          "value": "Lcom/vicmatskiv/weaponlib/compatibility/CompatiblePlayerEntityTrackerProvider$PlayerEntityTrackerContainer;"
+        }
+      }
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatiblePlayerEntityTrackerProvider$PlayerEntityTrackerContainerImpl": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatiblePlayerEntityTrackerProvider$PlayerEntityTrackerContainerImpl",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/compatibility/CompatiblePlayerEntityTrackerProvider$PlayerEntityTrackerContainer"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatiblePlayerEntityTrackerProvider$PlayerEntityTrackerStorage": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatiblePlayerEntityTrackerProvider$PlayerEntityTrackerStorage",
+    "interfaces": [
+      "net/minecraftforge/common/capabilities/Capability$IStorage"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleRenderGlobal$1": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleRenderGlobal$1",
+    "interfaces": [
+      "net/minecraft/crash/ICrashReportDetail"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleRenderingRegistry": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleRenderingRegistry",
+    "interfaces": [
+      "net/minecraftforge/client/model/ICustomModelLoader"
+    ],
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "bakeModel(Lnet/minecraftforge/client/event/ModelBakeEvent;)V"
+      }
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleResourcePack": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleResourcePack",
+    "interfaces": [
+      "net/minecraft/client/resources/IResourcePack"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleServerEventHandler": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleServerEventHandler",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onItemToss(Lnet/minecraftforge/event/entity/item/ItemTossEvent;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onPlayerTickEvent(Lnet/minecraftforge/fml/common/gameevent/TickEvent$PlayerTickEvent;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onTick(Lnet/minecraftforge/fml/common/gameevent/TickEvent$ServerTickEvent;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "attachCapability(Lnet/minecraftforge/event/AttachCapabilitiesEvent;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onEntityConstructing(Lnet/minecraftforge/event/entity/EntityEvent$EntityConstructing;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onEntityJoinWorld(Lnet/minecraftforge/event/entity/EntityJoinWorldEvent;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "playerDroppedItem(Lnet/minecraftforge/event/entity/player/PlayerDropsEvent;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "playerStartedTracking(Lnet/minecraftforge/event/entity/player/PlayerEvent$StartTracking;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "playerStoppedTracking(Lnet/minecraftforge/event/entity/player/PlayerEvent$StopTracking;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onEntityUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingUpdateEvent;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onLivingHurt(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onPlayerClone(Lnet/minecraftforge/event/entity/player/PlayerEvent$Clone;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onPlayerRespawn(Lnet/minecraftforge/fml/common/gameevent/PlayerEvent$PlayerRespawnEvent;)V"
+      }
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleStaticModelSourceRenderer": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleStaticModelSourceRenderer",
+    "interfaces": [
+      "net/minecraft/client/renderer/block/model/IBakedModel"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleThrowableEntity": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleThrowableEntity",
+    "interfaces": [
+      "net/minecraftforge/fml/common/registry/IEntityAdditionalSpawnData"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleWeaponEventHandler": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleWeaponEventHandler",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onGuiOpenEvent(Lnet/minecraftforge/client/event/GuiOpenEvent;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "zoom(Lnet/minecraftforge/client/event/FOVUpdateEvent;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onMouse(Lnet/minecraftforge/client/event/MouseEvent;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "handleRenderLivingEvent(Lnet/minecraftforge/client/event/RenderLivingEvent$Pre;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onEntityJoinedWorldEvent(Lnet/minecraftforge/event/entity/EntityJoinWorldEvent;)V"
+      }
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleWeaponKeyInputHandler": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleWeaponKeyInputHandler",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onKeyInput(Lnet/minecraftforge/fml/common/gameevent/InputEvent$KeyInputEvent;)V"
+      }
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleWeaponRenderer": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleWeaponRenderer",
+    "interfaces": [
+      "net/minecraft/client/renderer/block/model/IBakedModel"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleWeaponRenderer$StateDescriptor": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleWeaponRenderer$StateDescriptor",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/animation/MultipartRenderStateDescriptor"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleWorldGenerator": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleWorldGenerator",
+    "interfaces": [
+      "net/minecraftforge/fml/common/IWorldGenerator"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleWorldRenderer$1": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleWorldRenderer$1",
+    "interfaces": [
+      "com/google/common/base/Predicate"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleWorldRenderer$2": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleWorldRenderer$2",
+    "interfaces": [
+      "net/minecraft/crash/ICrashReportDetail"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleWorldRenderer$3": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleWorldRenderer$3",
+    "interfaces": [
+      "net/minecraft/crash/ICrashReportDetail"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/CompatibleWorldRenderer$4": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/CompatibleWorldRenderer$4",
+    "interfaces": [
+      "net/minecraft/crash/ICrashReportDetail"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/compatibility/ModelSourceRenderer": {
+    "name": "com/vicmatskiv/weaponlib/compatibility/ModelSourceRenderer",
+    "interfaces": [
+      "net/minecraft/client/renderer/block/model/IBakedModel"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/config/AI": {
+    "name": "com/vicmatskiv/weaponlib/config/AI",
+    "annotations": [
+      {
+        "type": "CLASS",
+        "name": "Ljavax/xml/bind/annotation/XmlAccessorType;",
+        "target": "com/vicmatskiv/weaponlib/config/AI",
+        "value": {
+          "type": "ENUM",
+          "value": "Ljavax/xml/bind/annotation/XmlAccessType;/FIELD"
+        }
+      },
+      {
+        "type": "CLASS",
+        "name": "Ljavax/xml/bind/annotation/XmlType;",
+        "target": "com/vicmatskiv/weaponlib/config/AI",
+        "values": {
+          "name": {
+            "value": "AI"
+          },
+          "propOrder": {
+            "values": [
+              "entity"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "com/vicmatskiv/weaponlib/config/AIEntity": {
+    "name": "com/vicmatskiv/weaponlib/config/AIEntity",
+    "annotations": [
+      {
+        "type": "CLASS",
+        "name": "Ljavax/xml/bind/annotation/XmlAccessorType;",
+        "target": "com/vicmatskiv/weaponlib/config/AIEntity",
+        "value": {
+          "type": "ENUM",
+          "value": "Ljavax/xml/bind/annotation/XmlAccessType;/FIELD"
+        }
+      },
+      {
+        "type": "CLASS",
+        "name": "Ljavax/xml/bind/annotation/XmlType;",
+        "target": "com/vicmatskiv/weaponlib/config/AIEntity",
+        "values": {
+          "name": {
+            "value": "AIEntity"
+          },
+          "propOrder": {
+            "values": [
+              "equipment"
+            ]
+          }
+        }
+      },
+      {
+        "type": "FIELD",
+        "name": "Ljavax/xml/bind/annotation/XmlAttribute;",
+        "target": "name",
+        "values": {
+          "name": {
+            "value": "name"
+          }
+        }
+      },
+      {
+        "type": "FIELD",
+        "name": "Ljavax/xml/bind/annotation/XmlAttribute;",
+        "target": "health",
+        "values": {
+          "name": {
+            "value": "health"
+          }
+        }
+      },
+      {
+        "type": "FIELD",
+        "name": "Ljavax/xml/bind/annotation/XmlAttribute;",
+        "target": "spawn",
+        "values": {
+          "name": {
+            "value": "spawn"
+          }
+        }
+      }
+    ]
+  },
+  "com/vicmatskiv/weaponlib/config/Attachment": {
+    "name": "com/vicmatskiv/weaponlib/config/Attachment",
+    "annotations": [
+      {
+        "type": "CLASS",
+        "name": "Ljavax/xml/bind/annotation/XmlAccessorType;",
+        "target": "com/vicmatskiv/weaponlib/config/Attachment",
+        "value": {
+          "type": "ENUM",
+          "value": "Ljavax/xml/bind/annotation/XmlAccessType;/FIELD"
+        }
+      },
+      {
+        "type": "CLASS",
+        "name": "Ljavax/xml/bind/annotation/XmlType;",
+        "target": "com/vicmatskiv/weaponlib/config/Attachment",
+        "values": {
+          "name": {
+            "value": "Attachment"
+          }
+        }
+      },
+      {
+        "type": "FIELD",
+        "name": "Ljavax/xml/bind/annotation/XmlAttribute;",
+        "target": "id",
+        "values": {
+          "name": {
+            "value": "id"
+          }
+        }
+      }
+    ]
+  },
+  "com/vicmatskiv/weaponlib/config/Configuration": {
+    "name": "com/vicmatskiv/weaponlib/config/Configuration",
+    "annotations": [
+      {
+        "type": "CLASS",
+        "name": "Ljavax/xml/bind/annotation/XmlAccessorType;",
+        "target": "com/vicmatskiv/weaponlib/config/Configuration",
+        "value": {
+          "type": "ENUM",
+          "value": "Ljavax/xml/bind/annotation/XmlAccessType;/FIELD"
+        }
+      },
+      {
+        "type": "CLASS",
+        "name": "Ljavax/xml/bind/annotation/XmlType;",
+        "target": "com/vicmatskiv/weaponlib/config/Configuration",
+        "values": {
+          "name": {
+            "value": "Configuration"
+          },
+          "propOrder": {
+            "values": [
+              "ores",
+              "explosions",
+              "projectiles",
+              "gui",
+              "ai"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "com/vicmatskiv/weaponlib/config/EntityEquipment": {
+    "name": "com/vicmatskiv/weaponlib/config/EntityEquipment",
+    "annotations": [
+      {
+        "type": "CLASS",
+        "name": "Ljavax/xml/bind/annotation/XmlAccessorType;",
+        "target": "com/vicmatskiv/weaponlib/config/EntityEquipment",
+        "value": {
+          "type": "ENUM",
+          "value": "Ljavax/xml/bind/annotation/XmlAccessType;/FIELD"
+        }
+      },
+      {
+        "type": "CLASS",
+        "name": "Ljavax/xml/bind/annotation/XmlType;",
+        "target": "com/vicmatskiv/weaponlib/config/EntityEquipment",
+        "values": {
+          "name": {
+            "value": "EntityEquipment"
+          },
+          "propOrder": {
+            "values": [
+              "attachment"
+            ]
+          }
+        }
+      },
+      {
+        "type": "FIELD",
+        "name": "Ljavax/xml/bind/annotation/XmlAttribute;",
+        "target": "id",
+        "values": {
+          "name": {
+            "value": "id"
+          }
+        }
+      },
+      {
+        "type": "FIELD",
+        "name": "Ljavax/xml/bind/annotation/XmlAttribute;",
+        "target": "weight",
+        "values": {
+          "name": {
+            "value": "weight"
+          }
+        }
+      }
+    ]
+  },
+  "com/vicmatskiv/weaponlib/config/Explosions": {
+    "name": "com/vicmatskiv/weaponlib/config/Explosions",
+    "annotations": [
+      {
+        "type": "CLASS",
+        "name": "Ljavax/xml/bind/annotation/XmlAccessorType;",
+        "target": "com/vicmatskiv/weaponlib/config/Explosions",
+        "value": {
+          "type": "ENUM",
+          "value": "Ljavax/xml/bind/annotation/XmlAccessType;/FIELD"
+        }
+      },
+      {
+        "type": "CLASS",
+        "name": "Ljavax/xml/bind/annotation/XmlType;",
+        "target": "com/vicmatskiv/weaponlib/config/Explosions",
+        "values": {
+          "name": {
+            "value": "Explosions"
+          }
+        }
+      },
+      {
+        "type": "FIELD",
+        "name": "Ljavax/xml/bind/annotation/XmlAttribute;",
+        "target": "damage",
+        "values": {
+          "name": {
+            "value": "damage"
+          }
+        }
+      },
+      {
+        "type": "FIELD",
+        "name": "Ljavax/xml/bind/annotation/XmlAttribute;",
+        "target": "dropBlockChance",
+        "values": {
+          "name": {
+            "value": "dropBlockChance"
+          }
+        }
+      }
+    ]
+  },
+  "com/vicmatskiv/weaponlib/config/Gui": {
+    "name": "com/vicmatskiv/weaponlib/config/Gui",
+    "annotations": [
+      {
+        "type": "CLASS",
+        "name": "Ljavax/xml/bind/annotation/XmlAccessorType;",
+        "target": "com/vicmatskiv/weaponlib/config/Gui",
+        "value": {
+          "type": "ENUM",
+          "value": "Ljavax/xml/bind/annotation/XmlAccessType;/FIELD"
+        }
+      },
+      {
+        "type": "CLASS",
+        "name": "Ljavax/xml/bind/annotation/XmlType;",
+        "target": "com/vicmatskiv/weaponlib/config/Gui",
+        "values": {
+          "name": {
+            "value": "Gui"
+          }
+        }
+      },
+      {
+        "type": "FIELD",
+        "name": "Ljavax/xml/bind/annotation/XmlAttribute;",
+        "target": "statusBarPosition",
+        "values": {
+          "name": {
+            "value": "statusBarPosition"
+          },
+          "required": {
+            "type": "BOOL",
+            "value": "true"
+          }
+        }
+      }
+    ]
+  },
+  "com/vicmatskiv/weaponlib/config/Gun": {
+    "name": "com/vicmatskiv/weaponlib/config/Gun",
+    "annotations": [
+      {
+        "type": "CLASS",
+        "name": "Ljavax/xml/bind/annotation/XmlAccessorType;",
+        "target": "com/vicmatskiv/weaponlib/config/Gun",
+        "value": {
+          "type": "ENUM",
+          "value": "Ljavax/xml/bind/annotation/XmlAccessType;/FIELD"
+        }
+      },
+      {
+        "type": "CLASS",
+        "name": "Ljavax/xml/bind/annotation/XmlType;",
+        "target": "com/vicmatskiv/weaponlib/config/Gun",
+        "values": {
+          "name": {
+            "value": "Gun"
+          }
+        }
+      },
+      {
+        "type": "FIELD",
+        "name": "Ljavax/xml/bind/annotation/XmlAttribute;",
+        "target": "id",
+        "values": {
+          "name": {
+            "value": "id"
+          }
+        }
+      },
+      {
+        "type": "FIELD",
+        "name": "Ljavax/xml/bind/annotation/XmlAttribute;",
+        "target": "enabled",
+        "values": {
+          "name": {
+            "value": "enabled"
+          }
+        }
+      },
+      {
+        "type": "FIELD",
+        "name": "Ljavax/xml/bind/annotation/XmlAttribute;",
+        "target": "damage",
+        "values": {
+          "name": {
+            "value": "damage"
+          }
+        }
+      }
+    ]
+  },
+  "com/vicmatskiv/weaponlib/config/ObjectFactory": {
+    "name": "com/vicmatskiv/weaponlib/config/ObjectFactory",
+    "annotations": [
+      {
+        "type": "CLASS",
+        "name": "Ljavax/xml/bind/annotation/XmlRegistry;",
+        "target": "com/vicmatskiv/weaponlib/config/ObjectFactory"
+      },
+      {
+        "type": "METHOD",
+        "name": "Ljavax/xml/bind/annotation/XmlElementDecl;",
+        "target": "createConfiguration(Lcom/vicmatskiv/weaponlib/config/Configuration;)Ljavax/xml/bind/JAXBElement;",
+        "values": {
+          "name": {
+            "value": "configuration"
+          },
+          "namespace": {
+            "value": "http://moderwarfaremod.org/config"
+          }
+        }
+      }
+    ]
+  },
+  "com/vicmatskiv/weaponlib/config/Ore": {
+    "name": "com/vicmatskiv/weaponlib/config/Ore",
+    "annotations": [
+      {
+        "type": "CLASS",
+        "name": "Ljavax/xml/bind/annotation/XmlAccessorType;",
+        "target": "com/vicmatskiv/weaponlib/config/Ore",
+        "value": {
+          "type": "ENUM",
+          "value": "Ljavax/xml/bind/annotation/XmlAccessType;/FIELD"
+        }
+      },
+      {
+        "type": "CLASS",
+        "name": "Ljavax/xml/bind/annotation/XmlType;",
+        "target": "com/vicmatskiv/weaponlib/config/Ore",
+        "values": {
+          "name": {
+            "value": "Ore"
+          }
+        }
+      },
+      {
+        "type": "FIELD",
+        "name": "Ljavax/xml/bind/annotation/XmlAttribute;",
+        "target": "name",
+        "values": {
+          "name": {
+            "value": "name"
+          }
+        }
+      },
+      {
+        "type": "FIELD",
+        "name": "Ljavax/xml/bind/annotation/XmlAttribute;",
+        "target": "spawnsPerChunk",
+        "values": {
+          "name": {
+            "value": "spawnsPerChunk"
+          }
+        }
+      }
+    ]
+  },
+  "com/vicmatskiv/weaponlib/config/Ores": {
+    "name": "com/vicmatskiv/weaponlib/config/Ores",
+    "annotations": [
+      {
+        "type": "CLASS",
+        "name": "Ljavax/xml/bind/annotation/XmlAccessorType;",
+        "target": "com/vicmatskiv/weaponlib/config/Ores",
+        "value": {
+          "type": "ENUM",
+          "value": "Ljavax/xml/bind/annotation/XmlAccessType;/FIELD"
+        }
+      },
+      {
+        "type": "CLASS",
+        "name": "Ljavax/xml/bind/annotation/XmlType;",
+        "target": "com/vicmatskiv/weaponlib/config/Ores",
+        "values": {
+          "name": {
+            "value": "Ores"
+          },
+          "propOrder": {
+            "values": [
+              "ore"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "com/vicmatskiv/weaponlib/config/Projectiles": {
+    "name": "com/vicmatskiv/weaponlib/config/Projectiles",
+    "annotations": [
+      {
+        "type": "CLASS",
+        "name": "Ljavax/xml/bind/annotation/XmlAccessorType;",
+        "target": "com/vicmatskiv/weaponlib/config/Projectiles",
+        "value": {
+          "type": "ENUM",
+          "value": "Ljavax/xml/bind/annotation/XmlAccessType;/FIELD"
+        }
+      },
+      {
+        "type": "CLASS",
+        "name": "Ljavax/xml/bind/annotation/XmlType;",
+        "target": "com/vicmatskiv/weaponlib/config/Projectiles",
+        "values": {
+          "name": {
+            "value": "Projectiles"
+          },
+          "propOrder": {
+            "values": [
+              "gun"
+            ]
+          }
+        }
+      },
+      {
+        "type": "FIELD",
+        "name": "Ljavax/xml/bind/annotation/XmlAttribute;",
+        "target": "bleedingOnHit",
+        "values": {
+          "name": {
+            "value": "bleedingOnHit"
+          }
+        }
+      },
+      {
+        "type": "FIELD",
+        "name": "Ljavax/xml/bind/annotation/XmlAttribute;",
+        "target": "destroyGlassBlocks",
+        "values": {
+          "name": {
+            "value": "destroyGlassBlocks"
+          }
+        }
+      },
+      {
+        "type": "FIELD",
+        "name": "Ljavax/xml/bind/annotation/XmlAttribute;",
+        "target": "knockbackOnHit",
+        "values": {
+          "name": {
+            "value": "knockbackOnHit"
+          }
+        }
+      },
+      {
+        "type": "FIELD",
+        "name": "Ljavax/xml/bind/annotation/XmlAttribute;",
+        "target": "muzzleEffects",
+        "values": {
+          "name": {
+            "value": "muzzleEffects"
+          }
+        }
+      },
+      {
+        "type": "FIELD",
+        "name": "Ljavax/xml/bind/annotation/XmlAttribute;",
+        "target": "blurOnAim",
+        "values": {
+          "name": {
+            "value": "blurOnAim"
+          }
+        }
+      }
+    ]
+  },
+  "com/vicmatskiv/weaponlib/config/package-info": {
+    "name": "com/vicmatskiv/weaponlib/config/package-info",
+    "annotations": [
+      {
+        "type": "CLASS",
+        "name": "Ljavax/xml/bind/annotation/XmlSchema;",
+        "target": "com/vicmatskiv/weaponlib/config/package-info",
+        "values": {
+          "elementFormDefault": {
+            "type": "ENUM",
+            "value": "Ljavax/xml/bind/annotation/XmlNsForm;/QUALIFIED"
+          },
+          "namespace": {
+            "value": "http://moderwarfaremod.org/config"
+          }
+        }
+      }
+    ]
+  },
+  "com/vicmatskiv/weaponlib/core/WeaponlibClassTransformer": {
+    "name": "com/vicmatskiv/weaponlib/core/WeaponlibClassTransformer",
+    "interfaces": [
+      "net/minecraft/launchwrapper/IClassTransformer"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/core/WeaponlibCorePlugin": {
+    "name": "com/vicmatskiv/weaponlib/core/WeaponlibCorePlugin",
+    "interfaces": [
+      "net/minecraftforge/fml/relauncher/IFMLLoadingPlugin"
+    ],
+    "annotations": [
+      {
+        "type": "CLASS",
+        "name": "Lnet/minecraftforge/fml/relauncher/IFMLLoadingPlugin$Name;",
+        "target": "com/vicmatskiv/weaponlib/core/WeaponlibCorePlugin",
+        "value": {
+          "value": "weaponlib"
+        }
+      },
+      {
+        "type": "CLASS",
+        "name": "Lnet/minecraftforge/fml/relauncher/IFMLLoadingPlugin$TransformerExclusions;",
+        "target": "com/vicmatskiv/weaponlib/core/WeaponlibCorePlugin",
+        "value": {
+          "values": [
+            "com.vicmatskiv.weaponlib.core"
+          ]
+        }
+      },
+      {
+        "type": "CLASS",
+        "name": "Lnet/minecraftforge/fml/relauncher/IFMLLoadingPlugin$MCVersion;",
+        "target": "com/vicmatskiv/weaponlib/core/WeaponlibCorePlugin",
+        "value": {
+          "value": "1.12.2"
+        }
+      }
+    ]
+  },
+  "com/vicmatskiv/weaponlib/electronics/HandheldState": {
+    "name": "com/vicmatskiv/weaponlib/electronics/HandheldState",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/state/ManagedState"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/electronics/ItemHandheld": {
+    "name": "com/vicmatskiv/weaponlib/electronics/ItemHandheld",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/PlayerItemInstanceFactory",
+      "com/vicmatskiv/weaponlib/Updatable"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/electronics/ItemTablet": {
+    "name": "com/vicmatskiv/weaponlib/electronics/ItemTablet",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/PlayerItemInstanceFactory",
+      "com/vicmatskiv/weaponlib/Updatable"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/electronics/ItemWirelessCamera": {
+    "name": "com/vicmatskiv/weaponlib/electronics/ItemWirelessCamera",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/ModelSource"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/electronics/TabletState": {
+    "name": "com/vicmatskiv/weaponlib/electronics/TabletState",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/state/ManagedState"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/grenade/GrenadeAttackAspect": {
+    "name": "com/vicmatskiv/weaponlib/grenade/GrenadeAttackAspect",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/state/Aspect"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/grenade/GrenadeMessage": {
+    "name": "com/vicmatskiv/weaponlib/grenade/GrenadeMessage",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleMessage"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/grenade/GrenadeMessageHandler": {
+    "name": "com/vicmatskiv/weaponlib/grenade/GrenadeMessageHandler",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleMessageHandler"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/grenade/GrenadeRenderer$WeaponPositionProvider": {
+    "name": "com/vicmatskiv/weaponlib/grenade/GrenadeRenderer$WeaponPositionProvider",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/animation/MultipartTransitionProvider"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/grenade/GrenadeState": {
+    "name": "com/vicmatskiv/weaponlib/grenade/GrenadeState",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/state/ManagedState"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/grenade/ItemGrenade": {
+    "name": "com/vicmatskiv/weaponlib/grenade/ItemGrenade",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/PlayerItemInstanceFactory",
+      "com/vicmatskiv/weaponlib/AttachmentContainer",
+      "com/vicmatskiv/weaponlib/Updatable"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/inventory/CustomPlayerInventory": {
+    "name": "com/vicmatskiv/weaponlib/inventory/CustomPlayerInventory",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/Contextual"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/inventory/EntityInventorySyncHandler": {
+    "name": "com/vicmatskiv/weaponlib/inventory/EntityInventorySyncHandler",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleMessageHandler"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/inventory/EntityInventorySyncMessage": {
+    "name": "com/vicmatskiv/weaponlib/inventory/EntityInventorySyncMessage",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleMessage"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/inventory/OpenCustomInventoryGuiHandler": {
+    "name": "com/vicmatskiv/weaponlib/inventory/OpenCustomInventoryGuiHandler",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleMessageHandler"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/inventory/OpenCustomPlayerInventoryGuiMessage": {
+    "name": "com/vicmatskiv/weaponlib/inventory/OpenCustomPlayerInventoryGuiMessage",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleMessage"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/melee/ItemMelee": {
+    "name": "com/vicmatskiv/weaponlib/melee/ItemMelee",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/PlayerItemInstanceFactory",
+      "com/vicmatskiv/weaponlib/AttachmentContainer",
+      "com/vicmatskiv/weaponlib/Modifiable",
+      "com/vicmatskiv/weaponlib/Updatable"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/melee/MeleeAttachmentAspect": {
+    "name": "com/vicmatskiv/weaponlib/melee/MeleeAttachmentAspect",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/state/Aspect"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/melee/MeleeAttackAspect": {
+    "name": "com/vicmatskiv/weaponlib/melee/MeleeAttackAspect",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/state/Aspect"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/melee/MeleeRenderer$WeaponPositionProvider": {
+    "name": "com/vicmatskiv/weaponlib/melee/MeleeRenderer$WeaponPositionProvider",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/animation/MultipartTransitionProvider"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/melee/MeleeState": {
+    "name": "com/vicmatskiv/weaponlib/melee/MeleeState",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/state/ManagedState"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/melee/TryAttackMessage": {
+    "name": "com/vicmatskiv/weaponlib/melee/TryAttackMessage",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleMessage"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/melee/TryAttackMessageHandler": {
+    "name": "com/vicmatskiv/weaponlib/melee/TryAttackMessageHandler",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleMessageHandler"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/network/NetworkPermitManager": {
+    "name": "com/vicmatskiv/weaponlib/network/NetworkPermitManager",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/state/PermitManager",
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleMessageHandler"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/network/PermitMessage": {
+    "name": "com/vicmatskiv/weaponlib/network/PermitMessage",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleMessage"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/network/UniversalObject": {
+    "name": "com/vicmatskiv/weaponlib/network/UniversalObject",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/network/UniversallySerializable"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/particle/SpawnParticleMessage": {
+    "name": "com/vicmatskiv/weaponlib/particle/SpawnParticleMessage",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleMessage"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/particle/SpawnParticleMessageHandler": {
+    "name": "com/vicmatskiv/weaponlib/particle/SpawnParticleMessageHandler",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleMessageHandler"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/perspective/PerspectiveRenderer": {
+    "name": "com/vicmatskiv/weaponlib/perspective/PerspectiveRenderer",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/CustomRenderer"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/shader/DynamicShaderPhase$1": {
+    "name": "com/vicmatskiv/weaponlib/shader/DynamicShaderPhase$1",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/shader/DynamicShaderPhase"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/shader/DynamicShaderPhase$CompatibleWorldRendererTarget": {
+    "name": "com/vicmatskiv/weaponlib/shader/DynamicShaderPhase$CompatibleWorldRendererTarget",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/shader/DynamicShaderPhase"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/shader/DynamicShaderPhase$EntityRendererTarget": {
+    "name": "com/vicmatskiv/weaponlib/shader/DynamicShaderPhase$EntityRendererTarget",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/shader/DynamicShaderPhase"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/state/ManagedState": {
+    "name": "com/vicmatskiv/weaponlib/state/ManagedState",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/network/UniversallySerializable"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/state/StateContext": {
+    "name": "com/vicmatskiv/weaponlib/state/StateContext",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/state/ExtendedState"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/tile/CustomTileEntity": {
+    "name": "com/vicmatskiv/weaponlib/tile/CustomTileEntity",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/Configurable"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/tile/CustomTileEntityClassFactory": {
+    "name": "com/vicmatskiv/weaponlib/tile/CustomTileEntityClassFactory",
+    "interfaces": [
+      "org/objectweb/asm/Opcodes"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/tracking/SyncPlayerEntityTrackerMessage": {
+    "name": "com/vicmatskiv/weaponlib/tracking/SyncPlayerEntityTrackerMessage",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleMessage"
+    ]
+  },
+  "com/vicmatskiv/weaponlib/tracking/SyncPlayerEntityTrackerMessageMessageHandler": {
+    "name": "com/vicmatskiv/weaponlib/tracking/SyncPlayerEntityTrackerMessageMessageHandler",
+    "interfaces": [
+      "com/vicmatskiv/weaponlib/compatibility/CompatibleMessageHandler"
+    ]
+  }
+}

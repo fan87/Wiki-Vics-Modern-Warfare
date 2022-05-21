@@ -13,6 +13,10 @@ repositories {
 
 dependencies {
     testImplementation(kotlin("test"))
+
+    implementation("org.ow2.asm:asm-util:9.3")
+    implementation("org.ow2.asm:asm:9.3")
+    implementation("org.jetbrains.kotlin:kotlin-reflect:1.6.21")
 }
 
 tasks.test {

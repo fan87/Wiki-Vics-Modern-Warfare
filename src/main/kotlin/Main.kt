@@ -1,6 +1,7 @@
 import org.objectweb.asm.ClassReader
 import org.objectweb.asm.tree.ClassNode
 import readers.Weapons
+import sections.Section
 import sections.impl.WeaponsSection
 import java.io.File
 import java.util.jar.JarFile
@@ -44,26 +45,76 @@ fun main() {
         WeaponsSection(),
     )
 
+    weapons = Weapons(input, classes)
+
     addOutput("""
 # Vic's Modern Warfare Document/Manual
 This document is unofficially generated! For more information, please check this [GitHub Repository](https://github.com/fan87/VMW-Document-Generator)
 
+## Chapters
+// INSERT_CHAPTER_TAG
 """)
-
-    weapons = Weapons(input, classes)
-
 
     for (section in sections) {
         section.render(input, classes) { addOutput(it) }
     }
+
+
+
+    var inCodeBlock = false
+
+
+    val namesCount = HashMap<String, Int>().withDefault { -1 }
+
+    var hasFoundChapterTag = false
+
+    var beforeInputBuffer = ""
+    var afterInputBuffer = ""
+    var chaptersBuffer = ""
+
+    val lines = output.lines()
+    for (line in lines.withIndex()) {
+        if (line.value.startsWith("```")) {
+            inCodeBlock = !inCodeBlock
+        }
+        if (line.value == "// INSERT_CHAPTER_TAG") {
+            hasFoundChapterTag = true
+            continue
+        }
+        if (!hasFoundChapterTag) {
+            beforeInputBuffer += line.value + if (line.index != lines.lastIndex) "\n" else ""
+        } else {
+            afterInputBuffer += line.value + if (line.index != lines.lastIndex) "\n" else ""
+        }
+        if (!inCodeBlock && line.value.matches(Regex("#{1,} .*"))) {
+            val level = line.value.indexOf(" ") - 1
+            var originalName = line.value.substring(level + 2)
+            var ancherName = originalName
+            // Normalize it (if that's how you use this word)
+            ancherName = ancherName.lowercase()
+            ancherName = ancherName.replace(" ", "-")
+            ancherName = ancherName.replace(Regex("[^a-z-]"), "")
+
+            // Process duplicated ancher name
+            var count = namesCount.getValue(ancherName) + 1
+            namesCount[ancherName] = count
+
+            if (count != 0) {
+                ancherName += "-${count}"
+            }
+
+            chaptersBuffer += " - ".repeat(level) + "[$originalName](#$ancherName)" + "\n"
+        }
+    }
+
+    writer.write(beforeInputBuffer + "\n" + chaptersBuffer + "\n" + afterInputBuffer)
+    writer.close()
 
 }
 
 fun addOutput(data: String) {
     output += data
 //    print(data)
-    writer.write(data)
-    writer.flush()
 }
 
 typealias Classes = HashMap<String, ClassNode>

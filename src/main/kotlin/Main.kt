@@ -52,8 +52,8 @@ fun main() {
         ScopesSection(),
     )
 
-    weapons = Weapons(input, classes)
     attachments = Attachments(input, classes)
+    weapons = Weapons(input, classes)
 
     addOutput("""
 # Vic's Modern Warfare Document/Manual

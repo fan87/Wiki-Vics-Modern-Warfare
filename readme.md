@@ -313,7 +313,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`APSslide`](#apsslide), [`APSMag`](#apsmag), [`Silencer9mm`](#silencer9mm) |
+| Compatible Attachment | [`APSslide`](#apsslide), [`APSMag`](#apsmag), Grip: [`Silencer9mm`](#silencer9mm) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -359,7 +359,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Extra`](#extra), [`M1897Pump`](#m1897pump), [`ShotgunShell`](#shotgunshell), [`Silencer12Gauge`](#silencer12gauge) |
+| Compatible Attachment | [`Extra`](#extra), [`M1897Pump`](#m1897pump), [`ShotgunShell`](#shotgunshell), Grip: [`Silencer12Gauge`](#silencer12gauge) |
 | Crosshair | Unknown |
 | Recoil | 9.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -405,7 +405,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Placeholder`](#placeholder), [`M82Action`](#m82action), [`M82Mag`](#m82mag), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Bipod`](#bipod), [`M4Rail`](#m4rail) |
+| Compatible Attachment | Railing: [`Placeholder`](#placeholder), [`M82Action`](#m82action), [`M82Mag`](#m82mag), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`Specter`](#specter), Scope: [`HP`](#hp), Scope: [`Reflex`](#reflex), Scope: [`BijiaReflex`](#bijiareflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Grip: [`Bipod`](#bipod), [`M4Rail`](#m4rail) |
 | Crosshair | Unknown |
 | Recoil | 9.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -497,7 +497,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Placeholder`](#placeholder), [`GripPlaceholder`](#gripplaceholder), [`LaserPlaceholder`](#laserplaceholder), [`ScarHandGuard`](#scarhandguard), [`ScarStock`](#scarstock), [`ScarHStock`](#scarhstock), [`CollapsableMOEStock`](#collapsablemoestock), [`MagpulCTRStock`](#magpulctrstock), [`MilSpecStock`](#milspecstock), [`HK416Stock`](#hk416stock), [`M4Grip`](#m4grip), [`M4GripTan`](#m4griptan), [`M4GripGray`](#m4gripgray), [`ScarHMag`](#scarhmag), [`Scar40Mag`](#scar40mag), [`Scar60Mag`](#scar60mag), [`ScarAction`](#scaraction), [`AKMIron`](#akmiron), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`JunoGrip`](#junogrip), [`AngledGrip`](#angledgrip), [`VGrip`](#vgrip), [`Bipod`](#bipod), [`Laser2`](#laser2), [`Laser`](#laser), [`Silencer762x51`](#silencer762x51) |
+| Compatible Attachment | Railing: [`Placeholder`](#placeholder), Frontsight: [`GripPlaceholder`](#gripplaceholder), Receiver: [`LaserPlaceholder`](#laserplaceholder), Guard: [`ScarHandGuard`](#scarhandguard), Stock: [`ScarStock`](#scarstock), Stock: [`ScarHStock`](#scarhstock), Stock: [`CollapsableMOEStock`](#collapsablemoestock), Stock: [`MagpulCTRStock`](#magpulctrstock), Stock: [`MilSpecStock`](#milspecstock), Stock: [`HK416Stock`](#hk416stock), Backgrip: [`M4Grip`](#m4grip), Backgrip: [`M4GripTan`](#m4griptan), Backgrip: [`M4GripGray`](#m4gripgray), [`ScarHMag`](#scarhmag), [`Scar40Mag`](#scar40mag), [`Scar60Mag`](#scar60mag), [`ScarAction`](#scaraction), Grip: [`AKMIron`](#akmiron), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`Specter`](#specter), Scope: [`HP`](#hp), Scope: [`Reflex`](#reflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Grip: [`Grip2`](#grip2), Grip: [`StubbyGrip`](#stubbygrip), Grip: [`JunoGrip`](#junogrip), Grip: [`AngledGrip`](#angledgrip), Grip: [`VGrip`](#vgrip), Grip: [`Bipod`](#bipod), Grip: [`Laser2`](#laser2), Grip: [`Laser`](#laser), Grip: [`Silencer762x51`](#silencer762x51) |
 | Crosshair | Unknown |
 | Recoil | 3.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -589,7 +589,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Placeholder`](#placeholder), [`GripPlaceholder`](#gripplaceholder), [`LaserPlaceholder`](#laserplaceholder), [`ScarHandGuard`](#scarhandguard), [`ScarStock`](#scarstock), [`ScarHStock`](#scarhstock), [`CollapsableMOEStock`](#collapsablemoestock), [`MagpulCTRStock`](#magpulctrstock), [`MilSpecStock`](#milspecstock), [`HK416Stock`](#hk416stock), [`M4Grip`](#m4grip), [`M4GripTan`](#m4griptan), [`M4GripGray`](#m4gripgray), [`M4A1Mag`](#m4a1mag), [`M38Mag`](#m38mag), [`Stanag50`](#stanag50), [`Stanag60`](#stanag60), [`Stanag100`](#stanag100), [`ScarAction`](#scaraction), [`AKMIron`](#akmiron), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`JunoGrip`](#junogrip), [`VGrip`](#vgrip), [`Bipod`](#bipod), [`Laser2`](#laser2), [`Laser`](#laser), [`Silencer556x45`](#silencer556x45) |
+| Compatible Attachment | Railing: [`Placeholder`](#placeholder), Frontsight: [`GripPlaceholder`](#gripplaceholder), Receiver: [`LaserPlaceholder`](#laserplaceholder), Guard: [`ScarHandGuard`](#scarhandguard), Stock: [`ScarStock`](#scarstock), Stock: [`ScarHStock`](#scarhstock), Stock: [`CollapsableMOEStock`](#collapsablemoestock), Stock: [`MagpulCTRStock`](#magpulctrstock), Stock: [`MilSpecStock`](#milspecstock), Stock: [`HK416Stock`](#hk416stock), Backgrip: [`M4Grip`](#m4grip), Backgrip: [`M4GripTan`](#m4griptan), Backgrip: [`M4GripGray`](#m4gripgray), [`M4A1Mag`](#m4a1mag), [`M38Mag`](#m38mag), [`Stanag50`](#stanag50), [`Stanag60`](#stanag60), [`Stanag100`](#stanag100), [`ScarAction`](#scaraction), Grip: [`AKMIron`](#akmiron), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`Specter`](#specter), Scope: [`HP`](#hp), Scope: [`Reflex`](#reflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Grip: [`Grip2`](#grip2), Grip: [`StubbyGrip`](#stubbygrip), Grip: [`AngledGrip`](#angledgrip), Grip: [`JunoGrip`](#junogrip), Grip: [`VGrip`](#vgrip), Grip: [`Bipod`](#bipod), Grip: [`Laser2`](#laser2), Grip: [`Laser`](#laser), Grip: [`Silencer556x45`](#silencer556x45) |
 | Crosshair | Unknown |
 | Recoil | 2.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -635,7 +635,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Placeholder`](#placeholder), [`GripPlaceholder`](#gripplaceholder), [`M40A6Mag`](#m40a6mag), [`M40A6BoltAction`](#m40a6boltaction), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Bipod`](#bipod) |
+| Compatible Attachment | Railing: [`Placeholder`](#placeholder), Frontsight: [`GripPlaceholder`](#gripplaceholder), [`M40A6Mag`](#m40a6mag), [`M40A6BoltAction`](#m40a6boltaction), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`Specter`](#specter), Scope: [`HP`](#hp), Scope: [`Reflex`](#reflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Grip: [`Bipod`](#bipod) |
 | Crosshair | Unknown |
 | Recoil | 6.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -681,7 +681,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`AKaction`](#akaction), [`KBP9A91Mag`](#kbp9a91mag), [`Silencer9x39mm`](#silencer9x39mm), [`Extra`](#extra), [`OKP7`](#okp7), [`PSO1`](#pso1) |
+| Compatible Attachment | [`AKaction`](#akaction), [`KBP9A91Mag`](#kbp9a91mag), Grip: [`Silencer9x39mm`](#silencer9x39mm), [`Extra`](#extra), Scope: [`OKP7`](#okp7), Scope: [`PSO1`](#pso1) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -727,7 +727,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`PistolPlaceholder`](#pistolplaceholder), [`DesertEagleBody`](#deserteaglebody), [`DesertEagleSlide`](#deserteagleslide), [`DesertEagleLongBody`](#deserteaglelongbody), [`DesertEagleMag`](#deserteaglemag), [`Laser`](#laser), [`RMR`](#rmr), [`BijiaReflex`](#bijiareflex) |
+| Compatible Attachment | Guard: [`PistolPlaceholder`](#pistolplaceholder), Backgrip: [`DesertEagleBody`](#deserteaglebody), Frontsight: [`DesertEagleSlide`](#deserteagleslide), Backgrip: [`DesertEagleLongBody`](#deserteaglelongbody), [`DesertEagleMag`](#deserteaglemag), Grip: [`Laser`](#laser), Scope: [`RMR`](#rmr), Scope: [`BijiaReflex`](#bijiareflex) |
 | Crosshair | Unknown |
 | Recoil | 9.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -773,7 +773,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`M1014Stock`](#m1014stock), [`M4BenelliStock`](#m4benellistock), [`ShotgunRail`](#shotgunrail), [`M1014Action`](#m1014action), [`ShotgunShell`](#shotgunshell), [`Super90Pump`](#super90pump), [`Extra`](#extra), [`Reflex`](#reflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`RMR`](#rmr) |
+| Compatible Attachment | Stock: [`M1014Stock`](#m1014stock), Stock: [`M4BenelliStock`](#m4benellistock), Railing: [`ShotgunRail`](#shotgunrail), [`M1014Action`](#m1014action), [`ShotgunShell`](#shotgunshell), [`Super90Pump`](#super90pump), [`Extra`](#extra), Scope: [`Reflex`](#reflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Scope: [`RMR`](#rmr) |
 | Crosshair | Unknown |
 | Recoil | 7.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -865,7 +865,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`R870pump`](#r870pump), [`M4Rail`](#m4rail), [`ShotgunShell`](#shotgunshell), [`R870part`](#r870part), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5) |
+| Compatible Attachment | [`R870pump`](#r870pump), [`M4Rail`](#m4rail), [`ShotgunShell`](#shotgunshell), [`R870part`](#r870part), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`Specter`](#specter), Scope: [`HP`](#hp), Scope: [`Reflex`](#reflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5) |
 | Crosshair | Unknown |
 | Recoil | 9.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -911,7 +911,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Placeholder`](#placeholder), [`M1014Stock`](#m1014stock), [`M4BenelliStock`](#m4benellistock), [`M1014Action`](#m1014action), [`M4Rail`](#m4rail), [`ShotgunShell`](#shotgunshell), [`Extra`](#extra) |
+| Compatible Attachment | Railing: [`Placeholder`](#placeholder), Stock: [`M1014Stock`](#m1014stock), Stock: [`M4BenelliStock`](#m4benellistock), [`M1014Action`](#m1014action), [`M4Rail`](#m4rail), [`ShotgunShell`](#shotgunshell), [`Extra`](#extra) |
 | Crosshair | Unknown |
 | Recoil | 7.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1003,7 +1003,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Placeholder`](#placeholder), [`GripPlaceholder`](#gripplaceholder), [`LaserPlaceholder`](#laserplaceholder), [`M4A1Mag`](#m4a1mag), [`M38Mag`](#m38mag), [`JunoGrip`](#junogrip), [`Stanag50`](#stanag50), [`Stanag60`](#stanag60), [`Stanag100`](#stanag100), [`BrenAction`](#brenaction), [`AKMIron`](#akmiron), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`EotechHybrid2`](#eotechhybrid2), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`VGrip`](#vgrip), [`AngledGrip`](#angledgrip), [`Bipod`](#bipod), [`Laser2`](#laser2), [`Laser`](#laser), [`Silencer556x45`](#silencer556x45), [`M4Rail`](#m4rail) |
+| Compatible Attachment | Railing: [`Placeholder`](#placeholder), Frontsight: [`GripPlaceholder`](#gripplaceholder), Receiver: [`LaserPlaceholder`](#laserplaceholder), [`M4A1Mag`](#m4a1mag), [`M38Mag`](#m38mag), Grip: [`JunoGrip`](#junogrip), [`Stanag50`](#stanag50), [`Stanag60`](#stanag60), [`Stanag100`](#stanag100), [`BrenAction`](#brenaction), Grip: [`AKMIron`](#akmiron), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`Specter`](#specter), Scope: [`HP`](#hp), Scope: [`Reflex`](#reflex), Scope: [`BijiaReflex`](#bijiareflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`EotechHybrid2`](#eotechhybrid2), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Grip: [`Grip2`](#grip2), Grip: [`StubbyGrip`](#stubbygrip), Grip: [`VGrip`](#vgrip), Grip: [`AngledGrip`](#angledgrip), Grip: [`Bipod`](#bipod), Grip: [`Laser2`](#laser2), Grip: [`Laser`](#laser), Grip: [`Silencer556x45`](#silencer556x45), [`M4Rail`](#m4rail) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1141,7 +1141,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`ESA23Slide`](#esa23slide), [`RMR`](#rmr) |
+| Compatible Attachment | [`ESA23Slide`](#esa23slide), Scope: [`RMR`](#rmr) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1233,7 +1233,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Spas12Stock`](#spas12stock), [`M1014Stock`](#m1014stock), [`M4BenelliStock`](#m4benellistock), [`ShotgunRail`](#shotgunrail), [`M1014Action`](#m1014action), [`ShotgunShell`](#shotgunshell), [`Extra`](#extra), [`Reflex`](#reflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`RMR`](#rmr) |
+| Compatible Attachment | Stock: [`Spas12Stock`](#spas12stock), Stock: [`M1014Stock`](#m1014stock), Stock: [`M4BenelliStock`](#m4benellistock), Railing: [`ShotgunRail`](#shotgunrail), [`M1014Action`](#m1014action), [`ShotgunShell`](#shotgunshell), [`Extra`](#extra), Scope: [`Reflex`](#reflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Scope: [`RMR`](#rmr) |
 | Crosshair | Unknown |
 | Recoil | 7.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1279,7 +1279,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Volkaction`](#volkaction), [`VolkMag`](#volkmag), [`M4Rail`](#m4rail), [`RailAlt`](#railalt), [`Extra`](#extra), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`Reflex`](#reflex), [`Holographic`](#holographic), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`VGrip`](#vgrip), [`Bipod`](#bipod), [`Laser2`](#laser2), [`Laser`](#laser) |
+| Compatible Attachment | [`Volkaction`](#volkaction), [`VolkMag`](#volkmag), [`M4Rail`](#m4rail), [`RailAlt`](#railalt), [`Extra`](#extra), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`Specter`](#specter), Scope: [`Reflex`](#reflex), Scope: [`Holographic`](#holographic), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Grip: [`Grip2`](#grip2), Grip: [`StubbyGrip`](#stubbygrip), Grip: [`VGrip`](#vgrip), Grip: [`Bipod`](#bipod), Grip: [`Laser2`](#laser2), Grip: [`Laser`](#laser) |
 | Crosshair | Unknown |
 | Recoil | 3.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1325,7 +1325,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`P10Slide`](#p10slide), [`P10frontsight`](#p10frontsight), [`P10Mag`](#p10mag), [`Laser`](#laser), [`Silencer9mm`](#silencer9mm), [`RMR`](#rmr) |
+| Compatible Attachment | [`P10Slide`](#p10slide), [`P10frontsight`](#p10frontsight), [`P10Mag`](#p10mag), Grip: [`Laser`](#laser), Grip: [`Silencer9mm`](#silencer9mm), Scope: [`RMR`](#rmr) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1371,7 +1371,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`AK47Stock`](#ak47stock), [`RPKStock`](#rpkstock), [`AK101Stock`](#ak101stock), [`AKMDustCover`](#akmdustcover), [`AK47HandleGuard`](#ak47handleguard), [`AK101HandGuard`](#ak101handguard), [`AKMagpulHandleGuard`](#akmagpulhandleguard), [`AKMagpulHandleGuardTan`](#akmagpulhandleguardtan), [`MLOKHandguard`](#mlokhandguard), [`MLOKExtendedHandguard`](#mlokextendedhandguard), [`AK15HandleGuard`](#ak15handleguard), [`AK101DustCover`](#ak101dustcover), [`VeprDustCover`](#veprdustcover), [`AK15DustCover`](#ak15dustcover), [`RPKDustCover`](#rpkdustcover), [`CollapsableMOEStock`](#collapsablemoestock), [`MagpulCTRStock`](#magpulctrstock), [`MilSpecStock`](#milspecstock), [`AK47Grip`](#ak47grip), [`AK101Grip`](#ak101grip), [`AKErgoGrip`](#akergogrip), [`AKaction`](#akaction), [`AKpart`](#akpart), [`AKIron`](#akiron), [`RPKBarrel`](#rpkbarrel), [`AK15Mag`](#ak15mag), [`AK47PMAGTan`](#ak47pmagtan), [`AK47Mag`](#ak47mag), [`AK50Mag`](#ak50mag), [`AK75Mag`](#ak75mag), [`AK100Mag`](#ak100mag), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Specter`](#specter), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`Extra`](#extra), [`Bipod`](#bipod), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`VGrip`](#vgrip), [`JunoGrip`](#junogrip), [`Silencer762x39`](#silencer762x39) |
+| Compatible Attachment | Stock: [`AK47Stock`](#ak47stock), Stock: [`RPKStock`](#rpkstock), Stock: [`AK101Stock`](#ak101stock), Railing: [`AKMDustCover`](#akmdustcover), Guard: [`AK47HandleGuard`](#ak47handleguard), Guard: [`AK101HandGuard`](#ak101handguard), Guard: [`AKMagpulHandleGuard`](#akmagpulhandleguard), Guard: [`AKMagpulHandleGuardTan`](#akmagpulhandleguardtan), Guard: [`MLOKHandguard`](#mlokhandguard), Guard: [`MLOKExtendedHandguard`](#mlokextendedhandguard), Guard: [`AK15HandleGuard`](#ak15handleguard), Railing: [`AK101DustCover`](#ak101dustcover), Railing: [`VeprDustCover`](#veprdustcover), Railing: [`AK15DustCover`](#ak15dustcover), Railing: [`RPKDustCover`](#rpkdustcover), Stock: [`CollapsableMOEStock`](#collapsablemoestock), Stock: [`MagpulCTRStock`](#magpulctrstock), Stock: [`MilSpecStock`](#milspecstock), Backgrip: [`AK47Grip`](#ak47grip), Backgrip: [`AK101Grip`](#ak101grip), Backgrip: [`AKErgoGrip`](#akergogrip), [`AKaction`](#akaction), [`AKpart`](#akpart), Grip: [`AKIron`](#akiron), Grip: [`RPKBarrel`](#rpkbarrel), [`AK15Mag`](#ak15mag), [`AK47PMAGTan`](#ak47pmagtan), [`AK47Mag`](#ak47mag), [`AK50Mag`](#ak50mag), [`AK75Mag`](#ak75mag), [`AK100Mag`](#ak100mag), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Scope: [`Specter`](#specter), Scope: [`Reflex`](#reflex), Scope: [`BijiaReflex`](#bijiareflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), [`Extra`](#extra), Grip: [`Bipod`](#bipod), Grip: [`Grip2`](#grip2), Grip: [`StubbyGrip`](#stubbygrip), Grip: [`AngledGrip`](#angledgrip), Grip: [`VGrip`](#vgrip), Grip: [`JunoGrip`](#junogrip), Grip: [`Silencer762x39`](#silencer762x39) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1417,7 +1417,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`VP70slide`](#vp70slide), [`VP70Mag`](#vp70mag), [`VP70Stock`](#vp70stock) |
+| Compatible Attachment | [`VP70slide`](#vp70slide), [`VP70Mag`](#vp70mag), Grip: [`VP70Stock`](#vp70stock) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1463,7 +1463,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`M392Action`](#m392action), [`M392Mag`](#m392mag), [`DMRScope`](#dmrscope), [`NightRaider`](#nightraider), [`MicroT1`](#microt1), [`Reflex`](#reflex), [`Silencer762x51`](#silencer762x51) |
+| Compatible Attachment | [`M392Action`](#m392action), [`M392Mag`](#m392mag), Scope: [`DMRScope`](#dmrscope), Scope: [`NightRaider`](#nightraider), Scope: [`MicroT1`](#microt1), Scope: [`Reflex`](#reflex), Grip: [`Silencer762x51`](#silencer762x51) |
 | Crosshair | Unknown |
 | Recoil | 3.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1509,7 +1509,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`NTW20HandguardRAIL`](#ntw20handguardrail), [`NTW20Barrel`](#ntw20barrel), [`NTW20Action`](#ntw20action), [`NTW20Mag`](#ntw20mag), [`HP`](#hp) |
+| Compatible Attachment | Guard: [`NTW20HandguardRAIL`](#ntw20handguardrail), [`NTW20Barrel`](#ntw20barrel), [`NTW20Action`](#ntw20action), [`NTW20Mag`](#ntw20mag), Scope: [`HP`](#hp) |
 | Crosshair | Unknown |
 | Recoil | 20.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1555,7 +1555,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`AK47Stock`](#ak47stock), [`AK101Stock`](#ak101stock), [`AKMDustCover`](#akmdustcover), [`AK47HandleGuard`](#ak47handleguard), [`AK101HandGuard`](#ak101handguard), [`AKMagpulHandleGuard`](#akmagpulhandleguard), [`AKMagpulHandleGuardTan`](#akmagpulhandleguardtan), [`MLOKHandguard`](#mlokhandguard), [`MLOKExtendedHandguard`](#mlokextendedhandguard), [`AK15HandleGuard`](#ak15handleguard), [`AK101DustCover`](#ak101dustcover), [`VeprDustCover`](#veprdustcover), [`AK15DustCover`](#ak15dustcover), [`RPKDustCover`](#rpkdustcover), [`CollapsableMOEStock`](#collapsablemoestock), [`MagpulCTRStock`](#magpulctrstock), [`MilSpecStock`](#milspecstock), [`AK47Grip`](#ak47grip), [`AK101Grip`](#ak101grip), [`AKErgoGrip`](#akergogrip), [`AKaction`](#akaction), [`AKpart`](#akpart), [`AKMuzzle`](#akmuzzle), [`AKIron`](#akiron), [`AK101Mag`](#ak101mag), [`AK60Mag`](#ak60mag), [`Silencer556x45`](#silencer556x45), [`Extra`](#extra), [`Bipod`](#bipod), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`VGrip`](#vgrip), [`PSO1`](#pso1), [`OKP7`](#okp7), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Specter`](#specter), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra) |
+| Compatible Attachment | Stock: [`AK47Stock`](#ak47stock), Stock: [`AK101Stock`](#ak101stock), Railing: [`AKMDustCover`](#akmdustcover), Guard: [`AK47HandleGuard`](#ak47handleguard), Guard: [`AK101HandGuard`](#ak101handguard), Guard: [`AKMagpulHandleGuard`](#akmagpulhandleguard), Guard: [`AKMagpulHandleGuardTan`](#akmagpulhandleguardtan), Guard: [`MLOKHandguard`](#mlokhandguard), Guard: [`MLOKExtendedHandguard`](#mlokextendedhandguard), Guard: [`AK15HandleGuard`](#ak15handleguard), Railing: [`AK101DustCover`](#ak101dustcover), Railing: [`VeprDustCover`](#veprdustcover), Railing: [`AK15DustCover`](#ak15dustcover), Railing: [`RPKDustCover`](#rpkdustcover), Stock: [`CollapsableMOEStock`](#collapsablemoestock), Stock: [`MagpulCTRStock`](#magpulctrstock), Stock: [`MilSpecStock`](#milspecstock), Backgrip: [`AK47Grip`](#ak47grip), Backgrip: [`AK101Grip`](#ak101grip), Backgrip: [`AKErgoGrip`](#akergogrip), [`AKaction`](#akaction), [`AKpart`](#akpart), [`AKMuzzle`](#akmuzzle), Grip: [`AKIron`](#akiron), [`AK101Mag`](#ak101mag), [`AK60Mag`](#ak60mag), Grip: [`Silencer556x45`](#silencer556x45), [`Extra`](#extra), Grip: [`Bipod`](#bipod), Grip: [`Grip2`](#grip2), Grip: [`StubbyGrip`](#stubbygrip), Grip: [`AngledGrip`](#angledgrip), Grip: [`VGrip`](#vgrip), Scope: [`PSO1`](#pso1), Scope: [`OKP7`](#okp7), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Scope: [`Specter`](#specter), Scope: [`Reflex`](#reflex), Scope: [`BijiaReflex`](#bijiareflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1601,7 +1601,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`PistolPlaceholder`](#pistolplaceholder), [`M1911Body`](#m1911body), [`M191144MagBody`](#m191144magbody), [`M1911Slide`](#m1911slide), [`M191144MagSlide`](#m191144magslide), [`M45A1Mag`](#m45a1mag), [`M45A1Mag14`](#m45a1mag14), [`M1911_44Mag`](#m191144mag), [`Silencer45ACP`](#silencer45acp) |
+| Compatible Attachment | Guard: [`PistolPlaceholder`](#pistolplaceholder), Backgrip: [`M1911Body`](#m1911body), Backgrip: [`M191144MagBody`](#m191144magbody), Frontsight: [`M1911Slide`](#m1911slide), Frontsight: [`M191144MagSlide`](#m191144magslide), [`M45A1Mag`](#m45a1mag), [`M45A1Mag14`](#m45a1mag14), [`M1911_44Mag`](#m191144mag), Grip: [`Silencer45ACP`](#silencer45acp) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1785,7 +1785,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`UziMag`](#uzimag), [`UziAction`](#uziaction), [`UziRelease`](#uzirelease), [`UziIronSight`](#uziironsight), [`Extra`](#extra), [`Silencer9mm`](#silencer9mm) |
+| Compatible Attachment | [`UziMag`](#uzimag), [`UziAction`](#uziaction), [`UziRelease`](#uzirelease), [`UziIronSight`](#uziironsight), [`Extra`](#extra), Grip: [`Silencer9mm`](#silencer9mm) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1877,7 +1877,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`M20Action`](#m20action), [`M20Mag`](#m20mag), [`MicroT1`](#microt1), [`Reflex`](#reflex), [`RMR`](#rmr), [`Silencer9mm`](#silencer9mm), [`Laser`](#laser) |
+| Compatible Attachment | [`M20Action`](#m20action), [`M20Mag`](#m20mag), Scope: [`MicroT1`](#microt1), Scope: [`Reflex`](#reflex), Scope: [`RMR`](#rmr), Grip: [`Silencer9mm`](#silencer9mm), Grip: [`Laser`](#laser) |
 | Crosshair | Unknown |
 | Recoil | 1.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1923,7 +1923,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`PistolPlaceholder`](#pistolplaceholder), [`M45A1slide`](#m45a1slide), [`M45A1Mag`](#m45a1mag), [`M45A1Mag14`](#m45a1mag14), [`Laser`](#laser), [`Silencer45ACP`](#silencer45acp), [`FABDefenseMount`](#fabdefensemount), [`RMR`](#rmr) |
+| Compatible Attachment | Guard: [`PistolPlaceholder`](#pistolplaceholder), [`M45A1slide`](#m45a1slide), [`M45A1Mag`](#m45a1mag), [`M45A1Mag14`](#m45a1mag14), Grip: [`Laser`](#laser), Grip: [`Silencer45ACP`](#silencer45acp), Railing: [`FABDefenseMount`](#fabdefensemount), Scope: [`RMR`](#rmr) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -1969,7 +1969,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`SRS99Action`](#srs99action), [`SRS99Mag`](#srs99mag), [`SRS99Scope`](#srs99scope) |
+| Compatible Attachment | [`SRS99Action`](#srs99action), [`SRS99Mag`](#srs99mag), Grip: [`SRS99Scope`](#srs99scope) |
 | Crosshair | Unknown |
 | Recoil | 3.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2015,7 +2015,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Placeholder`](#placeholder), [`HS12Barrels`](#hs12barrels), [`ACOG`](#acog), [`Reflex`](#reflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`RMR`](#rmr), [`Silencer12Gauge`](#silencer12gauge) |
+| Compatible Attachment | Railing: [`Placeholder`](#placeholder), [`HS12Barrels`](#hs12barrels), Scope: [`ACOG`](#acog), Scope: [`Reflex`](#reflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Scope: [`RMR`](#rmr), Grip: [`Silencer12Gauge`](#silencer12gauge) |
 | Crosshair | Unknown |
 | Recoil | 9.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2061,7 +2061,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Grenade40mm`](#grenade40mm), [`Placeholder`](#placeholder), [`M32Barrel`](#m32barrel), [`CollapsableMOEStock`](#collapsablemoestock), [`MagpulCTRStock`](#magpulctrstock), [`MilSpecStock`](#milspecstock), [`HK416Stock`](#hk416stock), [`MagpulCTRStockTan`](#magpulctrstocktan), [`MilSpecStockTan`](#milspecstocktan), [`HK416StockTan`](#hk416stocktan), [`M32Cartridge`](#m32cartridge), [`M32Main1B`](#m32main1b), [`M4Rail`](#m4rail), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`EotechHybrid2`](#eotechhybrid2), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`RMR`](#rmr), [`M2A1sight`](#m2a1sight), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`VGrip`](#vgrip), [`Bipod`](#bipod), [`Laser2`](#laser2), [`Laser`](#laser) |
+| Compatible Attachment | [`Grenade40mm`](#grenade40mm), Railing: [`Placeholder`](#placeholder), Grip: [`M32Barrel`](#m32barrel), Stock: [`CollapsableMOEStock`](#collapsablemoestock), Stock: [`MagpulCTRStock`](#magpulctrstock), Stock: [`MilSpecStock`](#milspecstock), Stock: [`HK416Stock`](#hk416stock), Stock: [`MagpulCTRStockTan`](#magpulctrstocktan), Stock: [`MilSpecStockTan`](#milspecstocktan), Stock: [`HK416StockTan`](#hk416stocktan), [`M32Cartridge`](#m32cartridge), [`M32Main1B`](#m32main1b), [`M4Rail`](#m4rail), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`Specter`](#specter), Scope: [`Reflex`](#reflex), Scope: [`BijiaReflex`](#bijiareflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`EotechHybrid2`](#eotechhybrid2), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Scope: [`RMR`](#rmr), Scope: [`M2A1sight`](#m2a1sight), Grip: [`Grip2`](#grip2), Grip: [`StubbyGrip`](#stubbygrip), Grip: [`VGrip`](#vgrip), Grip: [`Bipod`](#bipod), Grip: [`Laser2`](#laser2), Grip: [`Laser`](#laser) |
 | Crosshair | Unknown |
 | Recoil | 6.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2153,7 +2153,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`SCCYCPX2Slide`](#sccycpx2slide), [`SCCYCPX2Mag`](#sccycpx2mag), [`M9Mag30`](#m9mag30), [`M9DrumMag`](#m9drummag), [`Silencer9mm`](#silencer9mm) |
+| Compatible Attachment | [`SCCYCPX2Slide`](#sccycpx2slide), [`SCCYCPX2Mag`](#sccycpx2mag), [`M9Mag30`](#m9mag30), [`M9DrumMag`](#m9drummag), Grip: [`Silencer9mm`](#silencer9mm) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2199,7 +2199,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`MP443Slide`](#mp443slide), [`MP443Mag`](#mp443mag), [`Laser`](#laser), [`Silencer9mm`](#silencer9mm) |
+| Compatible Attachment | [`MP443Slide`](#mp443slide), [`MP443Mag`](#mp443mag), Grip: [`Laser`](#laser), Grip: [`Silencer9mm`](#silencer9mm) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2245,7 +2245,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Placeholder`](#placeholder), [`MagnumChamber`](#magnumchamber), [`MagnumRail`](#magnumrail), [`RMR`](#rmr), [`BijiaReflex`](#bijiareflex) |
+| Compatible Attachment | Railing: [`Placeholder`](#placeholder), [`MagnumChamber`](#magnumchamber), [`MagnumRail`](#magnumrail), Scope: [`RMR`](#rmr), Scope: [`BijiaReflex`](#bijiareflex) |
 | Crosshair | Unknown |
 | Recoil | 11.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2291,7 +2291,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Placeholder`](#placeholder), [`AS50Action`](#as50action), [`AS50Mag`](#as50mag), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Bipod`](#bipod), [`M4Rail`](#m4rail) |
+| Compatible Attachment | Railing: [`Placeholder`](#placeholder), [`AS50Action`](#as50action), [`AS50Mag`](#as50mag), Scope: [`ACOG`](#acog), Scope: [`Specter`](#specter), Scope: [`HP`](#hp), Scope: [`Reflex`](#reflex), Scope: [`BijiaReflex`](#bijiareflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Grip: [`Bipod`](#bipod), [`M4Rail`](#m4rail) |
 | Crosshair | Unknown |
 | Recoil | 9.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2337,7 +2337,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Placeholder`](#placeholder), [`GripPlaceholder`](#gripplaceholder), [`LaserPlaceholder`](#laserplaceholder), [`HoneyBadgerMag`](#honeybadgermag), [`AR15Action`](#ar15action), [`Extra`](#extra), [`AKMIron`](#akmiron), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`VGrip`](#vgrip), [`Bipod`](#bipod), [`AACRail`](#aacrail) |
+| Compatible Attachment | Railing: [`Placeholder`](#placeholder), Frontsight: [`GripPlaceholder`](#gripplaceholder), Receiver: [`LaserPlaceholder`](#laserplaceholder), [`HoneyBadgerMag`](#honeybadgermag), [`AR15Action`](#ar15action), [`Extra`](#extra), Grip: [`AKMIron`](#akmiron), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`Specter`](#specter), Scope: [`HP`](#hp), Scope: [`Reflex`](#reflex), Scope: [`BijiaReflex`](#bijiareflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Grip: [`Grip2`](#grip2), Grip: [`StubbyGrip`](#stubbygrip), Grip: [`AngledGrip`](#angledgrip), Grip: [`VGrip`](#vgrip), Grip: [`Bipod`](#bipod), [`AACRail`](#aacrail) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2383,7 +2383,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`VSSVintorezAction`](#vssvintorezaction), [`VSSVintorezMag`](#vssvintorezmag), [`Extra`](#extra), [`PSO1`](#pso1), [`OKP7`](#okp7) |
+| Compatible Attachment | [`VSSVintorezAction`](#vssvintorezaction), [`VSSVintorezMag`](#vssvintorezmag), [`Extra`](#extra), Scope: [`PSO1`](#pso1), Scope: [`OKP7`](#okp7) |
 | Crosshair | Unknown |
 | Recoil | 1.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2429,7 +2429,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Kar98Krail`](#kar98krail), [`Kar98Kaction`](#kar98kaction), [`Bullet`](#bullet), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`EotechHybrid2`](#eotechhybrid2), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`RMR`](#rmr), [`Kar98Ksight`](#kar98ksight), [`Extra`](#extra) |
+| Compatible Attachment | Railing: [`Kar98Krail`](#kar98krail), [`Kar98Kaction`](#kar98kaction), [`Bullet`](#bullet), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`Specter`](#specter), Scope: [`HP`](#hp), Scope: [`Reflex`](#reflex), Scope: [`BijiaReflex`](#bijiareflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`EotechHybrid2`](#eotechhybrid2), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Scope: [`RMR`](#rmr), Grip: [`Kar98Ksight`](#kar98ksight), [`Extra`](#extra) |
 | Crosshair | Unknown |
 | Recoil | 6.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2521,7 +2521,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`VectorHandguard`](#vectorhandguard), [`Vector556Handguard`](#vector556handguard), [`VectorSwordfish`](#vectorswordfish), [`VectorStock`](#vectorstock), [`CollapsableMOEStock`](#collapsablemoestock), [`MagpulCTRStock`](#magpulctrstock), [`MagpulCTRStockTan`](#magpulctrstocktan), [`MilSpecStock`](#milspecstock), [`MilSpecStockTan`](#milspecstocktan), [`HK416Stock`](#hk416stock), [`HK416StockTan`](#hk416stocktan), [`VectorMag`](#vectormag), [`M4A1Mag`](#m4a1mag), [`M38Mag`](#m38mag), [`Stanag50`](#stanag50), [`Stanag60`](#stanag60), [`Stanag100`](#stanag100), [`AKMIron`](#akmiron), [`RailRiser`](#railriser), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`EotechHybrid2`](#eotechhybrid2), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`RMR`](#rmr), [`Bipod`](#bipod), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`VGrip`](#vgrip) |
+| Compatible Attachment | Guard: [`VectorHandguard`](#vectorhandguard), Guard: [`Vector556Handguard`](#vector556handguard), Frontsight: [`VectorSwordfish`](#vectorswordfish), Stock: [`VectorStock`](#vectorstock), Stock: [`CollapsableMOEStock`](#collapsablemoestock), Stock: [`MagpulCTRStock`](#magpulctrstock), Stock: [`MagpulCTRStockTan`](#magpulctrstocktan), Stock: [`MilSpecStock`](#milspecstock), Stock: [`MilSpecStockTan`](#milspecstocktan), Stock: [`HK416Stock`](#hk416stock), Stock: [`HK416StockTan`](#hk416stocktan), [`VectorMag`](#vectormag), [`M4A1Mag`](#m4a1mag), [`M38Mag`](#m38mag), [`Stanag50`](#stanag50), [`Stanag60`](#stanag60), [`Stanag100`](#stanag100), Grip: [`AKMIron`](#akmiron), Railing: [`RailRiser`](#railriser), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`Specter`](#specter), Scope: [`Reflex`](#reflex), Scope: [`BijiaReflex`](#bijiareflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`EotechHybrid2`](#eotechhybrid2), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Scope: [`RMR`](#rmr), Grip: [`Bipod`](#bipod), Grip: [`Grip2`](#grip2), Grip: [`StubbyGrip`](#stubbygrip), Grip: [`AngledGrip`](#angledgrip), Grip: [`VGrip`](#vgrip) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2613,7 +2613,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`MA5DAction`](#ma5daction), [`MA5DMag`](#ma5dmag), [`MA5Dcover`](#ma5dcover), [`Silencer762x51`](#silencer762x51) |
+| Compatible Attachment | [`MA5DAction`](#ma5daction), [`MA5DMag`](#ma5dmag), Scope: [`MA5Dcover`](#ma5dcover), Grip: [`Silencer762x51`](#silencer762x51) |
 | Crosshair | Unknown |
 | Recoil | 1.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2659,7 +2659,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`M1928ThompsonAction`](#m1928thompsonaction), [`M1928Sight`](#m1928sight), [`M1928Mag`](#m1928mag), [`M1A1Mag`](#m1a1mag), [`M1928Grip`](#m1928grip), [`M1A1Grip`](#m1a1grip), [`Extra`](#extra) |
+| Compatible Attachment | [`M1928ThompsonAction`](#m1928thompsonaction), [`M1928Sight`](#m1928sight), [`M1928Mag`](#m1928mag), [`M1A1Mag`](#m1a1mag), Grip: [`M1928Grip`](#m1928grip), Grip: [`M1A1Grip`](#m1a1grip), [`Extra`](#extra) |
 | Crosshair | Unknown |
 | Recoil | 1.8 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2751,7 +2751,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`M249Stock`](#m249stock), [`M38FrontSight`](#m38frontsight), [`StonerHANDGUARD`](#stonerhandguard), [`Placeholder`](#placeholder), [`M249Action`](#m249action), [`StonerHATCH`](#stonerhatch), [`StonerBELT`](#stonerbelt), [`StonerMag`](#stonermag), [`M4Rail`](#m4rail), [`Extra`](#extra), [`AKMIron`](#akmiron), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`EotechHybrid2`](#eotechhybrid2), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`VGrip`](#vgrip), [`Bipod`](#bipod), [`Laser2`](#laser2), [`Laser`](#laser) |
+| Compatible Attachment | Stock: [`M249Stock`](#m249stock), Frontsight: [`M38FrontSight`](#m38frontsight), Guard: [`StonerHANDGUARD`](#stonerhandguard), Railing: [`Placeholder`](#placeholder), [`M249Action`](#m249action), [`StonerHATCH`](#stonerhatch), [`StonerBELT`](#stonerbelt), [`StonerMag`](#stonermag), [`M4Rail`](#m4rail), [`Extra`](#extra), Grip: [`AKMIron`](#akmiron), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`Specter`](#specter), Scope: [`Reflex`](#reflex), Scope: [`BijiaReflex`](#bijiareflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`EotechHybrid2`](#eotechhybrid2), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Grip: [`Grip2`](#grip2), Grip: [`StubbyGrip`](#stubbygrip), Grip: [`AngledGrip`](#angledgrip), Grip: [`VGrip`](#vgrip), Grip: [`Bipod`](#bipod), Grip: [`Laser2`](#laser2), Grip: [`Laser`](#laser) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2797,7 +2797,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`AKMDustCover`](#akmdustcover), [`AK101DustCover`](#ak101dustcover), [`VeprDustCover`](#veprdustcover), [`AK15DustCover`](#ak15dustcover), [`RPKDustCover`](#rpkdustcover), [`AKaction`](#akaction), [`AKIron`](#akiron), [`AK15Mag`](#ak15mag), [`AK47Mag`](#ak47mag), [`AK47PMAGTan`](#ak47pmagtan), [`AK50Mag`](#ak50mag), [`AK75Mag`](#ak75mag), [`AK100Mag`](#ak100mag), [`Silencer762x39`](#silencer762x39), [`Extra`](#extra), [`Bipod`](#bipod), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Specter`](#specter), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra) |
+| Compatible Attachment | Railing: [`AKMDustCover`](#akmdustcover), Railing: [`AK101DustCover`](#ak101dustcover), Railing: [`VeprDustCover`](#veprdustcover), Railing: [`AK15DustCover`](#ak15dustcover), Railing: [`RPKDustCover`](#rpkdustcover), [`AKaction`](#akaction), Grip: [`AKIron`](#akiron), [`AK15Mag`](#ak15mag), [`AK47Mag`](#ak47mag), [`AK47PMAGTan`](#ak47pmagtan), [`AK50Mag`](#ak50mag), [`AK75Mag`](#ak75mag), [`AK100Mag`](#ak100mag), Grip: [`Silencer762x39`](#silencer762x39), [`Extra`](#extra), Grip: [`Bipod`](#bipod), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Scope: [`Specter`](#specter), Scope: [`Reflex`](#reflex), Scope: [`BijiaReflex`](#bijiareflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2843,7 +2843,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`M202Rocket`](#m202rocket), [`M202rockets`](#m202rockets), [`M202scope`](#m202scope) |
+| Compatible Attachment | [`M202Rocket`](#m202rocket), [`M202rockets`](#m202rockets), Scope: [`M202scope`](#m202scope) |
 | Crosshair | Unknown |
 | Recoil | 5.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2889,7 +2889,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`P90Mag`](#p90mag), [`P90TerminatorMag`](#p90terminatormag), [`P90Swordfish`](#p90swordfish), [`M4Rail`](#m4rail), [`P90Terminator`](#p90terminator), [`P90DefaultKit`](#p90defaultkit), [`P90Placeholder`](#p90placeholder), [`AKMIron`](#akmiron), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Specter`](#specter), [`Reflex`](#reflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`EotechHybrid2`](#eotechhybrid2), [`Vortex`](#vortex), [`Kobra`](#kobra), [`RMR`](#rmr), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`VGrip`](#vgrip), [`Bipod`](#bipod), [`Laser`](#laser), [`Laser2`](#laser2) |
+| Compatible Attachment | [`P90Mag`](#p90mag), [`P90TerminatorMag`](#p90terminatormag), Railing: [`P90Swordfish`](#p90swordfish), [`M4Rail`](#m4rail), Frontsight: [`P90Terminator`](#p90terminator), Frontsight: [`P90DefaultKit`](#p90defaultkit), Stock: [`P90Placeholder`](#p90placeholder), Grip: [`AKMIron`](#akmiron), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Scope: [`Specter`](#specter), Scope: [`Reflex`](#reflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`EotechHybrid2`](#eotechhybrid2), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`RMR`](#rmr), Grip: [`Grip2`](#grip2), Grip: [`StubbyGrip`](#stubbygrip), Grip: [`VGrip`](#vgrip), Grip: [`Bipod`](#bipod), Grip: [`Laser`](#laser), Grip: [`Laser2`](#laser2) |
 | Crosshair | Unknown |
 | Recoil | 1.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -2935,7 +2935,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`PistolPlaceholder`](#pistolplaceholder), [`Glock18Cslide`](#glock18cslide), [`Glock18CMag`](#glock18cmag), [`GlockMag13`](#glockmag13), [`GlockMag50`](#glockmag50), [`GlockHOGUEGrip`](#glockhoguegrip), [`GlockHOGUEGripTan`](#glockhoguegriptan), [`Laser`](#laser), [`GlockStock`](#glockstock), [`Silencer9mm`](#silencer9mm), [`FABDefenseMount`](#fabdefensemount), [`RMR`](#rmr), [`BijiaReflex`](#bijiareflex) |
+| Compatible Attachment | Guard: [`PistolPlaceholder`](#pistolplaceholder), [`Glock18Cslide`](#glock18cslide), [`Glock18CMag`](#glock18cmag), [`GlockMag13`](#glockmag13), [`GlockMag50`](#glockmag50), Backgrip: [`GlockHOGUEGrip`](#glockhoguegrip), Backgrip: [`GlockHOGUEGripTan`](#glockhoguegriptan), Grip: [`Laser`](#laser), Grip: [`GlockStock`](#glockstock), Grip: [`Silencer9mm`](#silencer9mm), Railing: [`FABDefenseMount`](#fabdefensemount), Scope: [`RMR`](#rmr), Scope: [`BijiaReflex`](#bijiareflex) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3073,7 +3073,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`NV4Mag`](#nv4mag), [`NV4Action`](#nv4action), [`Extra`](#extra), [`AKMIron`](#akmiron), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`Holographic`](#holographic), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`VGrip`](#vgrip), [`JunoGrip`](#junogrip), [`Bipod`](#bipod), [`Laser2`](#laser2), [`Laser`](#laser), [`Silencer556x45`](#silencer556x45), [`M4Rail`](#m4rail), [`RailAlt`](#railalt) |
+| Compatible Attachment | [`NV4Mag`](#nv4mag), [`NV4Action`](#nv4action), [`Extra`](#extra), Grip: [`AKMIron`](#akmiron), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`Specter`](#specter), Scope: [`HP`](#hp), Scope: [`Reflex`](#reflex), Scope: [`Holographic`](#holographic), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Grip: [`Grip2`](#grip2), Grip: [`StubbyGrip`](#stubbygrip), Grip: [`VGrip`](#vgrip), Grip: [`JunoGrip`](#junogrip), Grip: [`Bipod`](#bipod), Grip: [`Laser2`](#laser2), Grip: [`Laser`](#laser), Grip: [`Silencer556x45`](#silencer556x45), [`M4Rail`](#m4rail), [`RailAlt`](#railalt) |
 | Crosshair | Unknown |
 | Recoil | 2.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3119,7 +3119,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Placeholder`](#placeholder), [`GripPlaceholder`](#gripplaceholder), [`LaserPlaceholder`](#laserplaceholder), [`ACRStock`](#acrstock), [`CollapsableMOEStock`](#collapsablemoestock), [`MagpulCTRStock`](#magpulctrstock), [`MilSpecStock`](#milspecstock), [`HK416Stock`](#hk416stock), [`ACRHandGuard`](#acrhandguard), [`M4A1Mag`](#m4a1mag), [`M38Mag`](#m38mag), [`Stanag50`](#stanag50), [`Stanag60`](#stanag60), [`Stanag100`](#stanag100), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`Reflex`](#reflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`BijiaReflex`](#bijiareflex), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`JunoGrip`](#junogrip), [`VGrip`](#vgrip), [`Bipod`](#bipod), [`Laser2`](#laser2), [`Laser`](#laser), [`Silencer556x45`](#silencer556x45), [`AKMIron`](#akmiron), [`ACRRails`](#acrrails), [`ACRAction`](#acraction) |
+| Compatible Attachment | Railing: [`Placeholder`](#placeholder), Frontsight: [`GripPlaceholder`](#gripplaceholder), Receiver: [`LaserPlaceholder`](#laserplaceholder), Stock: [`ACRStock`](#acrstock), Stock: [`CollapsableMOEStock`](#collapsablemoestock), Stock: [`MagpulCTRStock`](#magpulctrstock), Stock: [`MilSpecStock`](#milspecstock), Stock: [`HK416Stock`](#hk416stock), Guard: [`ACRHandGuard`](#acrhandguard), [`M4A1Mag`](#m4a1mag), [`M38Mag`](#m38mag), [`Stanag50`](#stanag50), [`Stanag60`](#stanag60), [`Stanag100`](#stanag100), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`Specter`](#specter), Scope: [`Reflex`](#reflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`BijiaReflex`](#bijiareflex), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Grip: [`Grip2`](#grip2), Grip: [`StubbyGrip`](#stubbygrip), Grip: [`AngledGrip`](#angledgrip), Grip: [`JunoGrip`](#junogrip), Grip: [`VGrip`](#vgrip), Grip: [`Bipod`](#bipod), Grip: [`Laser2`](#laser2), Grip: [`Laser`](#laser), Grip: [`Silencer556x45`](#silencer556x45), Grip: [`AKMIron`](#akmiron), [`ACRRails`](#acrrails), [`ACRAction`](#acraction) |
 | Crosshair | Unknown |
 | Recoil | 2.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3165,7 +3165,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Placeholder`](#placeholder), [`L96A1Mag`](#l96a1mag), [`L115Bolt1`](#l115bolt1), [`L115Bolt2`](#l115bolt2), [`AKMIron`](#akmiron), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Bipod`](#bipod), [`M4Rail`](#m4rail), [`Bullet`](#bullet) |
+| Compatible Attachment | Railing: [`Placeholder`](#placeholder), [`L96A1Mag`](#l96a1mag), [`L115Bolt1`](#l115bolt1), [`L115Bolt2`](#l115bolt2), Grip: [`AKMIron`](#akmiron), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`Specter`](#specter), Scope: [`HP`](#hp), Scope: [`Reflex`](#reflex), Scope: [`BijiaReflex`](#bijiareflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Grip: [`Bipod`](#bipod), [`M4Rail`](#m4rail), [`Bullet`](#bullet) |
 | Crosshair | Unknown |
 | Recoil | 6.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3211,7 +3211,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Placeholder`](#placeholder), [`CollapsableMOEStock`](#collapsablemoestock), [`MagpulCTRStock`](#magpulctrstock), [`HeraArmsStock`](#heraarmsstock), [`MilSpecStock`](#milspecstock), [`HK416Stock`](#hk416stock), [`M16Stock`](#m16stock), [`MagpulCTRStockTan`](#magpulctrstocktan), [`MilSpecStockTan`](#milspecstocktan), [`HK416StockTan`](#hk416stocktan), [`M16StockTan`](#m16stocktan), [`M38FrontSight`](#m38frontsight), [`M4FrontSight`](#m4frontsight), [`M4HandGuard`](#m4handguard), [`M16HandGuard`](#m16handguard), [`M4MagpulHandGuard`](#m4magpulhandguard), [`M4MagpulHandGuardTan`](#m4magpulhandguardtan), [`M4CarbineHandGuard`](#m4carbinehandguard), [`Mk18HandGuard`](#mk18handguard), [`M38HandGuard`](#m38handguard), [`LVOAVHandGuard`](#lvoavhandguard), [`M4Receiver`](#m4receiver), [`VLTORReceiver`](#vltorreceiver), [`M4Grip`](#m4grip), [`M4GripTan`](#m4griptan), [`M4GripGray`](#m4gripgray), [`HeraArmsGrip`](#heraarmsgrip), [`M38Mag`](#m38mag), [`M4A1Mag`](#m4a1mag), [`Stanag50`](#stanag50), [`Stanag60`](#stanag60), [`Stanag100`](#stanag100), [`AR15Action`](#ar15action), [`AKMIron`](#akmiron), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`VGrip`](#vgrip), [`JunoGrip`](#junogrip), [`Bipod`](#bipod), [`Laser2`](#laser2), [`Laser`](#laser), [`Silencer556x45`](#silencer556x45) |
+| Compatible Attachment | Railing: [`Placeholder`](#placeholder), Stock: [`CollapsableMOEStock`](#collapsablemoestock), Stock: [`MagpulCTRStock`](#magpulctrstock), Stock: [`HeraArmsStock`](#heraarmsstock), Stock: [`MilSpecStock`](#milspecstock), Stock: [`HK416Stock`](#hk416stock), Stock: [`M16Stock`](#m16stock), Stock: [`MagpulCTRStockTan`](#magpulctrstocktan), Stock: [`MilSpecStockTan`](#milspecstocktan), Stock: [`HK416StockTan`](#hk416stocktan), Stock: [`M16StockTan`](#m16stocktan), Frontsight: [`M38FrontSight`](#m38frontsight), Frontsight: [`M4FrontSight`](#m4frontsight), Guard: [`M4HandGuard`](#m4handguard), Guard: [`M16HandGuard`](#m16handguard), Guard: [`M4MagpulHandGuard`](#m4magpulhandguard), Guard: [`M4MagpulHandGuardTan`](#m4magpulhandguardtan), Guard: [`M4CarbineHandGuard`](#m4carbinehandguard), Guard: [`Mk18HandGuard`](#mk18handguard), Guard: [`M38HandGuard`](#m38handguard), Guard: [`LVOAVHandGuard`](#lvoavhandguard), Receiver: [`M4Receiver`](#m4receiver), Receiver: [`VLTORReceiver`](#vltorreceiver), Backgrip: [`M4Grip`](#m4grip), Backgrip: [`M4GripTan`](#m4griptan), Backgrip: [`M4GripGray`](#m4gripgray), Backgrip: [`HeraArmsGrip`](#heraarmsgrip), [`M38Mag`](#m38mag), [`M4A1Mag`](#m4a1mag), [`Stanag50`](#stanag50), [`Stanag60`](#stanag60), [`Stanag100`](#stanag100), [`AR15Action`](#ar15action), Grip: [`AKMIron`](#akmiron), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`Specter`](#specter), Scope: [`HP`](#hp), Scope: [`Reflex`](#reflex), Scope: [`BijiaReflex`](#bijiareflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Grip: [`Grip2`](#grip2), Grip: [`StubbyGrip`](#stubbygrip), Grip: [`AngledGrip`](#angledgrip), Grip: [`VGrip`](#vgrip), Grip: [`JunoGrip`](#junogrip), Grip: [`Bipod`](#bipod), Grip: [`Laser2`](#laser2), Grip: [`Laser`](#laser), Grip: [`Silencer556x45`](#silencer556x45) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3349,7 +3349,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`PistolPlaceholder`](#pistolplaceholder), [`BrowningHiPowerSlide`](#browninghipowerslide), [`HiPowerMag`](#hipowermag) |
+| Compatible Attachment | Guard: [`PistolPlaceholder`](#pistolplaceholder), [`BrowningHiPowerSlide`](#browninghipowerslide), [`HiPowerMag`](#hipowermag) |
 | Crosshair | Unknown |
 | Recoil | 2.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3395,7 +3395,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Placeholder`](#placeholder), [`GripPlaceholder`](#gripplaceholder), [`LaserPlaceholder`](#laserplaceholder), [`M110Mag`](#m110mag), [`M110Action`](#m110action), [`Extra`](#extra), [`AKMIron`](#akmiron), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`VGrip`](#vgrip), [`JunoGrip`](#junogrip), [`Bipod`](#bipod), [`Laser2`](#laser2), [`Laser`](#laser), [`Silencer762x51`](#silencer762x51), [`M110Rail`](#m110rail) |
+| Compatible Attachment | Railing: [`Placeholder`](#placeholder), Frontsight: [`GripPlaceholder`](#gripplaceholder), Receiver: [`LaserPlaceholder`](#laserplaceholder), [`M110Mag`](#m110mag), [`M110Action`](#m110action), [`Extra`](#extra), Grip: [`AKMIron`](#akmiron), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`Specter`](#specter), Scope: [`HP`](#hp), Scope: [`Reflex`](#reflex), Scope: [`BijiaReflex`](#bijiareflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Grip: [`Grip2`](#grip2), Grip: [`StubbyGrip`](#stubbygrip), Grip: [`VGrip`](#vgrip), Grip: [`JunoGrip`](#junogrip), Grip: [`Bipod`](#bipod), Grip: [`Laser2`](#laser2), Grip: [`Laser`](#laser), Grip: [`Silencer762x51`](#silencer762x51), [`M110Rail`](#m110rail) |
 | Crosshair | Unknown |
 | Recoil | 6.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3441,7 +3441,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`PistolPlaceholder`](#pistolplaceholder), [`P226Slide`](#p226slide), [`M9A1Mag`](#m9a1mag), [`M9Mag30`](#m9mag30), [`M9DrumMag`](#m9drummag), [`Laser`](#laser), [`Silencer9mm`](#silencer9mm), [`FABDefenseMount`](#fabdefensemount), [`RMR`](#rmr), [`BijiaReflex`](#bijiareflex) |
+| Compatible Attachment | Guard: [`PistolPlaceholder`](#pistolplaceholder), [`P226Slide`](#p226slide), [`M9A1Mag`](#m9a1mag), [`M9Mag30`](#m9mag30), [`M9DrumMag`](#m9drummag), Grip: [`Laser`](#laser), Grip: [`Silencer9mm`](#silencer9mm), Railing: [`FABDefenseMount`](#fabdefensemount), Scope: [`RMR`](#rmr), Scope: [`BijiaReflex`](#bijiareflex) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3579,7 +3579,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Grenade40mm`](#grenade40mm), [`GLgrenade`](#glgrenade), [`GL06Cartridge`](#gl06cartridge), [`ACOG`](#acog), [`Specter`](#specter), [`Reflex`](#reflex), [`Holographic`](#holographic), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`RMR`](#rmr), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`VGrip`](#vgrip), [`Bipod`](#bipod), [`Laser2`](#laser2), [`Laser`](#laser) |
+| Compatible Attachment | [`Grenade40mm`](#grenade40mm), [`GLgrenade`](#glgrenade), [`GL06Cartridge`](#gl06cartridge), Scope: [`ACOG`](#acog), Scope: [`Specter`](#specter), Scope: [`Reflex`](#reflex), Scope: [`Holographic`](#holographic), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Scope: [`RMR`](#rmr), Grip: [`Grip2`](#grip2), Grip: [`StubbyGrip`](#stubbygrip), Grip: [`VGrip`](#vgrip), Grip: [`Bipod`](#bipod), Grip: [`Laser2`](#laser2), Grip: [`Laser`](#laser) |
 | Crosshair | Unknown |
 | Recoil | 5.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3671,7 +3671,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`M45pump`](#m45pump), [`RailAlt`](#railalt), [`ShotgunShell`](#shotgunshell), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`Holographic`](#holographic), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`Silencer12Gauge`](#silencer12gauge) |
+| Compatible Attachment | [`M45pump`](#m45pump), [`RailAlt`](#railalt), [`ShotgunShell`](#shotgunshell), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`Specter`](#specter), Scope: [`HP`](#hp), Scope: [`Reflex`](#reflex), Scope: [`Holographic`](#holographic), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Grip: [`Silencer12Gauge`](#silencer12gauge) |
 | Crosshair | Unknown |
 | Recoil | 15.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3717,7 +3717,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Placeholder`](#placeholder), [`CollapsableMOEStock`](#collapsablemoestock), [`MagpulCTRStock`](#magpulctrstock), [`HeraArmsStock`](#heraarmsstock), [`MilSpecStock`](#milspecstock), [`HK416Stock`](#hk416stock), [`M16Stock`](#m16stock), [`MagpulCTRStockTan`](#magpulctrstocktan), [`MilSpecStockTan`](#milspecstocktan), [`HK416StockTan`](#hk416stocktan), [`M16StockTan`](#m16stocktan), [`M4FrontSight`](#m4frontsight), [`M38FrontSight`](#m38frontsight), [`M4HandGuard`](#m4handguard), [`M16HandGuard`](#m16handguard), [`M4MagpulHandGuard`](#m4magpulhandguard), [`M4MagpulHandGuardTan`](#m4magpulhandguardtan), [`M4CarbineHandGuard`](#m4carbinehandguard), [`Mk18HandGuard`](#mk18handguard), [`M38HandGuard`](#m38handguard), [`LVOAVHandGuard`](#lvoavhandguard), [`M4Receiver`](#m4receiver), [`VLTORReceiver`](#vltorreceiver), [`M4Grip`](#m4grip), [`M4GripTan`](#m4griptan), [`M4GripGray`](#m4gripgray), [`HeraArmsGrip`](#heraarmsgrip), [`M4A1Mag`](#m4a1mag), [`M38Mag`](#m38mag), [`Stanag50`](#stanag50), [`Stanag60`](#stanag60), [`Stanag100`](#stanag100), [`AR15Action`](#ar15action), [`AR15Iron`](#ar15iron), [`AKMIron`](#akmiron), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`VGrip`](#vgrip), [`JunoGrip`](#junogrip), [`Bipod`](#bipod), [`Laser2`](#laser2), [`Laser`](#laser), [`Silencer556x45`](#silencer556x45) |
+| Compatible Attachment | Railing: [`Placeholder`](#placeholder), Stock: [`CollapsableMOEStock`](#collapsablemoestock), Stock: [`MagpulCTRStock`](#magpulctrstock), Stock: [`HeraArmsStock`](#heraarmsstock), Stock: [`MilSpecStock`](#milspecstock), Stock: [`HK416Stock`](#hk416stock), Stock: [`M16Stock`](#m16stock), Stock: [`MagpulCTRStockTan`](#magpulctrstocktan), Stock: [`MilSpecStockTan`](#milspecstocktan), Stock: [`HK416StockTan`](#hk416stocktan), Stock: [`M16StockTan`](#m16stocktan), Frontsight: [`M4FrontSight`](#m4frontsight), Frontsight: [`M38FrontSight`](#m38frontsight), Guard: [`M4HandGuard`](#m4handguard), Guard: [`M16HandGuard`](#m16handguard), Guard: [`M4MagpulHandGuard`](#m4magpulhandguard), Guard: [`M4MagpulHandGuardTan`](#m4magpulhandguardtan), Guard: [`M4CarbineHandGuard`](#m4carbinehandguard), Guard: [`Mk18HandGuard`](#mk18handguard), Guard: [`M38HandGuard`](#m38handguard), Guard: [`LVOAVHandGuard`](#lvoavhandguard), Receiver: [`M4Receiver`](#m4receiver), Receiver: [`VLTORReceiver`](#vltorreceiver), Backgrip: [`M4Grip`](#m4grip), Backgrip: [`M4GripTan`](#m4griptan), Backgrip: [`M4GripGray`](#m4gripgray), Backgrip: [`HeraArmsGrip`](#heraarmsgrip), [`M4A1Mag`](#m4a1mag), [`M38Mag`](#m38mag), [`Stanag50`](#stanag50), [`Stanag60`](#stanag60), [`Stanag100`](#stanag100), [`AR15Action`](#ar15action), [`AR15Iron`](#ar15iron), Grip: [`AKMIron`](#akmiron), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`Specter`](#specter), Scope: [`HP`](#hp), Scope: [`Reflex`](#reflex), Scope: [`BijiaReflex`](#bijiareflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Grip: [`Grip2`](#grip2), Grip: [`StubbyGrip`](#stubbygrip), Grip: [`AngledGrip`](#angledgrip), Grip: [`VGrip`](#vgrip), Grip: [`JunoGrip`](#junogrip), Grip: [`Bipod`](#bipod), Grip: [`Laser2`](#laser2), Grip: [`Laser`](#laser), Grip: [`Silencer556x45`](#silencer556x45) |
 | Crosshair | Unknown |
 | Recoil | 3.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3763,7 +3763,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`AUGA1handguard`](#auga1handguard), [`AUGDefaultKit`](#augdefaultkit), [`AUGParaConversion`](#augparaconversion), [`AUGA2handguard`](#auga2handguard), [`AUGA3handguard`](#auga3handguard), [`EF88Handguard`](#ef88handguard), [`AUGA3extGuard`](#auga3extguard), [`AUG9mmMag`](#aug9mmmag), [`M4A1Mag`](#m4a1mag), [`M38Mag`](#m38mag), [`Stanag50`](#stanag50), [`Stanag60`](#stanag60), [`Stanag100`](#stanag100), [`AUGAction`](#augaction), [`AKMIron`](#akmiron), [`AUGscope`](#augscope), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`EotechHybrid2`](#eotechhybrid2), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`RMR`](#rmr), [`AUGgrip`](#auggrip), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`VGrip`](#vgrip), [`Bipod`](#bipod), [`Laser2`](#laser2), [`Laser`](#laser), [`Silencer556x45`](#silencer556x45) |
+| Compatible Attachment | Guard: [`AUGA1handguard`](#auga1handguard), Frontsight: [`AUGDefaultKit`](#augdefaultkit), Frontsight: [`AUGParaConversion`](#augparaconversion), Guard: [`AUGA2handguard`](#auga2handguard), Guard: [`AUGA3handguard`](#auga3handguard), Guard: [`EF88Handguard`](#ef88handguard), Receiver: [`AUGA3extGuard`](#auga3extguard), [`AUG9mmMag`](#aug9mmmag), [`M4A1Mag`](#m4a1mag), [`M38Mag`](#m38mag), [`Stanag50`](#stanag50), [`Stanag60`](#stanag60), [`Stanag100`](#stanag100), [`AUGAction`](#augaction), Grip: [`AKMIron`](#akmiron), Scope: [`AUGscope`](#augscope), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`Specter`](#specter), Scope: [`Reflex`](#reflex), Scope: [`BijiaReflex`](#bijiareflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`EotechHybrid2`](#eotechhybrid2), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Scope: [`RMR`](#rmr), Grip: [`AUGgrip`](#auggrip), Grip: [`Grip2`](#grip2), Grip: [`StubbyGrip`](#stubbygrip), Grip: [`AngledGrip`](#angledgrip), Grip: [`VGrip`](#vgrip), Grip: [`Bipod`](#bipod), Grip: [`Laser2`](#laser2), Grip: [`Laser`](#laser), Grip: [`Silencer556x45`](#silencer556x45) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3809,7 +3809,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Saiga12action`](#saiga12action), [`SaigaMag`](#saigamag), [`Silencer762x39`](#silencer762x39), [`Bipod`](#bipod), [`Saiga12sights`](#saiga12sights), [`PSO1`](#pso1), [`OKP7`](#okp7) |
+| Compatible Attachment | [`Saiga12action`](#saiga12action), [`SaigaMag`](#saigamag), Grip: [`Silencer762x39`](#silencer762x39), Grip: [`Bipod`](#bipod), [`Saiga12sights`](#saiga12sights), Scope: [`PSO1`](#pso1), Scope: [`OKP7`](#okp7) |
 | Crosshair | Unknown |
 | Recoil | 5.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3901,7 +3901,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`PythonChamber`](#pythonchamber), [`DanWessonLaser`](#danwessonlaser) |
+| Compatible Attachment | [`PythonChamber`](#pythonchamber), Grip: [`DanWessonLaser`](#danwessonlaser) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3947,7 +3947,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`M1014Stock`](#m1014stock), [`M4BenelliStock`](#m4benellistock), [`ShotgunRail`](#shotgunrail), [`SupernovaAction`](#supernovaaction), [`ShotgunShell`](#shotgunshell), [`SupernovaPump`](#supernovapump), [`Extra`](#extra), [`Reflex`](#reflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`RMR`](#rmr) |
+| Compatible Attachment | Stock: [`M1014Stock`](#m1014stock), Stock: [`M4BenelliStock`](#m4benellistock), Railing: [`ShotgunRail`](#shotgunrail), [`SupernovaAction`](#supernovaaction), [`ShotgunShell`](#shotgunshell), [`SupernovaPump`](#supernovapump), [`Extra`](#extra), Scope: [`Reflex`](#reflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Scope: [`RMR`](#rmr) |
 | Crosshair | Unknown |
 | Recoil | 13.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -3993,7 +3993,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Placeholder`](#placeholder), [`G11Mag`](#g11mag), [`G11Action`](#g11action), [`M4Rail`](#m4rail), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Specter`](#specter), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`EotechHybrid2`](#eotechhybrid2), [`Kobra`](#kobra), [`RMR`](#rmr) |
+| Compatible Attachment | Railing: [`Placeholder`](#placeholder), [`G11Mag`](#g11mag), [`G11Action`](#g11action), [`M4Rail`](#m4rail), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Scope: [`Specter`](#specter), Scope: [`Reflex`](#reflex), Scope: [`BijiaReflex`](#bijiareflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`EotechHybrid2`](#eotechhybrid2), Scope: [`Kobra`](#kobra), Scope: [`RMR`](#rmr) |
 | Crosshair | Unknown |
 | Recoil | 1.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4039,7 +4039,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Bipod`](#bipod), [`JohnsonMAG`](#johnsonmag), [`JohnsonACTION`](#johnsonaction) |
+| Compatible Attachment | Grip: [`Bipod`](#bipod), [`JohnsonMAG`](#johnsonmag), [`JohnsonACTION`](#johnsonaction) |
 | Crosshair | Unknown |
 | Recoil | 2.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4131,7 +4131,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`KedrAction`](#kedraction), [`KedrMag`](#kedrmag), [`Silencer9mm`](#silencer9mm), [`Extra`](#extra) |
+| Compatible Attachment | [`KedrAction`](#kedraction), [`KedrMag`](#kedrmag), Grip: [`Silencer9mm`](#silencer9mm), [`Extra`](#extra) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4223,7 +4223,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`VSSVintorezAction`](#vssvintorezaction), [`VSSVintorezMag`](#vssvintorezmag), [`Extra`](#extra), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Specter`](#specter), [`Reflex`](#reflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`AK15ironsight`](#ak15ironsight), [`M4Rail`](#m4rail) |
+| Compatible Attachment | [`VSSVintorezAction`](#vssvintorezaction), [`VSSVintorezMag`](#vssvintorezmag), [`Extra`](#extra), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Scope: [`Specter`](#specter), Scope: [`Reflex`](#reflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Grip: [`AK15ironsight`](#ak15ironsight), [`M4Rail`](#m4rail) |
 | Crosshair | Unknown |
 | Recoil | 1.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4269,7 +4269,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Placeholder`](#placeholder), [`GripPlaceholder`](#gripplaceholder), [`LaserPlaceholder`](#laserplaceholder), [`G36CMag`](#g36cmag), [`Stanag100`](#stanag100), [`G36CAction`](#g36caction), [`Extra`](#extra), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`VGrip`](#vgrip), [`Laser2`](#laser2), [`Laser`](#laser), [`Silencer556x45`](#silencer556x45), [`G36CRail`](#g36crail) |
+| Compatible Attachment | Railing: [`Placeholder`](#placeholder), Frontsight: [`GripPlaceholder`](#gripplaceholder), Receiver: [`LaserPlaceholder`](#laserplaceholder), [`G36CMag`](#g36cmag), [`Stanag100`](#stanag100), [`G36CAction`](#g36caction), [`Extra`](#extra), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`Specter`](#specter), Scope: [`Reflex`](#reflex), Scope: [`BijiaReflex`](#bijiareflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Grip: [`Grip2`](#grip2), Grip: [`StubbyGrip`](#stubbygrip), Grip: [`VGrip`](#vgrip), Grip: [`Laser2`](#laser2), Grip: [`Laser`](#laser), Grip: [`Silencer556x45`](#silencer556x45), [`G36CRail`](#g36crail) |
 | Crosshair | Unknown |
 | Recoil | 2.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4453,7 +4453,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`M9A1Body`](#m9a1body), [`M9A1Slide`](#m9a1slide), [`SamuraiEdgeBody`](#samuraiedgebody), [`SamuraiEdgeAWBody`](#samuraiedgeawbody), [`SamuraiEdgeAlbertExt`](#samuraiedgealbertext), [`SamuraiEdgeSlide`](#samuraiedgeslide), [`M9A1Mag`](#m9a1mag), [`SamuraiEdgeMag`](#samuraiedgemag), [`M9Mag30`](#m9mag30), [`M9DrumMag`](#m9drummag), [`Laser`](#laser), [`Silencer9mm`](#silencer9mm), [`FABDefenseMount`](#fabdefensemount), [`RMR`](#rmr), [`BijiaReflex`](#bijiareflex) |
+| Compatible Attachment | Backgrip: [`M9A1Body`](#m9a1body), Frontsight: [`M9A1Slide`](#m9a1slide), Backgrip: [`SamuraiEdgeBody`](#samuraiedgebody), Backgrip: [`SamuraiEdgeAWBody`](#samuraiedgeawbody), Guard: [`SamuraiEdgeAlbertExt`](#samuraiedgealbertext), Frontsight: [`SamuraiEdgeSlide`](#samuraiedgeslide), [`M9A1Mag`](#m9a1mag), [`SamuraiEdgeMag`](#samuraiedgemag), [`M9Mag30`](#m9mag30), [`M9DrumMag`](#m9drummag), Grip: [`Laser`](#laser), Grip: [`Silencer9mm`](#silencer9mm), Railing: [`FABDefenseMount`](#fabdefensemount), Scope: [`RMR`](#rmr), Scope: [`BijiaReflex`](#bijiareflex) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4499,7 +4499,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`M60HandGuard`](#m60handguard), [`M60E4HandGuard`](#m60e4handguard), [`M60FrontSight`](#m60frontsight), [`M60Rail`](#m60rail), [`M60Hatch`](#m60hatch), [`M60Belt`](#m60belt), [`M60Mag`](#m60mag), [`Extra`](#extra), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`EotechHybrid2`](#eotechhybrid2), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`VGrip`](#vgrip), [`Laser2`](#laser2), [`Laser`](#laser) |
+| Compatible Attachment | Guard: [`M60HandGuard`](#m60handguard), Guard: [`M60E4HandGuard`](#m60e4handguard), Frontsight: [`M60FrontSight`](#m60frontsight), Railing: [`M60Rail`](#m60rail), [`M60Hatch`](#m60hatch), [`M60Belt`](#m60belt), [`M60Mag`](#m60mag), [`Extra`](#extra), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`Specter`](#specter), Scope: [`Reflex`](#reflex), Scope: [`BijiaReflex`](#bijiareflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`EotechHybrid2`](#eotechhybrid2), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Grip: [`Grip2`](#grip2), Grip: [`StubbyGrip`](#stubbygrip), Grip: [`AngledGrip`](#angledgrip), Grip: [`VGrip`](#vgrip), Grip: [`Laser2`](#laser2), Grip: [`Laser`](#laser) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4545,7 +4545,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Type2Part`](#type2part), [`Type2Sight`](#type2sight), [`Type2Mag`](#type2mag), [`ACOG`](#acog), [`Specter`](#specter), [`Reflex`](#reflex), [`Holographic`](#holographic), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1) |
+| Compatible Attachment | [`Type2Part`](#type2part), [`Type2Sight`](#type2sight), [`Type2Mag`](#type2mag), Scope: [`ACOG`](#acog), Scope: [`Specter`](#specter), Scope: [`Reflex`](#reflex), Scope: [`Holographic`](#holographic), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1) |
 | Crosshair | Unknown |
 | Recoil | 2.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4637,7 +4637,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`M8A7Mag`](#m8a7mag), [`Extra`](#extra), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`VGrip`](#vgrip), [`Bipod`](#bipod), [`Silencer556x45`](#silencer556x45) |
+| Compatible Attachment | [`M8A7Mag`](#m8a7mag), [`Extra`](#extra), Grip: [`Grip2`](#grip2), Grip: [`StubbyGrip`](#stubbygrip), Grip: [`VGrip`](#vgrip), Grip: [`Bipod`](#bipod), Grip: [`Silencer556x45`](#silencer556x45) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4729,7 +4729,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`AK47Stock`](#ak47stock), [`AK101Stock`](#ak101stock), [`AKMDustCover`](#akmdustcover), [`AK47HandleGuard`](#ak47handleguard), [`AK101HandGuard`](#ak101handguard), [`AKMagpulHandleGuard`](#akmagpulhandleguard), [`AKMagpulHandleGuardTan`](#akmagpulhandleguardtan), [`MLOKHandguard`](#mlokhandguard), [`MLOKExtendedHandguard`](#mlokextendedhandguard), [`AK15HandleGuard`](#ak15handleguard), [`RPK16Handguard`](#rpk16handguard), [`AK101DustCover`](#ak101dustcover), [`VeprDustCover`](#veprdustcover), [`AK15DustCover`](#ak15dustcover), [`RPKDustCover`](#rpkdustcover), [`CollapsableMOEStock`](#collapsablemoestock), [`MagpulCTRStock`](#magpulctrstock), [`MilSpecStock`](#milspecstock), [`AK47Grip`](#ak47grip), [`AK101Grip`](#ak101grip), [`AKErgoGrip`](#akergogrip), [`AKaction`](#akaction), [`AK15Mag`](#ak15mag), [`AK47Mag`](#ak47mag), [`AK47PMAGTan`](#ak47pmagtan), [`AK50Mag`](#ak50mag), [`AK75Mag`](#ak75mag), [`AK100Mag`](#ak100mag), [`Silencer762x39`](#silencer762x39), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Specter`](#specter), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`Bipod`](#bipod), [`VGrip`](#vgrip), [`Extra`](#extra), [`AK15ironsight`](#ak15ironsight) |
+| Compatible Attachment | Stock: [`AK47Stock`](#ak47stock), Stock: [`AK101Stock`](#ak101stock), Railing: [`AKMDustCover`](#akmdustcover), Guard: [`AK47HandleGuard`](#ak47handleguard), Guard: [`AK101HandGuard`](#ak101handguard), Guard: [`AKMagpulHandleGuard`](#akmagpulhandleguard), Guard: [`AKMagpulHandleGuardTan`](#akmagpulhandleguardtan), Guard: [`MLOKHandguard`](#mlokhandguard), Guard: [`MLOKExtendedHandguard`](#mlokextendedhandguard), Guard: [`AK15HandleGuard`](#ak15handleguard), Guard: [`RPK16Handguard`](#rpk16handguard), Railing: [`AK101DustCover`](#ak101dustcover), Railing: [`VeprDustCover`](#veprdustcover), Railing: [`AK15DustCover`](#ak15dustcover), Railing: [`RPKDustCover`](#rpkdustcover), Stock: [`CollapsableMOEStock`](#collapsablemoestock), Stock: [`MagpulCTRStock`](#magpulctrstock), Stock: [`MilSpecStock`](#milspecstock), Backgrip: [`AK47Grip`](#ak47grip), Backgrip: [`AK101Grip`](#ak101grip), Backgrip: [`AKErgoGrip`](#akergogrip), [`AKaction`](#akaction), [`AK15Mag`](#ak15mag), [`AK47Mag`](#ak47mag), [`AK47PMAGTan`](#ak47pmagtan), [`AK50Mag`](#ak50mag), [`AK75Mag`](#ak75mag), [`AK100Mag`](#ak100mag), Grip: [`Silencer762x39`](#silencer762x39), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Scope: [`Specter`](#specter), Scope: [`Reflex`](#reflex), Scope: [`BijiaReflex`](#bijiareflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Grip: [`Grip2`](#grip2), Grip: [`StubbyGrip`](#stubbygrip), Grip: [`AngledGrip`](#angledgrip), Grip: [`Bipod`](#bipod), Grip: [`VGrip`](#vgrip), [`Extra`](#extra), Grip: [`AK15ironsight`](#ak15ironsight) |
 | Crosshair | Unknown |
 | Recoil | 3.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4821,7 +4821,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Placeholder`](#placeholder), [`GripPlaceholder`](#gripplaceholder), [`LaserPlaceholder`](#laserplaceholder), [`Extra`](#extra), [`AK12action`](#ak12action), [`AK12Mag`](#ak12mag), [`Silencer545x39`](#silencer545x39), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Specter`](#specter), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`EotechHybrid2`](#eotechhybrid2), [`Vortex`](#vortex), [`Kobra`](#kobra), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`Bipod`](#bipod), [`VGrip`](#vgrip), [`AK15ironsight`](#ak15ironsight) |
+| Compatible Attachment | Railing: [`Placeholder`](#placeholder), Frontsight: [`GripPlaceholder`](#gripplaceholder), Receiver: [`LaserPlaceholder`](#laserplaceholder), [`Extra`](#extra), [`AK12action`](#ak12action), [`AK12Mag`](#ak12mag), Grip: [`Silencer545x39`](#silencer545x39), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Scope: [`Specter`](#specter), Scope: [`Reflex`](#reflex), Scope: [`BijiaReflex`](#bijiareflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`EotechHybrid2`](#eotechhybrid2), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Grip: [`Grip2`](#grip2), Grip: [`StubbyGrip`](#stubbygrip), Grip: [`AngledGrip`](#angledgrip), Grip: [`Bipod`](#bipod), Grip: [`VGrip`](#vgrip), Grip: [`AK15ironsight`](#ak15ironsight) |
 | Crosshair | Unknown |
 | Recoil | 3.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -4959,7 +4959,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Extra`](#extra), [`Bipod`](#bipod), [`BrenMag`](#brenmag) |
+| Compatible Attachment | [`Extra`](#extra), Grip: [`Bipod`](#bipod), [`BrenMag`](#brenmag) |
 | Crosshair | Unknown |
 | Recoil | 2.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -5005,7 +5005,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`MA37Action`](#ma37action), [`MA37Mag`](#ma37mag), [`Silencer762x51`](#silencer762x51) |
+| Compatible Attachment | [`MA37Action`](#ma37action), [`MA37Mag`](#ma37mag), Grip: [`Silencer762x51`](#silencer762x51) |
 | Crosshair | Unknown |
 | Recoil | 1.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -5097,7 +5097,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`MP5A5HandGuard`](#mp5a5handguard), [`MP5SDHandGuard`](#mp5sdhandguard), [`MIMP5MHandGuard`](#mimp5mhandguard), [`UTGTriRailHandGuard`](#utgtrirailhandguard), [`MP5A3Stock`](#mp5a3stock), [`MP5A4Stock`](#mp5a4stock), [`MilSpecStock`](#milspecstock), [`MP5HOGUEGrip`](#mp5hoguegrip), [`MIMP5TRRail`](#mimp5trrail), [`MIMP5MRail`](#mimp5mrail), [`MP5A5action`](#mp5a5action), [`MP5A5Mag`](#mp5a5mag), [`HK50Drum`](#hk50drum), [`Extra`](#extra), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Specter`](#specter), [`Reflex`](#reflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`EotechHybrid2`](#eotechhybrid2), [`Vortex`](#vortex), [`Kobra`](#kobra), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`VGrip`](#vgrip), [`AngledGrip`](#angledgrip), [`Bipod`](#bipod), [`Laser`](#laser), [`Laser2`](#laser2), [`SilencerMP5`](#silencermp5) |
+| Compatible Attachment | Guard: [`MP5A5HandGuard`](#mp5a5handguard), Guard: [`MP5SDHandGuard`](#mp5sdhandguard), Guard: [`MIMP5MHandGuard`](#mimp5mhandguard), Guard: [`UTGTriRailHandGuard`](#utgtrirailhandguard), Stock: [`MP5A3Stock`](#mp5a3stock), Stock: [`MP5A4Stock`](#mp5a4stock), Stock: [`MilSpecStock`](#milspecstock), Backgrip: [`MP5HOGUEGrip`](#mp5hoguegrip), Railing: [`MIMP5TRRail`](#mimp5trrail), Railing: [`MIMP5MRail`](#mimp5mrail), [`MP5A5action`](#mp5a5action), [`MP5A5Mag`](#mp5a5mag), [`HK50Drum`](#hk50drum), [`Extra`](#extra), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Scope: [`Specter`](#specter), Scope: [`Reflex`](#reflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`EotechHybrid2`](#eotechhybrid2), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Grip: [`Grip2`](#grip2), Grip: [`StubbyGrip`](#stubbygrip), Grip: [`VGrip`](#vgrip), Grip: [`AngledGrip`](#angledgrip), Grip: [`Bipod`](#bipod), Grip: [`Laser`](#laser), Grip: [`Laser2`](#laser2), Grip: [`SilencerMP5`](#silencermp5) |
 | Crosshair | Unknown |
 | Recoil | 1.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -5143,7 +5143,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Placeholder`](#placeholder), [`SV98Mag`](#sv98mag), [`SV98BoltAction`](#sv98boltaction), [`SV98barrelpiece`](#sv98barrelpiece), [`Extra`](#extra), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Bipod`](#bipod), [`M4Rail`](#m4rail), [`Silencer762x54`](#silencer762x54) |
+| Compatible Attachment | Railing: [`Placeholder`](#placeholder), [`SV98Mag`](#sv98mag), [`SV98BoltAction`](#sv98boltaction), [`SV98barrelpiece`](#sv98barrelpiece), [`Extra`](#extra), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`Specter`](#specter), Scope: [`HP`](#hp), Scope: [`Reflex`](#reflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Grip: [`Bipod`](#bipod), [`M4Rail`](#m4rail), Grip: [`Silencer762x54`](#silencer762x54) |
 | Crosshair | Unknown |
 | Recoil | 6.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -5189,7 +5189,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`M249HandGuard`](#m249handguard), [`M249Stock`](#m249stock), [`Placeholder`](#placeholder), [`M249Action`](#m249action), [`M249Hatch`](#m249hatch), [`M249Belt`](#m249belt), [`M249Mag`](#m249mag), [`M4Rail`](#m4rail), [`Extra`](#extra), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`EotechHybrid2`](#eotechhybrid2), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`VGrip`](#vgrip), [`Laser2`](#laser2), [`Laser`](#laser) |
+| Compatible Attachment | Guard: [`M249HandGuard`](#m249handguard), Stock: [`M249Stock`](#m249stock), Railing: [`Placeholder`](#placeholder), [`M249Action`](#m249action), [`M249Hatch`](#m249hatch), [`M249Belt`](#m249belt), [`M249Mag`](#m249mag), [`M4Rail`](#m4rail), [`Extra`](#extra), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`Specter`](#specter), Scope: [`Reflex`](#reflex), Scope: [`BijiaReflex`](#bijiareflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`EotechHybrid2`](#eotechhybrid2), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Grip: [`Grip2`](#grip2), Grip: [`StubbyGrip`](#stubbygrip), Grip: [`AngledGrip`](#angledgrip), Grip: [`VGrip`](#vgrip), Grip: [`Laser2`](#laser2), Grip: [`Laser`](#laser) |
 | Crosshair | Unknown |
 | Recoil | 2.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -5235,7 +5235,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`PistolPlaceholder`](#pistolplaceholder), [`Glock19slide`](#glock19slide), [`Glock18CMag`](#glock18cmag), [`GlockMag13`](#glockmag13), [`GlockMag50`](#glockmag50), [`Laser`](#laser), [`GlockStock`](#glockstock), [`Silencer9mm`](#silencer9mm), [`GlockHOGUEGrip`](#glockhoguegrip), [`GlockHOGUEGripTan`](#glockhoguegriptan), [`FABDefenseMount`](#fabdefensemount), [`RMR`](#rmr), [`BijiaReflex`](#bijiareflex) |
+| Compatible Attachment | Guard: [`PistolPlaceholder`](#pistolplaceholder), [`Glock19slide`](#glock19slide), [`Glock18CMag`](#glock18cmag), [`GlockMag13`](#glockmag13), [`GlockMag50`](#glockmag50), Grip: [`Laser`](#laser), Grip: [`GlockStock`](#glockstock), Grip: [`Silencer9mm`](#silencer9mm), Backgrip: [`GlockHOGUEGrip`](#glockhoguegrip), Backgrip: [`GlockHOGUEGripTan`](#glockhoguegriptan), Railing: [`FABDefenseMount`](#fabdefensemount), Scope: [`RMR`](#rmr), Scope: [`BijiaReflex`](#bijiareflex) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -5327,7 +5327,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`BR55Action`](#br55action), [`BR55Mag`](#br55mag), [`BR55Scope`](#br55scope), [`Specter`](#specter), [`Reflex`](#reflex), [`Holographic`](#holographic), [`Vortex`](#vortex), [`Kobra`](#kobra) |
+| Compatible Attachment | [`BR55Action`](#br55action), [`BR55Mag`](#br55mag), Scope: [`BR55Scope`](#br55scope), Scope: [`Specter`](#specter), Scope: [`Reflex`](#reflex), Scope: [`Holographic`](#holographic), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra) |
 | Crosshair | Unknown |
 | Recoil | 1.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -5373,7 +5373,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Placeholder`](#placeholder), [`CollapsableMOEStock`](#collapsablemoestock), [`MagpulCTRStock`](#magpulctrstock), [`MilSpecStock`](#milspecstock), [`HK416Stock`](#hk416stock), [`HESCSpump`](#hescspump), [`RailAlt`](#railalt), [`ShotgunShell`](#shotgunshell), [`Extra`](#extra), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5) |
+| Compatible Attachment | Railing: [`Placeholder`](#placeholder), Stock: [`CollapsableMOEStock`](#collapsablemoestock), Stock: [`MagpulCTRStock`](#magpulctrstock), Stock: [`MilSpecStock`](#milspecstock), Stock: [`HK416Stock`](#hk416stock), [`HESCSpump`](#hescspump), [`RailAlt`](#railalt), [`ShotgunShell`](#shotgunshell), [`Extra`](#extra), Scope: [`ACOG`](#acog), Scope: [`Specter`](#specter), Scope: [`HP`](#hp), Scope: [`Reflex`](#reflex), Scope: [`BijiaReflex`](#bijiareflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5) |
 | Crosshair | Unknown |
 | Recoil | 9.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -5419,7 +5419,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`GripPlaceholder`](#gripplaceholder), [`DP28Mag`](#dp28mag), [`Extra`](#extra), [`Bipod`](#bipod) |
+| Compatible Attachment | Frontsight: [`GripPlaceholder`](#gripplaceholder), [`DP28Mag`](#dp28mag), [`Extra`](#extra), Grip: [`Bipod`](#bipod) |
 | Crosshair | Unknown |
 | Recoil | 4.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -5511,7 +5511,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`CollapsableMOEStock`](#collapsablemoestock), [`MagpulCTRStock`](#magpulctrstock), [`HeraArmsStock`](#heraarmsstock), [`MilSpecStock`](#milspecstock), [`HK416Stock`](#hk416stock), [`M16Stock`](#m16stock), [`MagpulCTRStockTan`](#magpulctrstocktan), [`MilSpecStockTan`](#milspecstocktan), [`HK416StockTan`](#hk416stocktan), [`M16StockTan`](#m16stocktan), [`M4FrontSight`](#m4frontsight), [`M38FrontSight`](#m38frontsight), [`M4HandGuard`](#m4handguard), [`M16HandGuard`](#m16handguard), [`M4MagpulHandGuard`](#m4magpulhandguard), [`M4MagpulHandGuardTan`](#m4magpulhandguardtan), [`M4CarbineHandGuard`](#m4carbinehandguard), [`Mk18HandGuard`](#mk18handguard), [`M38HandGuard`](#m38handguard), [`LVOAVHandGuard`](#lvoavhandguard), [`AR57Handguard`](#ar57handguard), [`M4Receiver`](#m4receiver), [`VLTORReceiver`](#vltorreceiver), [`AR57Receiver`](#ar57receiver), [`M4Grip`](#m4grip), [`M4GripTan`](#m4griptan), [`M4GripGray`](#m4gripgray), [`HeraArmsGrip`](#heraarmsgrip), [`M4A1Mag`](#m4a1mag), [`M38Mag`](#m38mag), [`Stanag50`](#stanag50), [`Stanag60`](#stanag60), [`Stanag100`](#stanag100), [`P90Mag`](#p90mag), [`AR15Action`](#ar15action), [`Extra`](#extra), [`AR15Iron`](#ar15iron), [`AKMIron`](#akmiron), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`HP`](#hp), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`EotechHybrid2`](#eotechhybrid2), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`RMR`](#rmr), [`Grip2`](#grip2), [`JunoGrip`](#junogrip), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`VGrip`](#vgrip), [`Bipod`](#bipod), [`Laser2`](#laser2), [`Laser`](#laser), [`Silencer556x45`](#silencer556x45) |
+| Compatible Attachment | Stock: [`CollapsableMOEStock`](#collapsablemoestock), Stock: [`MagpulCTRStock`](#magpulctrstock), Stock: [`HeraArmsStock`](#heraarmsstock), Stock: [`MilSpecStock`](#milspecstock), Stock: [`HK416Stock`](#hk416stock), Stock: [`M16Stock`](#m16stock), Stock: [`MagpulCTRStockTan`](#magpulctrstocktan), Stock: [`MilSpecStockTan`](#milspecstocktan), Stock: [`HK416StockTan`](#hk416stocktan), Stock: [`M16StockTan`](#m16stocktan), Frontsight: [`M4FrontSight`](#m4frontsight), Frontsight: [`M38FrontSight`](#m38frontsight), Guard: [`M4HandGuard`](#m4handguard), Guard: [`M16HandGuard`](#m16handguard), Guard: [`M4MagpulHandGuard`](#m4magpulhandguard), Guard: [`M4MagpulHandGuardTan`](#m4magpulhandguardtan), Guard: [`M4CarbineHandGuard`](#m4carbinehandguard), Guard: [`Mk18HandGuard`](#mk18handguard), Guard: [`M38HandGuard`](#m38handguard), Guard: [`LVOAVHandGuard`](#lvoavhandguard), Guard: [`AR57Handguard`](#ar57handguard), Receiver: [`M4Receiver`](#m4receiver), Receiver: [`VLTORReceiver`](#vltorreceiver), Receiver: [`AR57Receiver`](#ar57receiver), Backgrip: [`M4Grip`](#m4grip), Backgrip: [`M4GripTan`](#m4griptan), Backgrip: [`M4GripGray`](#m4gripgray), Backgrip: [`HeraArmsGrip`](#heraarmsgrip), [`M4A1Mag`](#m4a1mag), [`M38Mag`](#m38mag), [`Stanag50`](#stanag50), [`Stanag60`](#stanag60), [`Stanag100`](#stanag100), [`P90Mag`](#p90mag), [`AR15Action`](#ar15action), [`Extra`](#extra), [`AR15Iron`](#ar15iron), Grip: [`AKMIron`](#akmiron), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`Specter`](#specter), Scope: [`HP`](#hp), Scope: [`Reflex`](#reflex), Scope: [`BijiaReflex`](#bijiareflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`EotechHybrid2`](#eotechhybrid2), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Scope: [`RMR`](#rmr), Grip: [`Grip2`](#grip2), Grip: [`JunoGrip`](#junogrip), Grip: [`StubbyGrip`](#stubbygrip), Grip: [`AngledGrip`](#angledgrip), Grip: [`VGrip`](#vgrip), Grip: [`Bipod`](#bipod), Grip: [`Laser2`](#laser2), Grip: [`Laser`](#laser), Grip: [`Silencer556x45`](#silencer556x45) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -5557,7 +5557,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`GripPlaceholder`](#gripplaceholder), [`Placeholder`](#placeholder), [`LaserPlaceholder`](#laserplaceholder), [`MP7Mag`](#mp7mag), [`M4Rail`](#m4rail), [`AKMIron`](#akmiron), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Specter`](#specter), [`Reflex`](#reflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`EotechHybrid2`](#eotechhybrid2), [`Vortex`](#vortex), [`Kobra`](#kobra), [`Laser`](#laser), [`Laser2`](#laser2), [`SilencerMP7`](#silencermp7) |
+| Compatible Attachment | Frontsight: [`GripPlaceholder`](#gripplaceholder), Railing: [`Placeholder`](#placeholder), Receiver: [`LaserPlaceholder`](#laserplaceholder), [`MP7Mag`](#mp7mag), [`M4Rail`](#m4rail), Grip: [`AKMIron`](#akmiron), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Scope: [`Specter`](#specter), Scope: [`Reflex`](#reflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`EotechHybrid2`](#eotechhybrid2), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Grip: [`Laser`](#laser), Grip: [`Laser2`](#laser2), Grip: [`SilencerMP7`](#silencermp7) |
 | Crosshair | Unknown |
 | Recoil | 1.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -5603,7 +5603,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Placeholder`](#placeholder), [`GripPlaceholder`](#gripplaceholder), [`LaserPlaceholder`](#laserplaceholder), [`F2000Action`](#f2000action), [`M4A1Mag`](#m4a1mag), [`M38Mag`](#m38mag), [`Stanag50`](#stanag50), [`Stanag60`](#stanag60), [`Stanag100`](#stanag100), [`Extra`](#extra), [`AKMIron`](#akmiron), [`F2000Scope`](#f2000scope), [`NightRaider`](#nightraider), [`HP`](#hp), [`ACOG`](#acog), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Specter`](#specter), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`Silencer556x45`](#silencer556x45), [`M4Rail`](#m4rail) |
+| Compatible Attachment | Railing: [`Placeholder`](#placeholder), Frontsight: [`GripPlaceholder`](#gripplaceholder), Receiver: [`LaserPlaceholder`](#laserplaceholder), [`F2000Action`](#f2000action), [`M4A1Mag`](#m4a1mag), [`M38Mag`](#m38mag), [`Stanag50`](#stanag50), [`Stanag60`](#stanag60), [`Stanag100`](#stanag100), [`Extra`](#extra), Grip: [`AKMIron`](#akmiron), Scope: [`F2000Scope`](#f2000scope), Scope: [`NightRaider`](#nightraider), Scope: [`HP`](#hp), Scope: [`ACOG`](#acog), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Scope: [`Specter`](#specter), Scope: [`Reflex`](#reflex), Scope: [`BijiaReflex`](#bijiareflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Grip: [`Silencer556x45`](#silencer556x45), [`M4Rail`](#m4rail) |
 | Crosshair | Unknown |
 | Recoil | 1.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -5649,7 +5649,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Placeholder`](#placeholder), [`GripPlaceholder`](#gripplaceholder), [`LaserPlaceholder`](#laserplaceholder), [`Mk14EBRaction`](#mk14ebraction), [`Mk14EBRsight`](#mk14ebrsight), [`Mk14EBRMag`](#mk14ebrmag), [`M14Drum50`](#m14drum50), [`Silencer762x51`](#silencer762x51), [`Extra`](#extra), [`NightRaider`](#nightraider), [`HP`](#hp), [`ACOG`](#acog), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Specter`](#specter), [`Reflex`](#reflex), [`BijiaReflex`](#bijiareflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`Bipod`](#bipod), [`VGrip`](#vgrip), [`Laser2`](#laser2), [`Laser`](#laser), [`M4Rail`](#m4rail) |
+| Compatible Attachment | Railing: [`Placeholder`](#placeholder), Frontsight: [`GripPlaceholder`](#gripplaceholder), Receiver: [`LaserPlaceholder`](#laserplaceholder), [`Mk14EBRaction`](#mk14ebraction), [`Mk14EBRsight`](#mk14ebrsight), [`Mk14EBRMag`](#mk14ebrmag), [`M14Drum50`](#m14drum50), Grip: [`Silencer762x51`](#silencer762x51), [`Extra`](#extra), Scope: [`NightRaider`](#nightraider), Scope: [`HP`](#hp), Scope: [`ACOG`](#acog), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Scope: [`Specter`](#specter), Scope: [`Reflex`](#reflex), Scope: [`BijiaReflex`](#bijiareflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Grip: [`Grip2`](#grip2), Grip: [`StubbyGrip`](#stubbygrip), Grip: [`Bipod`](#bipod), Grip: [`VGrip`](#vgrip), Grip: [`Laser2`](#laser2), Grip: [`Laser`](#laser), [`M4Rail`](#m4rail) |
 | Crosshair | Unknown |
 | Recoil | 4.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -5695,7 +5695,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Placeholder`](#placeholder), [`MagnumChamber`](#magnumchamber), [`MagnumRail`](#magnumrail), [`RMR`](#rmr), [`BijiaReflex`](#bijiareflex) |
+| Compatible Attachment | Railing: [`Placeholder`](#placeholder), [`MagnumChamber`](#magnumchamber), [`MagnumRail`](#magnumrail), Scope: [`RMR`](#rmr), Scope: [`BijiaReflex`](#bijiareflex) |
 | Crosshair | Unknown |
 | Recoil | 3.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -5741,7 +5741,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`Placeholder`](#placeholder), [`GripPlaceholder`](#gripplaceholder), [`LaserPlaceholder`](#laserplaceholder), [`G36CMag`](#g36cmag), [`SL8Action`](#sl8action), [`NightRaider`](#nightraider), [`ACOG`](#acog), [`Specter`](#specter), [`Reflex`](#reflex), [`Holographic`](#holographic), [`HolographicAlt`](#holographicalt), [`Vortex`](#vortex), [`Kobra`](#kobra), [`MicroT1`](#microt1), [`AimpointCompM5`](#aimpointcompm5), [`Silencer556x45`](#silencer556x45), [`M4Rail`](#m4rail) |
+| Compatible Attachment | Railing: [`Placeholder`](#placeholder), Frontsight: [`GripPlaceholder`](#gripplaceholder), Receiver: [`LaserPlaceholder`](#laserplaceholder), [`G36CMag`](#g36cmag), [`SL8Action`](#sl8action), Scope: [`NightRaider`](#nightraider), Scope: [`ACOG`](#acog), Scope: [`Specter`](#specter), Scope: [`Reflex`](#reflex), Scope: [`Holographic`](#holographic), Scope: [`HolographicAlt`](#holographicalt), Scope: [`Vortex`](#vortex), Scope: [`Kobra`](#kobra), Scope: [`MicroT1`](#microt1), Scope: [`AimpointCompM5`](#aimpointcompm5), Grip: [`Silencer556x45`](#silencer556x45), [`M4Rail`](#m4rail) |
 | Crosshair | Unknown |
 | Recoil | 2.5 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -5787,7 +5787,7 @@ There are currently 120 weapons that's marked as `Gun` in the game! Here's the l
 | Load Iteration Time | 10 ticks (0.5 second) |
 | Ammo Smoke Particle Age Coefficient | 1.0 |
 | Unload Time | 10 ticks (0.5 second) |
-| Compatible Attachment | [`M500A2pump`](#m500a2pump), [`M4Rail`](#m4rail), [`ShotgunShell`](#shotgunshell), [`Grip2`](#grip2), [`StubbyGrip`](#stubbygrip), [`AngledGrip`](#angledgrip), [`VGrip`](#vgrip), [`Laser2`](#laser2), [`Laser`](#laser) |
+| Compatible Attachment | [`M500A2pump`](#m500a2pump), [`M4Rail`](#m4rail), [`ShotgunShell`](#shotgunshell), Grip: [`Grip2`](#grip2), Grip: [`StubbyGrip`](#stubbygrip), Grip: [`AngledGrip`](#angledgrip), Grip: [`VGrip`](#vgrip), Grip: [`Laser2`](#laser2), Grip: [`Laser`](#laser) |
 | Crosshair | Unknown |
 | Recoil | 9.0 |
 | Creative Tab | `AssaultRiflesTab` |
@@ -7074,7 +7074,7 @@ There are currently 120 scopes in the game! Here's the list of them:
 | ---- | ---- |
 | Max Stack Size | 1 |
 | Item ID | HPScope |
-| Category | Unknown |
+| Category | `scope` |
 | Zoom Range | FloatRange(first=0.22, second=0.02) |
 | Texture Name | Dummy.png |
 | Night Vision | false |
@@ -7424,7 +7424,7 @@ There are currently 120 scopes in the game! Here's the list of them:
 | ---- | ---- |
 | Max Stack Size | 1 |
 | Item ID | MA5Dcover |
-| Category | Unknown |
+| Category | `scope` |
 | Zoom Range | FloatRange(first=0.22, second=0.02) |
 | Texture Name | Dummy.png |
 | Night Vision | true |
@@ -7438,7 +7438,7 @@ There are currently 120 scopes in the game! Here's the list of them:
 | ---- | ---- |
 | Max Stack Size | 1 |
 | Item ID | F2000Scope |
-| Category | Unknown |
+| Category | `scope` |
 | Zoom Range | FloatRange(first=0.22, second=0.02) |
 | Texture Name | Dummy.png |
 | Night Vision | false |
@@ -7452,7 +7452,7 @@ There are currently 120 scopes in the game! Here's the list of them:
 | ---- | ---- |
 | Max Stack Size | 1 |
 | Item ID | NightRaiderScope |
-| Category | Unknown |
+| Category | `scope` |
 | Zoom Range | FloatRange(first=0.22, second=0.02) |
 | Texture Name | Dummy.png |
 | Night Vision | true |
@@ -7466,7 +7466,7 @@ There are currently 120 scopes in the game! Here's the list of them:
 | ---- | ---- |
 | Max Stack Size | 1 |
 | Item ID | DMRscope |
-| Category | Unknown |
+| Category | `scope` |
 | Zoom Range | FloatRange(first=0.22, second=0.1) |
 | Texture Name | Dummy.png |
 | Night Vision | false |
@@ -7620,7 +7620,7 @@ There are currently 120 scopes in the game! Here's the list of them:
 | ---- | ---- |
 | Max Stack Size | 1 |
 | Item ID | Acog |
-| Category | Unknown |
+| Category | `scope` |
 | Zoom Range | FloatRange(first=0.22, second=0.1) |
 | Texture Name | Dummy.png |
 | Night Vision | false |
@@ -7634,7 +7634,7 @@ There are currently 120 scopes in the game! Here's the list of them:
 | ---- | ---- |
 | Max Stack Size | 1 |
 | Item ID | Specter |
-| Category | Unknown |
+| Category | `scope` |
 | Zoom Range | FloatRange(first=0.22, second=0.1) |
 | Texture Name | Dummy.png |
 | Night Vision | false |
@@ -7648,7 +7648,7 @@ There are currently 120 scopes in the game! Here's the list of them:
 | ---- | ---- |
 | Max Stack Size | 1 |
 | Item ID | BR55scope |
-| Category | Unknown |
+| Category | `scope` |
 | Zoom Range | FloatRange(first=0.22, second=0.1) |
 | Texture Name | Dummy.png |
 | Night Vision | false |
@@ -7704,7 +7704,7 @@ There are currently 120 scopes in the game! Here's the list of them:
 | ---- | ---- |
 | Max Stack Size | 1 |
 | Item ID | AUGscope |
-| Category | Unknown |
+| Category | `scope` |
 | Zoom Range | FloatRange(first=0.22, second=0.02) |
 | Texture Name | Dummy.png |
 | Night Vision | false |
@@ -7872,7 +7872,7 @@ There are currently 120 scopes in the game! Here's the list of them:
 | ---- | ---- |
 | Max Stack Size | 1 |
 | Item ID | M202scope |
-| Category | Unknown |
+| Category | `scope` |
 | Zoom Range | FloatRange(first=0.22, second=0.02) |
 | Texture Name | Dummy.png |
 | Night Vision | false |

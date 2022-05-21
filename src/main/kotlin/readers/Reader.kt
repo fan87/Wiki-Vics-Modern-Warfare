@@ -1,5 +1,6 @@
 package readers
 
+import attachments
 import org.objectweb.asm.Opcodes
 import org.objectweb.asm.tree.AbstractInsnNode
 import org.objectweb.asm.tree.FieldInsnNode
@@ -71,12 +72,21 @@ object Reader {
             }
 
             return Pair(getPropertyName(field), (value as List<String>).map { originalName ->
+                val attachment = attachments.attachments[originalName]
+                val scope = attachments.scopes[originalName]
+                var category: String? = null
+                if (scope != null) {
+                    category = scope.category
+                }
+                if (attachment != null) {
+                    category = attachment.category
+                }
                 var ancherName = originalName
                 // Normalize it (if that's how you use this word)
                 ancherName = ancherName.lowercase()
                 ancherName = ancherName.replace(" ", "-")
                 ancherName = ancherName.replace(Regex("[^a-z-\\d]"), "")
-                "[`$originalName`](#$ancherName)"
+                "${(if (category == null) "" else category + ": ").lowercase().replaceFirstChar { it.uppercaseChar() }}[`$originalName`](#$ancherName)"
             }.joinToString(", "))
         }
         if (field.javaField!!.isAnnotationPresent(IngredientProperty::class.java)) {

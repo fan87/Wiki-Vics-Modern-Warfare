@@ -112,7 +112,7 @@ class Scope {
     var maxStackSize: Int = 1
 
     @FieldNameProperty var creativeTab: String? = null
-    @FieldNameProperty var category: String? = null
+    @FieldNameProperty var category: String = "scope"
 
     @Property("Crafting Materials")
     @IngredientProperty var crafting: List<String> = listOf()

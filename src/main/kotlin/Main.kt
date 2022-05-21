@@ -93,7 +93,7 @@ This document is unofficially generated! For more information, please check this
             // Normalize it (if that's how you use this word)
             ancherName = ancherName.lowercase()
             ancherName = ancherName.replace(" ", "-")
-            ancherName = ancherName.replace(Regex("[^a-z-]"), "")
+            ancherName = ancherName.replace(Regex("[^a-z-\\d]"), "")
 
             // Process duplicated ancher name
             var count = namesCount.getValue(ancherName) + 1
